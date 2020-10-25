@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603606462
+        "value": 1603652390
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 997500
+        "value": 1012500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 242394
+        "value": 249850
       },
       {
         "name": "Stats.EXP.casino",
@@ -2598,6 +2598,14 @@
         "achieved": 1
       },
       {
+        "name": "ACH_PLZ_ARCADE_BUGBYTESLEAVINGEARLYACCESS",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_BUGBYTESOVERTIME",
+        "achieved": 1
+      },
+      {
         "name": "ACH_PLZ_ARCADE_PLUCKAPALFRIENDSHIP",
         "achieved": 1
       },
@@ -2630,7 +2638,15 @@
         "achieved": 1
       },
       {
+        "name": "ACH_PLZ_ARCADE_LONELYGUNTOTALEFFICIENCY",
+        "achieved": 1
+      },
+      {
         "name": "ACH_PLZ_ARCADE_LONELYGUNCOURTSADJUOURNED",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_LONELYGUN",
         "achieved": 1
       },
       {
