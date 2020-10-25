@@ -9,12 +9,12 @@ URI encoding = 'ISO-8859-1'
 iconv UTF-8 -> ISO-8859-1
 iconv outlen=292 inlen=146
 converted 'http://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137' (ISO-8859-1) -> 'http://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137' (UTF-8)
---2020-10-25 08:05:48--  http://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137
+--2020-10-25 08:17:20--  http://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137
 Resolving api.steampowered.com (api.steampowered.com)... 104.64.155.245
 Caching api.steampowered.com => 104.64.155.245
 Connecting to api.steampowered.com (api.steampowered.com)|104.64.155.245|:80... connected.
 Created socket 4.
-Releasing 0x000055de46510030 (new refcount 1).
+Releasing 0x000055649c3ee030 (new refcount 1).
 
 ---request begin---
 GET /ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137 HTTP/1.1
@@ -29,9 +29,10 @@ HTTP request sent, awaiting response...
 ---response begin---
 HTTP/1.1 200 OK
 Content-Type: application/json; charset=UTF-8
+X-Akamai-Path-Stats: [1:1210:75790]
 Vary: Accept-Encoding
-Expires: Sun, 25 Oct 2020 12:06:46 GMT
-Date: Sun, 25 Oct 2020 12:05:48 GMT
+Expires: Sun, 25 Oct 2020 12:22:20 GMT
+Date: Sun, 25 Oct 2020 12:17:20 GMT
 Content-Length: 25797
 Connection: keep-alive
 
@@ -39,9 +40,10 @@ Connection: keep-alive
 
   HTTP/1.1 200 OK
   Content-Type: application/json; charset=UTF-8
+  X-Akamai-Path-Stats: [1:1210:75790]
   Vary: Accept-Encoding
-  Expires: Sun, 25 Oct 2020 12:06:46 GMT
-  Date: Sun, 25 Oct 2020 12:05:48 GMT
+  Expires: Sun, 25 Oct 2020 12:22:20 GMT
+  Date: Sun, 25 Oct 2020 12:17:20 GMT
   Content-Length: 25797
   Connection: keep-alive
 Registered socket 4 for persistent reuse.
@@ -49,7 +51,7 @@ URI content encoding = 'UTF-8'
 Length: 25797 (25K) [application/json]
 Saving to: '/dev/stdout'
 
-     0K .......... .......... .....                           100% 2.95M=0.008s
+     0K .......... .......... .....                           100% 2.99M=0.008s
 
-2020-10-25 08:05:48 (2.95 MB/s) - '/dev/stdout' saved [25797/25797]
+2020-10-25 08:17:20 (2.99 MB/s) - '/dev/stdout' saved [25797/25797]
 
