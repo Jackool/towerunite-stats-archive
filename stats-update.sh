@@ -12,4 +12,4 @@ sed -i "s/$steamAPIKey/SNIPPED/g" 76561198096770137/stats.log
 
 jq '.' 76561198096770137/stats.json > 76561198096770137/stats.formatted.json
 
-(git add -A && git commit -m "Automatically update git repo with timestamps when stats-update.sh runs $timeISO" && git push -u origin main) || true
+(git add -A && git commit -m "$timeISO" && git push -u origin main) || true
