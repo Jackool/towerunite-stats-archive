@@ -8,22 +8,22 @@ Reading HSTS entries from /home/jackool/.wget-hsts
 URI encoding = 'ISO-8859-1'
 iconv UTF-8 -> ISO-8859-1
 iconv outlen=294 inlen=147
-converted 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137' (ISO-8859-1) -> 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137' (UTF-8)
---2020-10-25 08:47:52--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137
+converted 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198056506073' (ISO-8859-1) -> 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198056506073' (UTF-8)
+--2020-10-25 08:47:53--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198056506073
 Resolving api.steampowered.com (api.steampowered.com)... 104.64.155.245
 Caching api.steampowered.com => 104.64.155.245
 Connecting to api.steampowered.com (api.steampowered.com)|104.64.155.245|:443... connected.
 Created socket 4.
-Releasing 0x000056397a075720 (new refcount 1).
+Releasing 0x000055b946959720 (new refcount 1).
 Initiating SSL handshake.
-Handshake successful; connected socket 4 to SSL handle 0x000056397a075910
+Handshake successful; connected socket 4 to SSL handle 0x000055b946959910
 certificate:
   subject: CN=store.steampowered.com,O=Valve Corp,L=Bellevue,ST=Washington,C=US,serialNumber=602 290 773,jurisdictionST=Washington,jurisdictionC=US,businessCategory=Private Organization
   issuer:  CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US
 X509 certificate successfully verified and matches host api.steampowered.com
 
 ---request begin---
-GET /ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137 HTTP/1.1
+GET /ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198056506073 HTTP/1.1
 User-Agent: Wget/1.20.3 (linux-gnu)
 Accept: */*
 Accept-Encoding: identity
@@ -36,9 +36,9 @@ HTTP request sent, awaiting response...
 HTTP/1.1 200 OK
 Content-Type: application/json; charset=UTF-8
 Vary: Accept-Encoding
-Expires: Sun, 25 Oct 2020 12:52:53 GMT
-Date: Sun, 25 Oct 2020 12:47:53 GMT
-Content-Length: 25797
+Expires: Sun, 25 Oct 2020 12:52:54 GMT
+Date: Sun, 25 Oct 2020 12:47:54 GMT
+Content-Length: 37139
 Connection: keep-alive
 
 ---response end---
@@ -46,16 +46,16 @@ Connection: keep-alive
   HTTP/1.1 200 OK
   Content-Type: application/json; charset=UTF-8
   Vary: Accept-Encoding
-  Expires: Sun, 25 Oct 2020 12:52:53 GMT
-  Date: Sun, 25 Oct 2020 12:47:53 GMT
-  Content-Length: 25797
+  Expires: Sun, 25 Oct 2020 12:52:54 GMT
+  Date: Sun, 25 Oct 2020 12:47:54 GMT
+  Content-Length: 37139
   Connection: keep-alive
 Registered socket 4 for persistent reuse.
 URI content encoding = 'UTF-8'
-Length: 25797 (25K) [application/json]
+Length: 37139 (36K) [application/json]
 Saving to: '/dev/stdout'
 
-     0K .......... .......... .....                           100% 2.81M=0.009s
+     0K .......... .......... .......... ......               100% 4.18M=0.008s
 
-2020-10-25 08:47:53 (2.81 MB/s) - '/dev/stdout' saved [25797/25797]
+2020-10-25 08:47:54 (4.18 MB/s) - '/dev/stdout' saved [37139/37139]
 
