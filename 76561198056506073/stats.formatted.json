@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603742366
+        "value": 1603749260
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -93,15 +93,15 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 1515
+        "value": 1557
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 4617
+        "value": 4691
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
-        "value": 3002
+        "value": 3006
       },
       {
         "name": "Stats.GameW.BallRace.NimbusCompleted",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 390067
+        "value": 393479
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 77917
+        "value": 78931
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 29063
+        "value": 29192
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -625,11 +625,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 1365445
+        "value": 1383265
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1037500
+        "value": 1047500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 256406
+        "value": 256690
       },
       {
         "name": "Stats.EXP.casino",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 42750
+        "value": 46600
       },
       {
         "name": "Stats.EXP.condo",
@@ -693,7 +693,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 96
+        "value": 100
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -945,7 +945,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 76674
+        "value": 78172
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 95408
+        "value": 97446
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 9559
+        "value": 9602
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
-        "value": 2378
+        "value": 2515
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
-        "value": 1735
+        "value": 1764
       },
       {
         "name": "Stats.Plaza.Minigames.BalloonsPopped",
@@ -1057,7 +1057,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Target.TotalScore",
-        "value": 61905
+        "value": 63010
       },
       {
         "name": "Stats.Plaza.Minigames.Fruit.TotalScore",
@@ -1125,7 +1125,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.ReefButterflyfish",
-        "value": 2
+        "value": 3
       },
       {
         "name": "Stats.Plaza.Fishing.RedtailNotho",
@@ -1205,7 +1205,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Oreochromis",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.Pike",
@@ -1280,12 +1280,16 @@
         "value": 1
       },
       {
+        "name": "Stats.Plaza.Fishing.LargeTigerBarb",
+        "value": 1
+      },
+      {
         "name": "Stats.GameW.BallRace.EventHorizonCompleted",
-        "value": 6
+        "value": 9
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonMelons",
-        "value": 162
+        "value": 236
       },
       {
         "name": "Stats.Plaza.Fishing.Tire",
@@ -1325,7 +1329,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenPottedPlant",
-        "value": 2
+        "value": 3
       },
       {
         "name": "Stats.Plaza.Fishing.ShoppingCart",
@@ -1445,7 +1449,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetPiano.BestScore",
-        "value": 1634
+        "value": 1764
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.BestScore",
@@ -1509,7 +1513,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 1848
+        "value": 2609
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -1597,7 +1601,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 183
+        "value": 194
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1605,11 +1609,11 @@
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 165
+        "value": 168
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 1385226
+        "value": 1394884
       }
     ],
     "achievements": [
@@ -2307,6 +2311,10 @@
       },
       {
         "name": "ACH_PLZ_FISHING_CATCH20FISH",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_FISHING_CATCH100FISH",
         "achieved": 1
       },
       {
