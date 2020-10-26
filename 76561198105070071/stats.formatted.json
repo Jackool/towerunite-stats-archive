@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603727185
+        "value": 1603728856
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -37,19 +37,19 @@
       },
       {
         "name": "Stats.Stores.Furniture.NumVisits",
-        "value": 19
+        "value": 21
       },
       {
         "name": "Stats.Stores.Electronics.NumVisits",
-        "value": 24
+        "value": 27
       },
       {
         "name": "Stats.Stores.Thrift.NumVisits",
-        "value": 32
+        "value": 33
       },
       {
         "name": "Stats.Stores.Music.NumVisits",
-        "value": 14
+        "value": 15
       },
       {
         "name": "Stats.Stores.Fishing.NumVisits",
@@ -57,7 +57,7 @@
       },
       {
         "name": "Stats.Stores.Seasonal.NumVisits",
-        "value": 44
+        "value": 46
       },
       {
         "name": "Stats.Stores.Bowling.NumVisits",
@@ -77,7 +77,7 @@
       },
       {
         "name": "Stats.Stores.Nature.NumVisits",
-        "value": 39
+        "value": 40
       },
       {
         "name": "Stats.Stores.Beach.NumVisits",
@@ -89,7 +89,7 @@
       },
       {
         "name": "Stats.Stores.CondoRealtor.NumVisits",
-        "value": 20
+        "value": 21
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3563364
+        "value": 3565791
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2088367
+        "value": 2089031
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 373360
+        "value": 373480
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 846
+        "value": 858
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 2856390
+        "value": 4291730
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 604
+        "value": 605
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 7919500
+        "value": 7924500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 465370
+        "value": 465372
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2327756
+        "value": 2328140
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1157,7 +1157,7 @@
       },
       {
         "name": "Stats.Stores.DIY.NumVisits",
-        "value": 17
+        "value": 18
       },
       {
         "name": "Stats.Plaza.Fishing.ReefButterflyfish",
@@ -2081,11 +2081,11 @@
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 556
+        "value": 576
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 1624514
+        "value": 1654514
       }
     ],
     "achievements": [
