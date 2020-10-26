@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 470813
+        "value": 471651
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 141393
+        "value": 141741
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 14493
+        "value": 14510
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -849,11 +849,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 50482
+        "value": 50790
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 270129
+        "value": 270132
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -869,7 +869,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 4395
+        "value": 4573
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -893,7 +893,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.PumpkinsSmashed",
-        "value": 766
+        "value": 925
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
@@ -937,7 +937,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
-        "value": 24920
+        "value": 30920
       },
       {
         "name": "Stats.Plaza.Minigames.Food.TotalScore",
@@ -1093,7 +1093,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRig.BestScore",
-        "value": 139
+        "value": 146
       },
       {
         "name": "Stats.Plaza.Arcade.StackEm.BestScore",
@@ -1153,7 +1153,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 1367
+        "value": 1398
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1205,7 +1205,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 192
+        "value": 197
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",

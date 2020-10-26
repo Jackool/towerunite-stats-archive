@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 389526
+        "value": 389964
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 77679
+        "value": 77852
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 29039
+        "value": 29055
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 95181
+        "value": 95408
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1597,7 +1597,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 178
+        "value": 179
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
