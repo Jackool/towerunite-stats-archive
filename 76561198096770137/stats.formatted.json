@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 458489
+        "value": 459869
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 134327
+        "value": 134572
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 14058
+        "value": 14068
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Plaza.TypingDerby.Words",
-        "value": 3050
+        "value": 3278
       },
       {
         "name": "Stats.Condo.TVTime",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.EXP.tderby",
-        "value": 163401
+        "value": 171951
       },
       {
         "name": "Stats.EXP.bowling",
@@ -857,7 +857,7 @@
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
-        "value": 3048
+        "value": 3231
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
@@ -1205,7 +1205,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 167
+        "value": 170
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",

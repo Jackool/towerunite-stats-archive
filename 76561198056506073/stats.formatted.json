@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603657146
+        "value": 1603671493
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 387105
+        "value": 389526
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 77486
+        "value": 77679
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 28951
+        "value": 29039
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1032500
+        "value": 1037500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 31550
+        "value": 42750
       },
       {
         "name": "Stats.EXP.condo",
@@ -693,7 +693,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 74
+        "value": 96
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
-        "value": 1151
+        "value": 2378
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
@@ -1125,7 +1125,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.ReefButterflyfish",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.RedtailNotho",
@@ -1133,11 +1133,23 @@
       },
       {
         "name": "Stats.Plaza.Fishing.ClownLoach",
-        "value": 3
+        "value": 4
+      },
+      {
+        "name": "Stats.Plaza.Fishing.DesjardinSailfinTang",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.BlueTang",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.RedZebraCichlid",
+        "value": 1
       },
       {
         "name": "Stats.Plaza.Fishing.DemasoniCichlid",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.BlueArowana",
@@ -1145,6 +1157,10 @@
       },
       {
         "name": "Stats.Plaza.Fishing.OrangeSurgeon",
+        "value": 2
+      },
+      {
+        "name": "Stats.Plaza.Fishing.YellowLakeMalawiCichlid",
         "value": 1
       },
       {
@@ -1157,7 +1173,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.ButterflyFish",
-        "value": 2
+        "value": 3
       },
       {
         "name": "Stats.Plaza.Fishing.EmperorAngelfish",
@@ -1176,8 +1192,12 @@
         "value": 1
       },
       {
-        "name": "Stats.Plaza.Fishing.MurexShellfish",
+        "name": "Stats.Plaza.Fishing.MoorishIdol",
         "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.MurexShellfish",
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.Mussel",
@@ -1193,6 +1213,10 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Piranha",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.PowderblueTang",
         "value": 1
       },
       {
@@ -1217,11 +1241,11 @@
       },
       {
         "name": "Stats.Plaza.Fishing.TigerBarb",
-        "value": 1
+        "value": 3
       },
       {
         "name": "Stats.Plaza.Fishing.ElectricBlueJackDempsey",
-        "value": 1
+        "value": 3
       },
       {
         "name": "Stats.Plaza.Fishing.LargeAtlanticCod",
@@ -1285,7 +1309,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.OldNewspaper",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.PlasticStraw",
@@ -1313,7 +1337,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.HomeCookingMagazine",
-        "value": 2
+        "value": 4
       },
       {
         "name": "Stats.Plaza.Fishing.CrosswordMagazine",
@@ -1325,7 +1349,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Broom",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.SoggyCardboardBox",
@@ -1577,7 +1601,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 315
+        "value": 325
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
@@ -1585,7 +1609,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 1350226
+        "value": 1385226
       }
     ],
     "achievements": [
