@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603684505
+        "value": 1603690265
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 465196
+        "value": 470600
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 137048
+        "value": 140953
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 14324
+        "value": 14485
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -269,19 +269,19 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Eliminations",
-        "value": 45
+        "value": 46
       },
       {
         "name": "Stats.Plaza.LaserTag.Tags",
-        "value": 92
+        "value": 96
       },
       {
         "name": "Stats.Plaza.LaserTag.Wins",
-        "value": 87
+        "value": 88
       },
       {
         "name": "Stats.Plaza.TypingDerby.Words",
-        "value": 3278
+        "value": 3355
       },
       {
         "name": "Stats.Condo.TVTime",
@@ -549,11 +549,11 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1230501
+        "value": 1243001
       },
       {
         "name": "Stats.EXP.ltag",
-        "value": 616511
+        "value": 620576
       },
       {
         "name": "Stats.EXP.trivia",
@@ -561,7 +561,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 30703
+        "value": 30734
       },
       {
         "name": "Stats.EXP.casino",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.EXP.tderby",
-        "value": 171951
+        "value": 176301
       },
       {
         "name": "Stats.EXP.bowling",
@@ -841,7 +841,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Playtime",
-        "value": 2770
+        "value": 3201
       },
       {
         "name": "Stats.Plaza.Trivia.Playtime",
@@ -849,7 +849,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 50264
+        "value": 50482
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -857,7 +857,7 @@
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
-        "value": 3231
+        "value": 3336
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
@@ -869,7 +869,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 3383
+        "value": 4395
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -881,7 +881,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
-        "value": 177
+        "value": 239
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
@@ -893,11 +893,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.PumpkinsSmashed",
-        "value": 619
+        "value": 766
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
-        "value": 759
+        "value": 925
       },
       {
         "name": "Stats.Plaza.LaserTag.BestScore",
@@ -905,7 +905,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.TotalScore",
-        "value": 8145
+        "value": 8550
       },
       {
         "name": "Stats.Plaza.Trivia.BestScore",
@@ -937,15 +937,15 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
-        "value": 19420
+        "value": 24920
       },
       {
         "name": "Stats.Plaza.Minigames.Food.TotalScore",
-        "value": 2000
+        "value": 4750
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
-        "value": 56204
+        "value": 67794
       },
       {
         "name": "Stats.Plaza.Minigames.Target.BestScore",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Food.BestScore",
-        "value": 2000
+        "value": 2750
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.BestScore",
@@ -1061,11 +1061,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Chainsaw.BestScore",
-        "value": 5760
+        "value": 9000
       },
       {
         "name": "Stats.Plaza.Minigames.Chainsaw.TotalScore",
-        "value": 5760
+        "value": 16650
       },
       {
         "name": "Stats.Plaza.Minigames.BoozeBash.TotalScore",
@@ -1081,7 +1081,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.ChainsawDeathmatchKills",
-        "value": 192
+        "value": 555
       },
       {
         "name": "Stats.GameW.ZombieMassacre.VillagePlays",
@@ -1153,7 +1153,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 1361
+        "value": 1367
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1205,19 +1205,19 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 182
+        "value": 192
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 186
+        "value": 290
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 200
+        "value": 275
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 951424
+        "value": 1354869
       }
     ],
     "achievements": [
