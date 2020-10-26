@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603697398
+        "value": 1603742366
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -93,15 +93,15 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 1484
+        "value": 1515
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 4570
+        "value": 4617
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
-        "value": 3001
+        "value": 3002
       },
       {
         "name": "Stats.GameW.BallRace.NimbusCompleted",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 389964
+        "value": 390067
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 77852
+        "value": 77917
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 29055
+        "value": 29063
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 1342477
+        "value": 1365445
       },
       {
         "name": "Stats.EXP.plaza",
@@ -945,7 +945,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 75410
+        "value": 76674
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1281,11 +1281,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompleted",
-        "value": 4
+        "value": 6
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonMelons",
-        "value": 115
+        "value": 162
       },
       {
         "name": "Stats.Plaza.Fishing.Tire",
@@ -1597,7 +1597,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 179
+        "value": 183
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
