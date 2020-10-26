@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603709705
+        "value": 1603727033
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,11 +169,11 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 473733
+        "value": 474077
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 143434
+        "value": 143485
       },
       {
         "name": "Stats.Plaza.Jumps",
@@ -1213,11 +1213,11 @@
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 341
+        "value": 343
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 1567873
+        "value": 1569873
       }
     ],
     "achievements": [
