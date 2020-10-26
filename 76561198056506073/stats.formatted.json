@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603671493
+        "value": 1603697398
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -317,11 +317,11 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 497
+        "value": 499
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 3391
+        "value": 3393
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 256386
+        "value": 256406
       },
       {
         "name": "Stats.EXP.casino",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1988006
+        "value": 1988603
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
