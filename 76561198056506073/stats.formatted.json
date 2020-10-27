@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 13583
+        "value": 13584
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603749260
+        "value": 1603763652
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -313,11 +313,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 873960
+        "value": 874251
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 501
+        "value": 503
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1047500
+        "value": 1050000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 256690
+        "value": 256765
       },
       {
         "name": "Stats.EXP.casino",
@@ -669,7 +669,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 3937000
+        "value": 3947000
       },
       {
         "name": "Stats.EXP.virus",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1989310
+        "value": 1997613
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1613,7 +1613,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 1394884
+        "value": 1430838
       }
     ],
     "achievements": [

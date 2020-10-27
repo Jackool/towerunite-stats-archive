@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603746759
+        "value": 1603763706
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 488954
+        "value": 491293
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 150769
+        "value": 152225
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 14955
+        "value": 14993
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 234
+        "value": 235
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -549,7 +549,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1275501
+        "value": 1278001
       },
       {
         "name": "Stats.EXP.ltag",
@@ -829,7 +829,7 @@
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
-        "value": 1405
+        "value": 4083
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
@@ -865,15 +865,15 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 137596
+        "value": 137598
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 7064
+        "value": 7557
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 530282
+        "value": 531048
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -893,11 +893,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.PumpkinsSmashed",
-        "value": 1236
+        "value": 1385
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
-        "value": 1917
+        "value": 2239
       },
       {
         "name": "Stats.Plaza.LaserTag.BestScore",
@@ -937,7 +937,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
-        "value": 41550
+        "value": 47250
       },
       {
         "name": "Stats.Plaza.Minigames.Food.TotalScore",
@@ -945,7 +945,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
-        "value": 138909
+        "value": 160947
       },
       {
         "name": "Stats.Plaza.Minigames.Target.BestScore",
@@ -1205,19 +1205,19 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 224
+        "value": 228
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 429
+        "value": 521
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 459
+        "value": 479
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 2168529
+        "value": 2465137
       }
     ],
     "achievements": [
