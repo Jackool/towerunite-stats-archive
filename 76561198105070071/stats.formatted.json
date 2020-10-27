@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3654206
+        "value": 3654348
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2092654
+        "value": 2092845
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 373759
+        "value": 373781
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -2085,7 +2085,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 1686514
+        "value": 1691514
       }
     ],
     "achievements": [

@@ -61,7 +61,7 @@
       },
       {
         "name": "Stats.Stores.Bowling.NumVisits",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Stores.BowlingCustom.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 494185
+        "value": 498075
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 154414
+        "value": 154989
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 15078
+        "value": 15094
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -213,19 +213,19 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Wins",
-        "value": 21
+        "value": 24
       },
       {
         "name": "Stats.Plaza.Trivia.QuestionsCorrect",
-        "value": 287
+        "value": 392
       },
       {
         "name": "Stats.Plaza.Trivia.FullGame",
-        "value": 48
+        "value": 52
       },
       {
         "name": "Stats.Plaza.Trivia.ComboFire",
-        "value": 152
+        "value": 243
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
@@ -549,7 +549,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1293001
+        "value": 1295501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -829,7 +829,7 @@
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
-        "value": 4083
+        "value": 6662
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
@@ -845,15 +845,15 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Playtime",
-        "value": 1724
+        "value": 2506
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 54945
+        "value": 55314
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 270132
+        "value": 270158
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -909,11 +909,11 @@
       },
       {
         "name": "Stats.Plaza.Trivia.BestScore",
-        "value": 9850
+        "value": 9950
       },
       {
         "name": "Stats.Plaza.Trivia.TotalScore",
-        "value": 153200
+        "value": 192800
       },
       {
         "name": "Stats.Plaza.Bowling.TotalScore",
@@ -1205,7 +1205,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 232
+        "value": 237
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
