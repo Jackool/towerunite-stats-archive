@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603778308
+        "value": 1603785476
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -165,19 +165,19 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 557135
+        "value": 559445
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 187409
+        "value": 187627
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 16489
+        "value": 16511
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 207
+        "value": 208
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 642552
+        "value": 704152
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -561,7 +561,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1695500
+        "value": 1698000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1465960
+        "value": 1466480
       },
       {
         "name": "Stats.EXP.casino",
@@ -865,7 +865,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 212728
+        "value": 214743
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Stores.DIY.NumVisits",
-        "value": 10
+        "value": 11
       },
       {
         "name": "Stats.Plaza.Fishing.ReefButterflyfish",
@@ -1737,7 +1737,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 279
+        "value": 300
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
