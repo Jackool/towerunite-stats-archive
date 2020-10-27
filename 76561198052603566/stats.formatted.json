@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603792584
+        "value": 1603799373
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -561,7 +561,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1700500
+        "value": 1713000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1466870
+        "value": 1469078
       },
       {
         "name": "Stats.EXP.casino",
@@ -1749,7 +1749,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3277913
+        "value": 3282913
       }
     ],
     "achievements": [
@@ -2479,6 +2479,10 @@
       },
       {
         "name": "ACH_PLZ_ARCADE_PLUCKAPALVIP",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_NEWTONAPPLESGRAVITY",
         "achieved": 1
       },
       {
