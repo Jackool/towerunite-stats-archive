@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603728856
+        "value": 1603755793
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3565791
+        "value": 3566397
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2089031
+        "value": 2089685
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 373480
+        "value": 373569
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1106476
+        "value": 1106656
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 7924500
+        "value": 7957000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -993,7 +993,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 299221
+        "value": 299240
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 465372
+        "value": 465374
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2328140
+        "value": 2328320
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2081,11 +2081,11 @@
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 576
+        "value": 599
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 1654514
+        "value": 1677514
       }
     ],
     "achievements": [
