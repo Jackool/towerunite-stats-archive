@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 393644
+        "value": 394862
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 78938
+        "value": 79085
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 29198
+        "value": 29308
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -197,7 +197,7 @@
       },
       {
         "name": "Stats.Plaza.Markers",
-        "value": 63
+        "value": 64
       },
       {
         "name": "Stats.Plaza.PhotoShoots",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 97446
+        "value": 97462
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -993,11 +993,11 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 28928
+        "value": 28988
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 9602
+        "value": 9692
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
-        "value": 1601
+        "value": 1661
       },
       {
         "name": "Stats.Plaza.LaserTag.BestScore",
@@ -1077,7 +1077,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
-        "value": 113671
+        "value": 117640
       },
       {
         "name": "Stats.Plaza.Minigames.Target.BestScore",
@@ -1601,11 +1601,11 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 194
+        "value": 197
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 325
+        "value": 335
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
