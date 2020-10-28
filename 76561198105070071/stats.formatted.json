@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 31686
+        "value": 31738
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603907919
+        "value": 1603908115
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3654385
+        "value": 3655942
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2092884
+        "value": 2093966
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 373781
+        "value": 373826
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 351390
+        "value": 351420
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1149303
+        "value": 1152659
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 8184
+        "value": 8201
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8224500
+        "value": 8227000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -657,11 +657,11 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 1294750
+        "value": 1309100
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4154000
+        "value": 4161500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -689,7 +689,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 2605
+        "value": 2634
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -957,7 +957,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 12768
+        "value": 12772
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 227191
+        "value": 227273
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 465380
+        "value": 465382
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2372271
+        "value": 2375627
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1173,7 +1173,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.ClownLoach",
-        "value": 14
+        "value": 15
       },
       {
         "name": "Stats.Plaza.Fishing.RoyalAngelfish",
@@ -1189,7 +1189,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.BlueTang",
-        "value": 10
+        "value": 11
       },
       {
         "name": "Stats.Plaza.Fishing.RedZebraCichlid",
@@ -1205,7 +1205,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.DemasoniCichlid",
-        "value": 7
+        "value": 8
       },
       {
         "name": "Stats.Plaza.Fishing.BlueArowana",
@@ -1497,7 +1497,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.LargeOyster",
-        "value": 40
+        "value": 41
       },
       {
         "name": "Stats.Plaza.Fishing.LargePeacockBass",
@@ -1533,11 +1533,11 @@
       },
       {
         "name": "Stats.Plaza.Fishing.LargeRedKnobStarfish",
-        "value": 34
+        "value": 35
       },
       {
         "name": "Stats.Plaza.Fishing.LargeCommonStarfish",
-        "value": 29
+        "value": 30
       },
       {
         "name": "Stats.Plaza.Fishing.LargeTrout",
@@ -1741,15 +1741,15 @@
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenSodaCan",
-        "value": 40
+        "value": 41
       },
       {
         "name": "Stats.Plaza.Fishing.UsedCoffeeCup",
-        "value": 29
+        "value": 30
       },
       {
         "name": "Stats.Plaza.Fishing.Cigs",
-        "value": 27
+        "value": 30
       },
       {
         "name": "Stats.Plaza.Fishing.RuinedPaperTicket",
@@ -1757,11 +1757,11 @@
       },
       {
         "name": "Stats.Plaza.Fishing.CandyWrapper",
-        "value": 46
+        "value": 48
       },
       {
         "name": "Stats.Plaza.Fishing.OldNewspaper",
-        "value": 41
+        "value": 42
       },
       {
         "name": "Stats.Plaza.Fishing.TrashBag",
@@ -1769,7 +1769,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.PlasticStraw",
-        "value": 41
+        "value": 42
       },
       {
         "name": "Stats.Plaza.Fishing.BarrelofTrash",
@@ -1777,7 +1777,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.WoodenPalette",
-        "value": 42
+        "value": 43
       },
       {
         "name": "Stats.Plaza.Fishing.TrashCanLid",
@@ -1785,11 +1785,11 @@
       },
       {
         "name": "Stats.Plaza.Fishing.PlasticToyblock",
-        "value": 44
+        "value": 45
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenPottedPlant",
-        "value": 43
+        "value": 44
       },
       {
         "name": "Stats.Plaza.Fishing.ShoppingCart",
@@ -1801,7 +1801,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.HomeCookingMagazine",
-        "value": 34
+        "value": 35
       },
       {
         "name": "Stats.Plaza.Fishing.CrosswordMagazine",
@@ -1809,15 +1809,15 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Cooler",
-        "value": 44
+        "value": 45
       },
       {
         "name": "Stats.Plaza.Fishing.Broom",
-        "value": 40
+        "value": 41
       },
       {
         "name": "Stats.Plaza.Fishing.SoggyCardboardBox",
-        "value": 36
+        "value": 38
       },
       {
         "name": "Stats.Plaza.Minigames.Chainsaw.BestScore",

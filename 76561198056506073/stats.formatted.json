@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603877625
+        "value": 1603914317
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 396690
+        "value": 397491
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 79735
+        "value": 79904
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 29447
+        "value": 29502
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 257122
+        "value": 257154
       },
       {
         "name": "Stats.EXP.casino",
@@ -981,7 +981,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 97839
+        "value": 98043
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1505,7 +1505,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.Basket",
-        "value": 5158
+        "value": 5166
       },
       {
         "name": "Stats.Plaza.Arcade.Offering.CenterCup",
@@ -1525,7 +1525,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 2974
+        "value": 3078
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -1613,11 +1613,11 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 241
+        "value": 242
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 345
+        "value": 374
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
@@ -1625,7 +1625,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 1465838
+        "value": 1538338
       }
     ],
     "achievements": [

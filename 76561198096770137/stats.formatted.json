@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603907520
+        "value": 1603915161
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 538510
+        "value": 544106
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 160061
+        "value": 161673
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 16224
+        "value": 16259
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -549,7 +549,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1420501
+        "value": 1438001
       },
       {
         "name": "Stats.EXP.ltag",
@@ -561,7 +561,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 37391
+        "value": 46681
       },
       {
         "name": "Stats.EXP.casino",
@@ -857,7 +857,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 85925
+        "value": 90680
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1125,7 +1125,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.BestScore",
-        "value": 1775
+        "value": 3600
       },
       {
         "name": "Stats.Plaza.Arcade.Offering.BestScore",
@@ -1177,7 +1177,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.Basket",
-        "value": 14
+        "value": 359
       },
       {
         "name": "Stats.Plaza.Arcade.BugBytes.BugsDestroyed",
@@ -1213,19 +1213,19 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 290
+        "value": 296
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 734
+        "value": 783
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 593
+        "value": 634
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3312644
+        "value": 3472256
       }
     ],
     "achievements": [
@@ -1855,6 +1855,10 @@
       },
       {
         "name": "ACH_PLZ_ARCADE_LBFEEDERSDELICIOUS",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_LBFEEDERSKNIGHTOFTHEBIRD",
         "achieved": 1
       },
       {
