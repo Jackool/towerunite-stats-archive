@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603768353
+        "value": 1603907919
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 45788
+        "value": 45816
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 282461
+        "value": 282469
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -125,7 +125,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitCompleted",
-        "value": 248
+        "value": 249
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroCompleted",
@@ -145,7 +145,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MidoriMelons",
-        "value": 3851
+        "value": 3856
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesMelons",
@@ -157,7 +157,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
-        "value": 5190
+        "value": 5193
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
@@ -169,11 +169,11 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3654348
+        "value": 3654385
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2092845
+        "value": 2092884
       },
       {
         "name": "Stats.Plaza.Jumps",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 28721734
+        "value": 28751645
       },
       {
         "name": "Stats.EXP.plaza",
@@ -961,7 +961,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 1842553
+        "value": 1844184
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1701,7 +1701,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompleted",
-        "value": 144
+        "value": 145
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonMelons",
@@ -2073,7 +2073,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 55
+        "value": 60
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
