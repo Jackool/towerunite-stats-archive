@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603877779
+        "value": 1603893561
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -309,11 +309,11 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 242
+        "value": 243
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 468
+        "value": 484
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -589,7 +589,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 1128501
+        "value": 1131001
       },
       {
         "name": "Stats.EXP.cooking",
@@ -881,7 +881,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 534560
+        "value": 540765
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1225,7 +1225,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 2905184
+        "value": 2907884
       }
     ],
     "achievements": [
