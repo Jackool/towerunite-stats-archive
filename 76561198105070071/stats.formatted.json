@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 31541
+        "value": 31665
       },
       {
         "name": "stat_lastcommand",
@@ -281,11 +281,11 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 348354
+        "value": 351154
       },
       {
         "name": "Stats.Condo.PartyTime",
-        "value": 151064
+        "value": 158769
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1119816
+        "value": 1133522
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 6805
+        "value": 6820
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -657,11 +657,11 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 1294250
+        "value": 1294750
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4094000
+        "value": 4111500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -689,7 +689,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 2582
+        "value": 2605
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2342559
+        "value": 2356265
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1317,7 +1317,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.OrangespineUnicornfish",
-        "value": 16
+        "value": 17
       },
       {
         "name": "Stats.Plaza.Fishing.Oreochromis",
@@ -1377,7 +1377,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.CommonStarfish",
-        "value": 38
+        "value": 39
       },
       {
         "name": "Stats.Plaza.Fishing.TrewavasCichlid",
@@ -1485,7 +1485,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.LargeMussel",
-        "value": 26
+        "value": 27
       },
       {
         "name": "Stats.Plaza.Fishing.LargeOrangespineUnicornfish",
@@ -1533,7 +1533,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.LargeRedKnobStarfish",
-        "value": 33
+        "value": 34
       },
       {
         "name": "Stats.Plaza.Fishing.LargeCommonStarfish",
@@ -1729,7 +1729,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenTelevision",
-        "value": 40
+        "value": 41
       },
       {
         "name": "Stats.Plaza.Fishing.Tire",
@@ -1745,7 +1745,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.UsedCoffeeCup",
-        "value": 27
+        "value": 29
       },
       {
         "name": "Stats.Plaza.Fishing.Cigs",
@@ -1761,7 +1761,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.OldNewspaper",
-        "value": 38
+        "value": 41
       },
       {
         "name": "Stats.Plaza.Fishing.TrashBag",
@@ -1769,7 +1769,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.PlasticStraw",
-        "value": 40
+        "value": 41
       },
       {
         "name": "Stats.Plaza.Fishing.BarrelofTrash",
@@ -1785,7 +1785,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.PlasticToyblock",
-        "value": 43
+        "value": 44
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenPottedPlant",
@@ -1797,11 +1797,11 @@
       },
       {
         "name": "Stats.Plaza.Fishing.UsedSprayCan",
-        "value": 34
+        "value": 35
       },
       {
         "name": "Stats.Plaza.Fishing.HomeCookingMagazine",
-        "value": 33
+        "value": 34
       },
       {
         "name": "Stats.Plaza.Fishing.CrosswordMagazine",
