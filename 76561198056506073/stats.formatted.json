@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603864746
+        "value": 1603871234
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 1615
+        "value": 1751
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 4900
+        "value": 5732
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -113,7 +113,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MidoriCompleted",
-        "value": 9
+        "value": 10
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesCompleted",
@@ -145,11 +145,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.MidoriMelons",
-        "value": 478
+        "value": 514
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesMelons",
-        "value": 444
+        "value": 477
       },
       {
         "name": "Stats.GameW.BallRace.GLXYMelons",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 395080
+        "value": 395488
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 79147
+        "value": 79293
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 29349
+        "value": 29379
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 511
+        "value": 512
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 1429421
+        "value": 1543461
       },
       {
         "name": "Stats.EXP.plaza",
@@ -945,7 +945,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 80497
+        "value": 85875
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2012677
+        "value": 2012914
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1285,11 +1285,15 @@
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompleted",
-        "value": 11
+        "value": 12
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonMelons",
-        "value": 271
+        "value": 287
+      },
+      {
+        "name": "Stats.GameW.BallRace.EventHorizonCompletedNoDeath",
+        "value": 1
       },
       {
         "name": "Stats.Plaza.Fishing.Tire",
@@ -1385,11 +1389,15 @@
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompleted",
-        "value": 5
+        "value": 11
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsMelons",
-        "value": 423
+        "value": 1170
+      },
+      {
+        "name": "Stats.GameW.BallRace.WoodlandsCompletedNoDeath",
+        "value": 1
       },
       {
         "name": "Stats.GameW.ZombieMassacre.VillagePlays",
@@ -1601,7 +1609,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 215
+        "value": 232
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1674,6 +1682,14 @@
         "achieved": 1
       },
       {
+        "name": "ACH_GW_BR_MIDORIMASTERED",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_BR_MEMORIESMASTERED",
+        "achieved": 1
+      },
+      {
         "name": "ACH_GW_BR_GLXYMASTERED",
         "achieved": 1
       },
@@ -1691,6 +1707,10 @@
       },
       {
         "name": "ACH_GW_BR_PARADISECOLLECTOR",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_BR_MIDORICOLLECTOR",
         "achieved": 1
       },
       {
@@ -2530,6 +2550,10 @@
         "achieved": 1
       },
       {
+        "name": "ACH_GW_BR_EVENTHORIZONCOMPLETEDNODEATH",
+        "achieved": 1
+      },
+      {
         "name": "ACH_PLZ_MINIGAMES_HEAVYDRINKER",
         "achieved": 1
       },
@@ -2539,6 +2563,22 @@
       },
       {
         "name": "ACH_GW_BR_WOODLANDSCOMPLETED",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_BR_WOODLANDSMASTERED",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_BR_WOODLANDSCOLLECTOR",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_BR_WOODLANDSHIDDEN",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_BR_WOODLANDSCOMPLETEDNODEATH",
         "achieved": 1
       },
       {
