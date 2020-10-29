@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603957313
+        "value": 1603963878
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 557991
+        "value": 560979
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 164453
+        "value": 165921
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 16641
+        "value": 16789
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Plaza.TypingDerby.Words",
-        "value": 3437
+        "value": 3730
       },
       {
         "name": "Stats.Condo.TVTime",
@@ -553,7 +553,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1473001
+        "value": 1480501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 50708
+        "value": 58044
       },
       {
         "name": "Stats.EXP.casino",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.EXP.tderby",
-        "value": 179151
+        "value": 187701
       },
       {
         "name": "Stats.EXP.bowling",
@@ -861,7 +861,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 101433
+        "value": 102635
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -869,7 +869,7 @@
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
-        "value": 3405
+        "value": 3632
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
@@ -877,11 +877,11 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 137638
+        "value": 137670
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 10276
+        "value": 10633
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -893,7 +893,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
-        "value": 577
+        "value": 699
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
@@ -953,7 +953,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Food.TotalScore",
-        "value": 19725
+        "value": 25375
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Food.BestScore",
-        "value": 5400
+        "value": 5650
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.BestScore",
@@ -1077,7 +1077,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Chainsaw.TotalScore",
-        "value": 59010
+        "value": 67500
       },
       {
         "name": "Stats.Plaza.Minigames.BoozeBash.TotalScore",
@@ -1093,7 +1093,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.ChainsawDeathmatchKills",
-        "value": 2034
+        "value": 2317
       },
       {
         "name": "Stats.GameW.ZombieMassacre.VillagePlays",
@@ -1165,7 +1165,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 1979
+        "value": 1995
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1181,7 +1181,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.Basket",
-        "value": 359
+        "value": 678
       },
       {
         "name": "Stats.Plaza.Arcade.BugBytes.BugsDestroyed",
@@ -1217,19 +1217,19 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 333
+        "value": 341
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 907
+        "value": 956
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 674
+        "value": 724
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3888842
+        "value": 4082553
       }
     ],
     "achievements": [
