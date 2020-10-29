@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 31780
+        "value": 31866
       },
       {
         "name": "stat_lastcommand",
@@ -281,11 +281,11 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 351420
+        "value": 351672
       },
       {
         "name": "Stats.Condo.PartyTime",
-        "value": 158796
+        "value": 158859
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1154873
+        "value": 1159038
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 8202
+        "value": 8206
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -657,11 +657,11 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 1313500
+        "value": 1314000
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4176500
+        "value": 4179000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -689,7 +689,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 2643
+        "value": 2644
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2380608
+        "value": 2384773
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1533,7 +1533,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.LargeRedKnobStarfish",
-        "value": 35
+        "value": 36
       },
       {
         "name": "Stats.Plaza.Fishing.LargeCommonStarfish",

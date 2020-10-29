@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603942063
+        "value": 1603957313
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 551721
+        "value": 557991
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 163935
+        "value": 164453
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 16460
+        "value": 16641
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -405,7 +405,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.RadioTowerKills",
-        "value": 149
+        "value": 163
       },
       {
         "name": "Stats.GameW.ZombieMassacre.HealingKitHeals",
@@ -425,7 +425,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.WeaponPickups",
-        "value": 314
+        "value": 315
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TeamMembersSaved",
@@ -433,7 +433,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.InfectedKilled",
-        "value": 2763
+        "value": 2815
       },
       {
         "name": "Stats.GameW.ZombieMassacre.MutantsKilled",
@@ -441,7 +441,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Combos",
-        "value": 114
+        "value": 115
       },
       {
         "name": "Stats.GameW.ZombieMassacre.RetroGuitarKills",
@@ -453,7 +453,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.CameraFlashKills",
-        "value": 320
+        "value": 355
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
@@ -553,7 +553,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1453001
+        "value": 1473001
       },
       {
         "name": "Stats.EXP.ltag",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 50003
+        "value": 50708
       },
       {
         "name": "Stats.EXP.casino",
@@ -669,7 +669,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Kills",
-        "value": 3149
+        "value": 3201
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.BoltActionRifle.Kills",
@@ -697,7 +697,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Handgun.Kills",
-        "value": 955
+        "value": 958
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Kimber.Kills",
@@ -849,7 +849,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
-        "value": 16829
+        "value": 17436
       },
       {
         "name": "Stats.Plaza.LaserTag.Playtime",
@@ -861,7 +861,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 95796
+        "value": 101433
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -881,7 +881,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 9924
+        "value": 10276
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -905,11 +905,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.PumpkinsSmashed",
-        "value": 1661
+        "value": 1816
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
-        "value": 3109
+        "value": 3290
       },
       {
         "name": "Stats.Plaza.LaserTag.BestScore",
@@ -949,7 +949,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
-        "value": 59580
+        "value": 64830
       },
       {
         "name": "Stats.Plaza.Minigames.Food.TotalScore",
@@ -957,7 +957,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
-        "value": 222039
+        "value": 235911
       },
       {
         "name": "Stats.Plaza.Minigames.Target.BestScore",
@@ -1165,7 +1165,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 1843
+        "value": 1979
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1217,7 +1217,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 318
+        "value": 333
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1229,7 +1229,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3860159
+        "value": 3888842
       }
     ],
     "achievements": [
