@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 31738
+        "value": 31754
       },
       {
         "name": "stat_lastcommand",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1152659
+        "value": 1153514
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 611
+        "value": 612
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 8201
+        "value": 8202
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -657,11 +657,11 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 1309100
+        "value": 1313500
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4161500
+        "value": 4166500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -689,7 +689,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 2634
+        "value": 2643
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2375627
+        "value": 2376756
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1373,11 +1373,11 @@
       },
       {
         "name": "Stats.Plaza.Fishing.RedKnobStarfish",
-        "value": 29
+        "value": 30
       },
       {
         "name": "Stats.Plaza.Fishing.CommonStarfish",
-        "value": 39
+        "value": 40
       },
       {
         "name": "Stats.Plaza.Fishing.TrewavasCichlid",
@@ -1497,7 +1497,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.LargeOyster",
-        "value": 41
+        "value": 42
       },
       {
         "name": "Stats.Plaza.Fishing.LargePeacockBass",
@@ -1537,7 +1537,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.LargeCommonStarfish",
-        "value": 30
+        "value": 31
       },
       {
         "name": "Stats.Plaza.Fishing.LargeTrout",
@@ -1733,11 +1733,11 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Tire",
-        "value": 43
+        "value": 44
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenBottle",
-        "value": 33
+        "value": 34
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenSodaCan",
