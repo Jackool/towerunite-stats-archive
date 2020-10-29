@@ -421,11 +421,11 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.DaysSurvived",
-        "value": 37
+        "value": 39
       },
       {
         "name": "Stats.GameW.ZombieMassacre.WeaponPickups",
-        "value": 234
+        "value": 245
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TeamMembersSaved",
@@ -433,7 +433,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.InfectedKilled",
-        "value": 1776
+        "value": 1828
       },
       {
         "name": "Stats.GameW.ZombieMassacre.MutantsKilled",
@@ -441,7 +441,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Combos",
-        "value": 77
+        "value": 79
       },
       {
         "name": "Stats.GameW.ZombieMassacre.RetroGuitarKills",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Kills",
-        "value": 2103
+        "value": 2155
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.BoltActionRifle.Kills",
@@ -693,7 +693,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Handgun.Kills",
-        "value": 637
+        "value": 689
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Kimber.Kills",
@@ -825,7 +825,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 21289
+        "value": 21293
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -845,7 +845,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
-        "value": 11303
+        "value": 12703
       },
       {
         "name": "Stats.Plaza.LaserTag.Playtime",
