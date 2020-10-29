@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603936801
+        "value": 1603943485
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1054000
+        "value": 1076500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 67060
+        "value": 67095
       },
       {
         "name": "Stats.EXP.casino",
@@ -1737,7 +1737,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 8294189
+        "value": 8508241
       }
     ],
     "achievements": [
