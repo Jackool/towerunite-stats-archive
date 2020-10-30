@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 619013
+        "value": 624414
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 169177
+        "value": 170759
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 18921
+        "value": 19045
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -553,7 +553,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1685501
+        "value": 1688001
       },
       {
         "name": "Stats.EXP.ltag",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 70048
+        "value": 70121
       },
       {
         "name": "Stats.EXP.casino",
@@ -861,7 +861,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 154297
+        "value": 159016
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -877,11 +877,11 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 137670
+        "value": 137674
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 10806
+        "value": 10818
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1077,7 +1077,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Chainsaw.TotalScore",
-        "value": 67500
+        "value": 67800
       },
       {
         "name": "Stats.Plaza.Minigames.BoozeBash.TotalScore",
@@ -1093,7 +1093,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.ChainsawDeathmatchKills",
-        "value": 2317
+        "value": 2327
       },
       {
         "name": "Stats.GameW.ZombieMassacre.VillagePlays",
@@ -1165,7 +1165,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 2975
+        "value": 2996
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1201,7 +1201,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
-        "value": 20
+        "value": 21
       },
       {
         "name": "Stats.Plaza.Arcade.Avalanche.BlueCatsacks",
@@ -1217,15 +1217,15 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 467
+        "value": 472
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 1036
+        "value": 1071
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 738
+        "value": 744
       },
       {
         "name": "Stats.EXP.halloween",
