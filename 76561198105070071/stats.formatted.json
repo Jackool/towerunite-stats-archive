@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 32004
+        "value": 32006
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604087957
+        "value": 1604095198
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1168071
+        "value": 1169249
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 623
+        "value": 624
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 8210
+        "value": 8211
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2403687
+        "value": 2404869
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2085,7 +2085,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 2199435
+        "value": 2231435
       }
     ],
     "achievements": [
