@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604042867
+        "value": 1604051828
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 610970
+        "value": 612463
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 168183
+        "value": 168555
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 18652
+        "value": 18688
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -285,7 +285,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 79397
+        "value": 79464
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -305,11 +305,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 150672
+        "value": 150826
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 251
+        "value": 256
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -553,7 +553,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1645501
+        "value": 1660501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 68460
+        "value": 69649
       },
       {
         "name": "Stats.EXP.casino",
@@ -861,7 +861,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 146873
+        "value": 148337
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -885,7 +885,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 550353
+        "value": 551395
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1105,7 +1105,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRig.BestScore",
-        "value": 146
+        "value": 158
       },
       {
         "name": "Stats.Plaza.Arcade.StackEm.BestScore",
@@ -1165,7 +1165,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 2816
+        "value": 2846
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1181,7 +1181,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.Basket",
-        "value": 935
+        "value": 961
       },
       {
         "name": "Stats.Plaza.Arcade.BugBytes.BugsDestroyed",
@@ -1217,7 +1217,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 445
+        "value": 450
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
