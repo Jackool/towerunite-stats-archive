@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 13784
+        "value": 13804
       },
       {
         "name": "stat_units",
@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604004686
+        "value": 1604014436
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 374978
+        "value": 377120
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 187204
+        "value": 188322
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 35122
+        "value": 35418
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 806594
+        "value": 810119
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 1900
+        "value": 1919
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1096500
+        "value": 1101500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 14260
+        "value": 14262
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -973,7 +973,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1239567
+        "value": 1243092
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1733,11 +1733,11 @@
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 1581
+        "value": 1608
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 8811712
+        "value": 8889712
       }
     ],
     "achievements": [

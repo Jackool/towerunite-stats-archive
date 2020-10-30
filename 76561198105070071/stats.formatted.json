@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 31866
+        "value": 31910
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604008800
+        "value": 1604015962
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3658859
+        "value": 3661093
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2095965
+        "value": 2097806
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 374184
+        "value": 374338
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 352475
+        "value": 352563
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1159038
+        "value": 1160328
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 617
+        "value": 619
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 8206
+        "value": 8207
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8229500
+        "value": 8234500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -657,11 +657,11 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 1314000
+        "value": 1314500
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4191500
+        "value": 4196500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -673,7 +673,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 22444782
+        "value": 22448532
       },
       {
         "name": "Stats.EXP.lc",
@@ -689,7 +689,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 2644
+        "value": 2645
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -697,7 +697,7 @@
       },
       {
         "name": "Stats.Workshop.WorkshopRates",
-        "value": 53
+        "value": 54
       },
       {
         "name": "Stats.GameW.BallRace.OasisCompleted",
@@ -993,11 +993,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 299501
+        "value": 299547
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 701731
+        "value": 701810
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1017,11 +1017,11 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2390017
+        "value": 2392904
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
-        "value": 85150
+        "value": 85193
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
@@ -1309,7 +1309,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Mussel",
-        "value": 42
+        "value": 43
       },
       {
         "name": "Stats.Plaza.Fishing.Octopus",
@@ -2081,11 +2081,11 @@
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 684
+        "value": 707
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 1848014
+        "value": 1878014
       }
     ],
     "achievements": [

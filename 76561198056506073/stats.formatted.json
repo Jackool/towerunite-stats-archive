@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1603955760
+        "value": 1604015956
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -17,11 +17,11 @@
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 8.136940002441406
+        "value": 3.633887767791748
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 408
+        "value": 409
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -325,43 +325,43 @@
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
-        "value": 63
+        "value": 71
       },
       {
         "name": "Stats.GameW.Virus.Survivor.AdrenalineUsed",
-        "value": 34
+        "value": 37
       },
       {
         "name": "Stats.GameW.Virus.Infected.SurvivorsInfected",
-        "value": 134
+        "value": 165
       },
       {
         "name": "Stats.GameW.Virus.Survivor.InfectedExploded",
-        "value": 112
+        "value": 118
       },
       {
         "name": "Stats.GameW.Virus.Survivor.LastSurvivorTimes",
-        "value": 30
+        "value": 32
       },
       {
         "name": "Stats.GameW.Virus.FirstPlaceCount",
-        "value": 40
+        "value": 43
       },
       {
         "name": "Stats.GameW.Virus.FirstInfectedCount",
-        "value": 30
+        "value": 33
       },
       {
         "name": "Stats.GameW.Virus.RoundsPlayed",
-        "value": 193
+        "value": 221
       },
       {
         "name": "Stats.GameW.Virus.HospitalSurvive",
-        "value": 7
+        "value": 10
       },
       {
         "name": "Stats.GameW.Virus.DesertionSurvive",
-        "value": 8
+        "value": 10
       },
       {
         "name": "Stats.GameW.Virus.OvertimeSurvive",
@@ -373,11 +373,11 @@
       },
       {
         "name": "Stats.GameW.Virus.HospitalInfect",
-        "value": 8
+        "value": 21
       },
       {
         "name": "Stats.GameW.Virus.DesertionInfect",
-        "value": 31
+        "value": 37
       },
       {
         "name": "Stats.GameW.Virus.OvertimeInfect",
@@ -493,11 +493,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 41577939
+        "value": 42677152
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 797
+        "value": 802
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
@@ -509,7 +509,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 89
+        "value": 90
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -581,11 +581,11 @@
       },
       {
         "name": "Stats.GameW.Virus.SolarSurvive",
-        "value": 14
+        "value": 17
       },
       {
         "name": "Stats.GameW.Virus.SolarInfect",
-        "value": 25
+        "value": 37
       },
       {
         "name": "Stats.GameW.BallRace.NimbusCompletedNoDeath",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 262981
+        "value": 263263
       },
       {
         "name": "Stats.EXP.casino",
@@ -673,11 +673,11 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 335235
+        "value": 385835
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 399324
+        "value": 404522
       },
       {
         "name": "Stats.EXP.lc",
@@ -689,7 +689,7 @@
       },
       {
         "name": "Stats.EXP.accel",
-        "value": 90906
+        "value": 92556
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
@@ -749,11 +749,11 @@
       },
       {
         "name": "Stats.GameW.Virus.SurvivorKills",
-        "value": 15
+        "value": 18
       },
       {
         "name": "Stats.GameW.Virus.InfectedKills",
-        "value": 36
+        "value": 40
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Kills",
@@ -949,7 +949,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 4530
+        "value": 4870
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
@@ -961,7 +961,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 36711
+        "value": 37246
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 20544
+        "value": 23391
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -1569,15 +1569,15 @@
       },
       {
         "name": "Stats.GameW.Accelerate.DamagedByItems",
-        "value": 26
+        "value": 32
       },
       {
         "name": "Stats.GameW.Accelerate.HitPlayers",
-        "value": 29
+        "value": 33
       },
       {
         "name": "Stats.GameW.Accelerate.FirstPlace",
-        "value": 5
+        "value": 6
       },
       {
         "name": "Stats.GameW.Accelerate.MelonBoosts",
@@ -1589,11 +1589,11 @@
       },
       {
         "name": "Stats.GameW.Accelerate.BumperHits",
-        "value": 4
+        "value": 5
       },
       {
         "name": "Stats.GameW.Accelerate.GolfHoleSinks",
-        "value": 2
+        "value": 3
       },
       {
         "name": "Stats.GameW.Accelerate.HomingBowlingBalls",
@@ -1605,19 +1605,19 @@
       },
       {
         "name": "Stats.GameW.Accelerate.SunHits",
-        "value": 16
+        "value": 18
       },
       {
         "name": "Stats.GameW.Accelerate.DriftTime",
-        "value": 9829
+        "value": 10198
       },
       {
         "name": "Stats.GameW.Accelerate.ItemsGiven",
-        "value": 245
+        "value": 270
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 273
+        "value": 285
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -2067,6 +2067,10 @@
       },
       {
         "name": "ACH_GW_VIRUS_OVERTIMESURVIVE",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_VIRUS_HOSPITALHIDDEN",
         "achieved": 1
       },
       {
