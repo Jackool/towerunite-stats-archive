@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 377120
+        "value": 379079
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 188322
+        "value": 188945
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 35418
+        "value": 35536
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1101500
+        "value": 1106500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 2877500
+        "value": 2885000
       },
       {
         "name": "Stats.EXP.virus",
@@ -1733,7 +1733,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 1608
+        "value": 1634
       },
       {
         "name": "Stats.EXP.halloween",
