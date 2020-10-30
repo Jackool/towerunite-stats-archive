@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604037371
+        "value": 1604043446
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 416150
+        "value": 429722
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 81525
+        "value": 82085
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 36102
+        "value": 39329
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 1346182
+        "value": 1406182
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 528
+        "value": 529
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1137500
+        "value": 1157500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 322780
+        "value": 339440
       },
       {
         "name": "Stats.EXP.casino",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 112415
+        "value": 123259
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2023448
+        "value": 2023918
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1501,7 +1501,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 6445
+        "value": 12885
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
@@ -1617,7 +1617,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 321
+        "value": 359
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1629,7 +1629,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 1678338
+        "value": 1685338
       }
     ],
     "achievements": [
@@ -2839,6 +2839,10 @@
       },
       {
         "name": "ACH_PLZ_HALLOWEEN_GHOSTPUP",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_HALLOWEEN_HAUNTEDFRIENDSHIPS",
         "achieved": 1
       },
       {
