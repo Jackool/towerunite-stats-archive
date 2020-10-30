@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604051828
+        "value": 1604057238
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 612463
+        "value": 619013
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 168555
+        "value": 169177
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 18688
+        "value": 18921
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 300090
+        "value": 304590
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -553,7 +553,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1660501
+        "value": 1680501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 69649
+        "value": 70020
       },
       {
         "name": "Stats.EXP.casino",
@@ -861,7 +861,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 148337
+        "value": 154297
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -881,7 +881,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 10769
+        "value": 10806
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -905,7 +905,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.PumpkinsSmashed",
-        "value": 1816
+        "value": 1847
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
@@ -949,7 +949,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
-        "value": 64830
+        "value": 66000
       },
       {
         "name": "Stats.Plaza.Minigames.Food.TotalScore",
@@ -1165,7 +1165,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 2846
+        "value": 2975
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1217,7 +1217,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 450
+        "value": 467
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1229,7 +1229,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 4310243
+        "value": 4405948
       }
     ],
     "achievements": [
