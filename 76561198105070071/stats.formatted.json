@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 32006
+        "value": 32030
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604095198
+        "value": 1604095388
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3668978
+        "value": 3669846
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2104505
+        "value": 2105010
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 374841
+        "value": 374986
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 4291735
+        "value": 4339935
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 353285
+        "value": 354735
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1169249
+        "value": 1171913
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 8211
+        "value": 8216
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8252000
+        "value": 8254500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4209000
+        "value": 4219000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -993,7 +993,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 299607
+        "value": 299747
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2404869
+        "value": 2407533
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2077,15 +2077,15 @@
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 340
+        "value": 342
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 797
+        "value": 822
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 2231435
+        "value": 2239435
       }
     ],
     "achievements": [
