@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604102386
+        "value": 1604102765
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 387873
+        "value": 389352
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 196264
+        "value": 198234
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 36476
+        "value": 36900
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1131500
+        "value": 1136500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -1733,11 +1733,11 @@
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 1762
+        "value": 1785
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 9343153
+        "value": 9363153
       }
     ],
     "achievements": [
