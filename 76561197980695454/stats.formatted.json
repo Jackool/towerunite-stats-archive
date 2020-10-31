@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 13880
+        "value": 13884
       },
       {
         "name": "stat_units",
@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604102765
+        "value": 1604116483
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 231984
+        "value": 234980
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 816735
+        "value": 820558
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 1935
+        "value": 1936
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 2907500
+        "value": 2917500
       },
       {
         "name": "Stats.EXP.virus",
@@ -973,7 +973,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1254788
+        "value": 1258611
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1737,7 +1737,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 9363153
+        "value": 9363716
       }
     ],
     "achievements": [
