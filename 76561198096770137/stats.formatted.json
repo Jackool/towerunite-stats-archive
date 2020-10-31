@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 624650
+        "value": 625491
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 170967
+        "value": 170996
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 19056
+        "value": 19081
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -285,7 +285,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 83456
+        "value": 84124
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -309,11 +309,11 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 271
+        "value": 275
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 511
+        "value": 547
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -553,7 +553,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1688001
+        "value": 1690501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 70121
+        "value": 70236
       },
       {
         "name": "Stats.EXP.casino",
@@ -593,7 +593,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 1203501
+        "value": 1211001
       },
       {
         "name": "Stats.EXP.cooking",
@@ -861,7 +861,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 159016
+        "value": 159841
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -885,7 +885,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 568761
+        "value": 579168
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1165,7 +1165,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 2996
+        "value": 3019
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1217,7 +1217,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 473
+        "value": 476
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
