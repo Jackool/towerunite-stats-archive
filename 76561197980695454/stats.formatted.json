@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 389352
+        "value": 389583
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 198234
+        "value": 198247
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 36900
+        "value": 36906
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 32163
+        "value": 32174
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
-        "value": 5482
+        "value": 5490
       },
       {
         "name": "Stats.Plaza.Minigames.BalloonsPopped",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Target.TotalScore",
-        "value": 229705
+        "value": 230080
       },
       {
         "name": "Stats.Plaza.Minigames.Fruit.TotalScore",
@@ -1725,7 +1725,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 230
+        "value": 231
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
