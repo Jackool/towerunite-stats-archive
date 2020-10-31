@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604143793
+        "value": 1604152191
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -165,15 +165,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 593880
+        "value": 594333
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 195023
+        "value": 195154
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 17524
+        "value": 17533
       },
       {
         "name": "Stats.Plaza.Store.Talks",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1482008
+        "value": 1482662
       },
       {
         "name": "Stats.EXP.casino",
@@ -865,7 +865,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 245726
+        "value": 246087
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1737,7 +1737,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 538
+        "value": 543
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1749,7 +1749,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3551837
+        "value": 3556837
       }
     ],
     "achievements": [
