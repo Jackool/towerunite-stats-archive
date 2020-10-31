@@ -5,19 +5,19 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 32082
+        "value": 32084
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604116042
+        "value": 1604128488
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 3.2696385383605957
+        "value": 4.510191917419434
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 6099
+        "value": 6101
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3669846
+        "value": 3669982
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2105010
+        "value": 2105077
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 374986
+        "value": 375009
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 356927
+        "value": 358508
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1175951
+        "value": 1178050
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 630
+        "value": 634
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 8250
+        "value": 8251
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -481,27 +481,27 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 5781
+        "value": 5788
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 1301505095
+        "value": 1303464517
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 23785
+        "value": 23815
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
-        "value": 3740
+        "value": 3745
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
-        "value": 1270
+        "value": 1272
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 3908
+        "value": 3911
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4249000
+        "value": 4259000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -673,7 +673,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 22547016
+        "value": 22572006
       },
       {
         "name": "Stats.EXP.lc",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1426337
+        "value": 1427842
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2419687
+        "value": 2429319
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2073,7 +2073,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 104
+        "value": 109
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
