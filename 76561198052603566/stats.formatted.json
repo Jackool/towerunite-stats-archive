@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 13303
+        "value": 13312
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604135324
+        "value": 1604143793
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -165,15 +165,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 593690
+        "value": 593880
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 194861
+        "value": 195023
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 17498
+        "value": 17524
       },
       {
         "name": "Stats.Plaza.Store.Talks",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 257
+        "value": 258
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1481973
+        "value": 1482008
       },
       {
         "name": "Stats.EXP.casino",
@@ -865,7 +865,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 245647
+        "value": 245726
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -885,11 +885,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 15083
+        "value": 15089
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1420291
+        "value": 1420487
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -917,7 +917,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
-        "value": 487
+        "value": 489
       },
       {
         "name": "Stats.Plaza.LaserTag.BestScore",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
-        "value": 29860
+        "value": 29903
       },
       {
         "name": "Stats.Plaza.Minigames.Target.BestScore",
@@ -1737,7 +1737,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 536
+        "value": 538
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1749,7 +1749,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3551772
+        "value": 3551837
       }
     ],
     "achievements": [
