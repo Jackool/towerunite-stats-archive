@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604212800
+        "value": 1604263463
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -37,7 +37,7 @@
       },
       {
         "name": "Stats.Stores.Furniture.NumVisits",
-        "value": 27
+        "value": 28
       },
       {
         "name": "Stats.Stores.Electronics.NumVisits",
@@ -45,7 +45,7 @@
       },
       {
         "name": "Stats.Stores.Thrift.NumVisits",
-        "value": 35
+        "value": 36
       },
       {
         "name": "Stats.Stores.Music.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 473455
+        "value": 479825
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 83629
+        "value": 83748
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 63348
+        "value": 65034
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 364
+        "value": 366
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 1794682
+        "value": 1916197
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1290000
+        "value": 1310000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 432914
+        "value": 453710
       },
       {
         "name": "Stats.EXP.casino",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 143268
+        "value": 145514
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1501,7 +1501,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 27123
+        "value": 30149
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
@@ -1617,7 +1617,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 502
+        "value": 519
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
