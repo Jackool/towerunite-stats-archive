@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604181143
+        "value": 1604186292
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 457110
+        "value": 464409
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 82822
+        "value": 83397
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 55296
+        "value": 59065
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 1713682
+        "value": 1740682
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1255000
+        "value": 1262500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 405533
+        "value": 413014
       },
       {
         "name": "Stats.EXP.casino",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 140124
+        "value": 140440
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1501,7 +1501,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 21495
+        "value": 24151
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
@@ -1617,7 +1617,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 441
+        "value": 461
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
