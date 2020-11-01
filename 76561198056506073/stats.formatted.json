@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604186292
+        "value": 1604195893
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 1766
+        "value": 1780
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 5752
+        "value": 5789
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 464409
+        "value": 465136
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 83397
+        "value": 83520
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 59065
+        "value": 59088
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -289,7 +289,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 361349
+        "value": 361367
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 538
+        "value": 543
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -333,7 +333,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Infected.SurvivorsInfected",
-        "value": 168
+        "value": 177
       },
       {
         "name": "Stats.GameW.Virus.Survivor.InfectedExploded",
@@ -349,11 +349,11 @@
       },
       {
         "name": "Stats.GameW.Virus.FirstInfectedCount",
-        "value": 34
+        "value": 35
       },
       {
         "name": "Stats.GameW.Virus.RoundsPlayed",
-        "value": 228
+        "value": 235
       },
       {
         "name": "Stats.GameW.Virus.HospitalSurvive",
@@ -381,7 +381,7 @@
       },
       {
         "name": "Stats.GameW.Virus.OvertimeInfect",
-        "value": 25
+        "value": 34
       },
       {
         "name": "Stats.GameW.Virus.SubwayInfect",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 1552371
+        "value": 1564251
       },
       {
         "name": "Stats.EXP.plaza",
@@ -669,11 +669,11 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4037000
+        "value": 4039500
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 391385
+        "value": 400085
       },
       {
         "name": "Stats.EXP.mgolf",
@@ -753,7 +753,7 @@
       },
       {
         "name": "Stats.GameW.Virus.InfectedKills",
-        "value": 41
+        "value": 42
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Kills",
@@ -953,7 +953,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 86390
+        "value": 86947
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 24020
+        "value": 24663
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 140440
+        "value": 140519
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1005,11 +1005,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 9692
+        "value": 9798
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2044068
+        "value": 2046570
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1033,7 +1033,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.PumpkinsSmashed",
-        "value": 632
+        "value": 721
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
@@ -1077,7 +1077,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
-        "value": 19660
+        "value": 23360
       },
       {
         "name": "Stats.Plaza.Minigames.Food.TotalScore",
@@ -1293,11 +1293,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompleted",
-        "value": 13
+        "value": 14
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonMelons",
-        "value": 307
+        "value": 344
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompletedNoDeath",
@@ -1617,7 +1617,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 461
+        "value": 466
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1629,7 +1629,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 1685338
+        "value": 1690888
       }
     ],
     "achievements": [
