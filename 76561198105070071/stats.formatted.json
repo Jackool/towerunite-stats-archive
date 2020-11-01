@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604262475
+        "value": 1604265619
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 45995
+        "value": 46000
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 282797
+        "value": 282805
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -165,19 +165,19 @@
       },
       {
         "name": "Stats.GameW.BallRace.PrismMelons",
-        "value": 7821
+        "value": 7826
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3673244
+        "value": 3673752
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2107508
+        "value": 2108219
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 375250
+        "value": 375291
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 359955
+        "value": 360376
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 645
+        "value": 646
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 28962866
+        "value": 28969148
       },
       {
         "name": "Stats.EXP.plaza",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4279000
+        "value": 4281500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -961,7 +961,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 1853910
+        "value": 1854218
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -993,7 +993,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 299981
+        "value": 300063
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2440029
+        "value": 2442766
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1701,11 +1701,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompleted",
-        "value": 146
+        "value": 147
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonMelons",
-        "value": 1074
+        "value": 1077
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompletedNoDeath",
@@ -2073,7 +2073,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 153
+        "value": 155
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -2085,7 +2085,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 2312435
+        "value": 2317435
       }
     ],
     "achievements": [
