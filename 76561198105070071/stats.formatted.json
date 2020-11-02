@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604300114
+        "value": 1604301375
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3674265
+        "value": 3676193
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2108669
+        "value": 2110777
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 375343
+        "value": 375524
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -205,7 +205,7 @@
       },
       {
         "name": "Stats.Plaza.AnimalsFound",
-        "value": 38
+        "value": 39
       },
       {
         "name": "Stats.Plaza.Rollercoaster.Rides",
@@ -277,7 +277,7 @@
       },
       {
         "name": "Stats.Plaza.TypingDerby.Words",
-        "value": 26305
+        "value": 26394
       },
       {
         "name": "Stats.Condo.TVTime",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8259500
+        "value": 8264500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.tderby",
-        "value": 1182830
+        "value": 1187180
       },
       {
         "name": "Stats.EXP.bowling",
@@ -993,7 +993,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 300063
+        "value": 300760
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
-        "value": 31248
+        "value": 31344
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 465402
+        "value": 465404
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1977,7 +1977,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 46594
+        "value": 46801
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -2073,7 +2073,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 166
+        "value": 168
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -2081,11 +2081,11 @@
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 858
+        "value": 888
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 2335435
+        "value": 2385435
       }
     ],
     "achievements": [
