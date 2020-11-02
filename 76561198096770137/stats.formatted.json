@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604084682
+        "value": 1604278777
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -89,7 +89,7 @@
       },
       {
         "name": "Stats.Stores.CondoRealtor.NumVisits",
-        "value": 8
+        "value": 9
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 625656
+        "value": 625861
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 171224
+        "value": 171412
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 19086
+        "value": 19087
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 260
+        "value": 261
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 307090
+        "value": 357090
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -285,7 +285,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 86396
+        "value": 86564
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -309,11 +309,11 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 287
+        "value": 292
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 547
+        "value": 557
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -593,7 +593,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 1311001
+        "value": 1321001
       },
       {
         "name": "Stats.EXP.cooking",
@@ -828,6 +828,10 @@
         "value": 2
       },
       {
+        "name": "Stats.GameW.Accelerate.Playtime",
+        "value": 6
+      },
+      {
         "name": "Stats.GameW.BallRace.Playtime",
         "value": 21293
       },
@@ -861,7 +865,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 159846
+        "value": 159849
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -885,7 +889,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 618598
+        "value": 625713
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
