@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604307587
+        "value": 1604312324
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -389,7 +389,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
-        "value": 140
+        "value": 145
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.FancyGhost",
@@ -397,7 +397,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.AirKills",
-        "value": 64
+        "value": 68
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.NearTaunts",
@@ -405,23 +405,23 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.TeamWins",
-        "value": 322
+        "value": 341
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
-        "value": 183
+        "value": 199
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 120
+        "value": 139
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 369
+        "value": 388
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
-        "value": 63
+        "value": 66
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.BirbKills",
@@ -681,7 +681,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 821280
+        "value": 852540
       },
       {
         "name": "Stats.EXP.zm",
@@ -957,7 +957,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 33174
+        "value": 35388
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 30642
+        "value": 30660
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -1617,7 +1617,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 542
+        "value": 550
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",

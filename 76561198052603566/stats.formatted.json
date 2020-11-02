@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604243980
+        "value": 1604314654
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 269
+        "value": 272
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -561,7 +561,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1815500
+        "value": 1818000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1486363
+        "value": 1486423
       },
       {
         "name": "Stats.EXP.casino",
@@ -589,7 +589,7 @@
       },
       {
         "name": "Stats.EXP.theater",
-        "value": 85500
+        "value": 90500
       },
       {
         "name": "Stats.EXP.minigames",
@@ -889,7 +889,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1422693
+        "value": 1423150
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1749,7 +1749,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3968339
+        "value": 3968371
       }
     ],
     "achievements": [
