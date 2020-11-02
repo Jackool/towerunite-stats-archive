@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604312324
+        "value": 1604350726
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -325,7 +325,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
-        "value": 80
+        "value": 83
       },
       {
         "name": "Stats.GameW.Virus.Survivor.AdrenalineUsed",
@@ -333,11 +333,11 @@
       },
       {
         "name": "Stats.GameW.Virus.Infected.SurvivorsInfected",
-        "value": 214
+        "value": 222
       },
       {
         "name": "Stats.GameW.Virus.Survivor.InfectedExploded",
-        "value": 132
+        "value": 135
       },
       {
         "name": "Stats.GameW.Virus.Survivor.LastSurvivorTimes",
@@ -345,7 +345,7 @@
       },
       {
         "name": "Stats.GameW.Virus.FirstPlaceCount",
-        "value": 52
+        "value": 53
       },
       {
         "name": "Stats.GameW.Virus.FirstInfectedCount",
@@ -353,7 +353,7 @@
       },
       {
         "name": "Stats.GameW.Virus.RoundsPlayed",
-        "value": 286
+        "value": 293
       },
       {
         "name": "Stats.GameW.Virus.HospitalSurvive",
@@ -581,11 +581,11 @@
       },
       {
         "name": "Stats.GameW.Virus.SolarSurvive",
-        "value": 18
+        "value": 21
       },
       {
         "name": "Stats.GameW.Virus.SolarInfect",
-        "value": 40
+        "value": 48
       },
       {
         "name": "Stats.GameW.BallRace.NimbusCompletedNoDeath",
@@ -673,7 +673,7 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 480510
+        "value": 512010
       },
       {
         "name": "Stats.EXP.mgolf",
@@ -749,11 +749,11 @@
       },
       {
         "name": "Stats.GameW.Virus.SurvivorKills",
-        "value": 21
+        "value": 22
       },
       {
         "name": "Stats.GameW.Virus.InfectedKills",
-        "value": 50
+        "value": 51
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Kills",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 30660
+        "value": 31365
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -1617,7 +1617,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 550
+        "value": 552
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
