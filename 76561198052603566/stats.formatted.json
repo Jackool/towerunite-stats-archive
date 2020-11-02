@@ -165,15 +165,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 609410
+        "value": 610497
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 200867
+        "value": 201037
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 18293
+        "value": 18344
       },
       {
         "name": "Stats.Plaza.Store.Talks",
@@ -865,7 +865,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 255489
+        "value": 256284
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1529,7 +1529,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Dizzy.Jackpots",
-        "value": 29
+        "value": 30
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRig.BestScore",
@@ -1645,7 +1645,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
-        "value": 64
+        "value": 65
       },
       {
         "name": "Stats.Plaza.Arcade.Avalanche.BlueCatsacks",
@@ -1737,7 +1737,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 611
+        "value": 615
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",

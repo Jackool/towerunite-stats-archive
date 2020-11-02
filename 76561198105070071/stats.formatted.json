@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604301375
+        "value": 1604342733
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3676193
+        "value": 3678126
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2110777
+        "value": 2110952
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 375524
+        "value": 375525
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -229,7 +229,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 38418
+        "value": 38797
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
@@ -245,7 +245,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 5934850
+        "value": 5991700
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8264500
+        "value": 8269500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -637,7 +637,7 @@
       },
       {
         "name": "Stats.EXP.casino",
-        "value": 1198000
+        "value": 1203000
       },
       {
         "name": "Stats.EXP.tderby",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 701837
+        "value": 703725
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1137,7 +1137,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 9666445
+        "value": 9700495
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.TripleDiamonds",
