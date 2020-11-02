@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604315574
+        "value": 1604336388
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 276
+        "value": 279
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -561,7 +561,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1820500
+        "value": 1823000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1487005
+        "value": 1487244
       },
       {
         "name": "Stats.EXP.casino",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.accel",
-        "value": 184723
+        "value": 185713
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
@@ -833,7 +833,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 11815
+        "value": 12268
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
@@ -889,7 +889,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1424453
+        "value": 1424717
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1673,7 +1673,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.BedzoomComplete",
-        "value": 5
+        "value": 6
       },
       {
         "name": "Stats.GameW.Accelerate.SunriseIslesComplete",
@@ -1693,7 +1693,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.MelonBoosts",
-        "value": 344
+        "value": 412
       },
       {
         "name": "Stats.GameW.Accelerate.BirbShieldGrabs",
@@ -1729,15 +1729,15 @@
       },
       {
         "name": "Stats.GameW.Accelerate.DriftTime",
-        "value": 20952
+        "value": 21436
       },
       {
         "name": "Stats.GameW.Accelerate.ItemsGiven",
-        "value": 679
+        "value": 718
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 610
+        "value": 611
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
