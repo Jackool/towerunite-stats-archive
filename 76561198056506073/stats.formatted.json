@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604363101
+        "value": 1604393725
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -289,7 +289,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 362493
+        "value": 362503
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 562
+        "value": 564
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -689,7 +689,7 @@
       },
       {
         "name": "Stats.EXP.accel",
-        "value": 92556
+        "value": 93456
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
@@ -949,7 +949,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 4879
+        "value": 5273
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2065323
+        "value": 2065510
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1557,7 +1557,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.PineValleyComplete",
-        "value": 2
+        "value": 3
       },
       {
         "name": "Stats.GameW.Accelerate.BedzoomComplete",
@@ -1581,7 +1581,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.MelonBoosts",
-        "value": 110
+        "value": 146
       },
       {
         "name": "Stats.GameW.Accelerate.DrinksDrunk",
@@ -1609,15 +1609,15 @@
       },
       {
         "name": "Stats.GameW.Accelerate.DriftTime",
-        "value": 10198
+        "value": 10335
       },
       {
         "name": "Stats.GameW.Accelerate.ItemsGiven",
-        "value": 270
+        "value": 295
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 563
+        "value": 565
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
