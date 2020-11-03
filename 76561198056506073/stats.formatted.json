@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604351839
+        "value": 1604363101
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -37,7 +37,7 @@
       },
       {
         "name": "Stats.Stores.Furniture.NumVisits",
-        "value": 28
+        "value": 29
       },
       {
         "name": "Stats.Stores.Electronics.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 486384
+        "value": 489062
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 84413
+        "value": 84884
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 68508
+        "value": 68812
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 368
+        "value": 369
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -289,7 +289,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 362472
+        "value": 362493
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 561
+        "value": 562
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1330000
+        "value": 1337500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 463979
+        "value": 465282
       },
       {
         "name": "Stats.EXP.casino",
@@ -669,7 +669,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4074500
+        "value": 4077000
       },
       {
         "name": "Stats.EXP.virus",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 149143
+        "value": 150678
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2062541
+        "value": 2065323
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1465,7 +1465,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetPiano.BestScore",
-        "value": 1764
+        "value": 5100
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.BestScore",
@@ -1501,7 +1501,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 31687
+        "value": 31843
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
@@ -1529,7 +1529,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 3078
+        "value": 4005
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -1617,7 +1617,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 558
+        "value": 563
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",

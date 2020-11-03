@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 344
+        "value": 345
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604356193
+        "value": 1604362374
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 626788
+        "value": 628080
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 172668
+        "value": 173102
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 19167
+        "value": 19219
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -285,7 +285,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 88150
+        "value": 88151
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 152626
+        "value": 155397
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 310
+        "value": 311
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 636
+        "value": 647
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -553,7 +553,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1693001
+        "value": 1695501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 70295
+        "value": 70544
       },
       {
         "name": "Stats.EXP.casino",
@@ -593,7 +593,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 1386001
+        "value": 1396001
       },
       {
         "name": "Stats.EXP.cooking",
@@ -865,7 +865,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 160031
+        "value": 161293
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -889,7 +889,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 656217
+        "value": 659319
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1113,7 +1113,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.StackEm.BestScore",
-        "value": 73
+        "value": 103
       },
       {
         "name": "Stats.Plaza.Arcade.SuperHoopers.BestScore",
@@ -1201,7 +1201,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 113
+        "value": 121
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -1221,7 +1221,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 479
+        "value": 483
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
