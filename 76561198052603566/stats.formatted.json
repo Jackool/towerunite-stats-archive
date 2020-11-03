@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604400797
+        "value": 1604407657
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -165,15 +165,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 612546
+        "value": 617480
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 202207
+        "value": 203408
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 18508
+        "value": 18796
       },
       {
         "name": "Stats.Plaza.Store.Talks",
@@ -277,7 +277,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 234193
+        "value": 234248
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 284
+        "value": 289
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -561,7 +561,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1830500
+        "value": 1835500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1488066
+        "value": 1491193
       },
       {
         "name": "Stats.EXP.casino",
@@ -865,7 +865,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 257612
+        "value": 260660
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -885,11 +885,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 15714
+        "value": 15745
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1425263
+        "value": 1425837
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -897,7 +897,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
-        "value": 1417
+        "value": 1418
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
@@ -917,7 +917,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
-        "value": 675
+        "value": 687
       },
       {
         "name": "Stats.Plaza.LaserTag.BestScore",
@@ -961,11 +961,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Food.TotalScore",
-        "value": 16325
+        "value": 16350
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
-        "value": 47431
+        "value": 47883
       },
       {
         "name": "Stats.Plaza.Minigames.Target.BestScore",
@@ -1585,7 +1585,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.BestScore",
-        "value": 274
+        "value": 330
       },
       {
         "name": "Stats.Plaza.Arcade.Avalanche.BestScore",
@@ -1605,7 +1605,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
-        "value": 2687
+        "value": 2721
       },
       {
         "name": "Stats.Plaza.Arcade.SuperHoopers.Hoops",
@@ -1629,7 +1629,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.BugBytes.BugsDestroyed",
-        "value": 5611
+        "value": 5732
       },
       {
         "name": "Stats.Plaza.Arcade.PluckAPal.Grabs",
@@ -1645,7 +1645,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
-        "value": 65
+        "value": 85
       },
       {
         "name": "Stats.Plaza.Arcade.Avalanche.BlueCatsacks",
@@ -1737,11 +1737,11 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 623
+        "value": 636
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 947
+        "value": 948
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
@@ -1749,7 +1749,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 4002409
+        "value": 4005625
       }
     ],
     "achievements": [
@@ -2499,6 +2499,10 @@
       },
       {
         "name": "ACH_PLZ_ARCADE_METMANIAARMAGEDDON",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_METMANIAENDOFWORLD",
         "achieved": 1
       },
       {
