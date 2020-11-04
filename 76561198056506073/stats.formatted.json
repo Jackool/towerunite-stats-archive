@@ -289,7 +289,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 363309
+        "value": 363549
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 573
+        "value": 585
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -669,7 +669,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4077000
+        "value": 4082000
       },
       {
         "name": "Stats.EXP.virus",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2069857
+        "value": 2073660
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
