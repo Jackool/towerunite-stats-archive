@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604472812
+        "value": 1604473233
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -165,15 +165,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 619113
+        "value": 619386
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 204142
+        "value": 204176
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 18947
+        "value": 18958
       },
       {
         "name": "Stats.Plaza.Store.Talks",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 301
+        "value": 302
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1491951
+        "value": 1491986
       },
       {
         "name": "Stats.EXP.casino",
@@ -865,7 +865,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 261808
+        "value": 262027
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -889,7 +889,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1427955
+        "value": 1427999
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1737,7 +1737,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 645
+        "value": 647
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
