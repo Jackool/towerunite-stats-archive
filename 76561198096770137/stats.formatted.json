@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604537959
+        "value": 1604542046
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 629401
+        "value": 630891
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 174486
+        "value": 175458
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 19325
+        "value": 19428
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 156040
+        "value": 157484
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 346
+        "value": 351
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 683
+        "value": 684
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -553,7 +553,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1700501
+        "value": 1710501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 71359
+        "value": 71820
       },
       {
         "name": "Stats.EXP.casino",
@@ -593,7 +593,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 1528501
+        "value": 1531001
       },
       {
         "name": "Stats.EXP.cooking",
@@ -865,7 +865,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 161676
+        "value": 162462
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -885,11 +885,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 11210
+        "value": 11487
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 719324
+        "value": 721300
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -897,7 +897,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
-        "value": 995
+        "value": 1115
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
@@ -913,7 +913,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
-        "value": 3293
+        "value": 3422
       },
       {
         "name": "Stats.Plaza.LaserTag.BestScore",
@@ -957,11 +957,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Food.TotalScore",
-        "value": 40525
+        "value": 46525
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
-        "value": 235954
+        "value": 245277
       },
       {
         "name": "Stats.Plaza.Minigames.Target.BestScore",
@@ -1169,7 +1169,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 3051
+        "value": 3098
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1221,15 +1221,15 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 488
+        "value": 493
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 1080
+        "value": 1122
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 746
+        "value": 770
       },
       {
         "name": "Stats.EXP.halloween",
