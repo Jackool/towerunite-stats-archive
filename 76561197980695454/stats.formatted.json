@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 14054
+        "value": 14071
       },
       {
         "name": "stat_units",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 845434
+        "value": 846289
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -973,7 +973,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1300717
+        "value": 1301572
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
