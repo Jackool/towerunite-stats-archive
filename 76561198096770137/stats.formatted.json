@@ -309,11 +309,11 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 369
+        "value": 372
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 705
+        "value": 711
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -593,7 +593,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 1631001
+        "value": 1646001
       },
       {
         "name": "Stats.EXP.cooking",
@@ -889,7 +889,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 763398
+        "value": 766751
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
