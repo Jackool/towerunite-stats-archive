@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 449965
+        "value": 450856
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 243798
+        "value": 244294
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 45947
+        "value": 46138
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -1733,7 +1733,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 2624
+        "value": 2654
       },
       {
         "name": "Stats.EXP.halloween",
