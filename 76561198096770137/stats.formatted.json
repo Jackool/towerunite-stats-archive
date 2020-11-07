@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604549467
+        "value": 1604714475
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -285,7 +285,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 114724
+        "value": 114762
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 382
+        "value": 385
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -317,39 +317,39 @@
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
-        "value": 43
+        "value": 52
       },
       {
         "name": "Stats.GameW.Virus.Survivor.AdrenalineUsed",
-        "value": 56
+        "value": 60
       },
       {
         "name": "Stats.GameW.Virus.Infected.SurvivorsInfected",
-        "value": 103
+        "value": 121
       },
       {
         "name": "Stats.GameW.Virus.Survivor.InfectedExploded",
-        "value": 93
+        "value": 104
       },
       {
         "name": "Stats.GameW.Virus.Survivor.LastSurvivorTimes",
-        "value": 16
+        "value": 18
       },
       {
         "name": "Stats.GameW.Virus.FirstPlaceCount",
-        "value": 20
+        "value": 24
       },
       {
         "name": "Stats.GameW.Virus.FirstInfectedCount",
-        "value": 29
+        "value": 32
       },
       {
         "name": "Stats.GameW.Virus.RoundsPlayed",
-        "value": 178
+        "value": 200
       },
       {
         "name": "Stats.GameW.Virus.HospitalSurvive",
-        "value": 6
+        "value": 9
       },
       {
         "name": "Stats.GameW.Virus.DesertionSurvive",
@@ -361,11 +361,11 @@
       },
       {
         "name": "Stats.GameW.Virus.SubwaySurvive",
-        "value": 13
+        "value": 19
       },
       {
         "name": "Stats.GameW.Virus.HospitalInfect",
-        "value": 13
+        "value": 21
       },
       {
         "name": "Stats.GameW.Virus.DesertionInfect",
@@ -373,11 +373,11 @@
       },
       {
         "name": "Stats.GameW.Virus.OvertimeInfect",
-        "value": 10
+        "value": 16
       },
       {
         "name": "Stats.GameW.Virus.SubwayInfect",
-        "value": 16
+        "value": 20
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
@@ -593,7 +593,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 1673501
+        "value": 1683501
       },
       {
         "name": "Stats.EXP.cooking",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 256476
+        "value": 301101
       },
       {
         "name": "Stats.EXP.ppanic",
@@ -661,11 +661,11 @@
       },
       {
         "name": "Stats.GameW.Virus.SurvivorKills",
-        "value": 15
+        "value": 16
       },
       {
         "name": "Stats.GameW.Virus.InfectedKills",
-        "value": 17
+        "value": 18
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Kills",
@@ -849,7 +849,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 18811
+        "value": 21204
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -889,7 +889,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 782484
+        "value": 786691
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1221,7 +1221,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 507
+        "value": 515
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1534,6 +1534,10 @@
         "achieved": 1
       },
       {
+        "name": "ACH_GW_VIRUS_STRONGMOTIVIATION",
+        "achieved": 1
+      },
+      {
         "name": "ACH_GW_VIRUS_DRUGGIE",
         "achieved": 1
       },
@@ -1551,6 +1555,10 @@
       },
       {
         "name": "ACH_GW_VIRUS_LASTALIVE",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_VIRUS_SHELLAWARE",
         "achieved": 1
       },
       {
