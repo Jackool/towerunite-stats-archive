@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604450529
+        "value": 1604706937
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 493515
+        "value": 497192
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 85172
+        "value": 85289
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 69829
+        "value": 70815
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 598
+        "value": 600
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1350000
+        "value": 1362500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 477062
+        "value": 487645
       },
       {
         "name": "Stats.EXP.casino",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 154368
+        "value": 154436
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2086900
+        "value": 2087699
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1501,7 +1501,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 33581
+        "value": 35233
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
@@ -1617,7 +1617,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 577
+        "value": 588
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1629,7 +1629,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 1690888
+        "value": 1695888
       }
     ],
     "achievements": [
@@ -2863,6 +2863,10 @@
       },
       {
         "name": "ACH_PLZ_HALLOWEEN_GHOSTPUP",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_HALLOWEEN_GHOULISHSPENDER",
         "achieved": 1
       },
       {
