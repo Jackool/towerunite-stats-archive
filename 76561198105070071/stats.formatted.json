@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604733398
+        "value": 1604782383
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 7291
+        "value": 7293
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 46271
+        "value": 46277
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 283098
+        "value": 283106
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -153,7 +153,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.GLXYMelons",
-        "value": 221081
+        "value": 221089
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 651
+        "value": 652
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
-        "value": 718
+        "value": 719
       },
       {
         "name": "Stats.GameW.Virus.Survivor.AdrenalineUsed",
@@ -325,11 +325,11 @@
       },
       {
         "name": "Stats.GameW.Virus.Infected.SurvivorsInfected",
-        "value": 1767
+        "value": 1776
       },
       {
         "name": "Stats.GameW.Virus.Survivor.InfectedExploded",
-        "value": 704
+        "value": 705
       },
       {
         "name": "Stats.GameW.Virus.Survivor.LastSurvivorTimes",
@@ -337,19 +337,19 @@
       },
       {
         "name": "Stats.GameW.Virus.FirstPlaceCount",
-        "value": 909
+        "value": 913
       },
       {
         "name": "Stats.GameW.Virus.FirstInfectedCount",
-        "value": 344
+        "value": 345
       },
       {
         "name": "Stats.GameW.Virus.RoundsPlayed",
-        "value": 2361
+        "value": 2372
       },
       {
         "name": "Stats.GameW.Virus.HospitalSurvive",
-        "value": 155
+        "value": 156
       },
       {
         "name": "Stats.GameW.Virus.DesertionSurvive",
@@ -365,7 +365,7 @@
       },
       {
         "name": "Stats.GameW.Virus.HospitalInfect",
-        "value": 325
+        "value": 330
       },
       {
         "name": "Stats.GameW.Virus.DesertionInfect",
@@ -373,7 +373,7 @@
       },
       {
         "name": "Stats.GameW.Virus.OvertimeInfect",
-        "value": 278
+        "value": 282
       },
       {
         "name": "Stats.GameW.Virus.SubwayInfect",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 29280978
+        "value": 29286423
       },
       {
         "name": "Stats.EXP.plaza",
@@ -669,7 +669,7 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 4361491
+        "value": 4379491
       },
       {
         "name": "Stats.EXP.mgolf",
@@ -753,7 +753,7 @@
       },
       {
         "name": "Stats.GameW.Virus.InfectedKills",
-        "value": 317
+        "value": 319
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Kills",
@@ -961,7 +961,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 1868335
+        "value": 1868662
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 251756
+        "value": 252832
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2587495
+        "value": 2587685
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2073,7 +2073,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 249
+        "value": 255
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
