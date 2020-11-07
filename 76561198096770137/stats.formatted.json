@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 637216
+        "value": 642726
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 177176
+        "value": 177838
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 19613
+        "value": 19781
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -285,7 +285,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 115014
+        "value": 115019
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 388
+        "value": 389
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -553,7 +553,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1725501
+        "value": 1743001
       },
       {
         "name": "Stats.EXP.ltag",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 72400
+        "value": 73101
       },
       {
         "name": "Stats.EXP.casino",
@@ -865,7 +865,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 167287
+        "value": 172543
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -889,7 +889,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 788510
+        "value": 788620
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1109,7 +1109,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRig.BestScore",
-        "value": 158
+        "value": 183
       },
       {
         "name": "Stats.Plaza.Arcade.StackEm.BestScore",
@@ -1169,7 +1169,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 3211
+        "value": 3343
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1221,11 +1221,11 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 518
+        "value": 534
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 1122
+        "value": 1182
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",

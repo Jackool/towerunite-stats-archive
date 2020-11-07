@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604728999
+        "value": 1604733398
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3685473
+        "value": 3687795
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2116520
+        "value": 2117589
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 376348
+        "value": 376726
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8284500
+        "value": 8292000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 703762
+        "value": 703792
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 465454
+        "value": 465456
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -2077,15 +2077,15 @@
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 359
+        "value": 362
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 1003
+        "value": 1013
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 2608163
+        "value": 2635663
       }
     ],
     "achievements": [
