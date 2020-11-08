@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604778173
+        "value": 1604796887
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,7 +169,7 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 685712
+        "value": 685717
       },
       {
         "name": "Stats.Plaza.Steps",
@@ -285,7 +285,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 115022
+        "value": 115132
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 390
+        "value": 391
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -553,7 +553,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1880501
+        "value": 1890501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 78613
+        "value": 88682
       },
       {
         "name": "Stats.EXP.casino",
@@ -889,7 +889,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 788845
+        "value": 795813
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1902,6 +1902,10 @@
         "achieved": 1
       },
       {
+        "name": "ACH_PLZ_ARCADE_METMANIAENDOFWORLD",
+        "achieved": 1
+      },
+      {
         "name": "ACH_PLZ_ARCADE_AVALANCHESNOWEDIN",
         "achieved": 1
       },
@@ -1911,6 +1915,18 @@
       },
       {
         "name": "ACH_PLZ_ARCADE_LONELYGUNJUDGEJURY",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_LONELYGUNTOTALEFFICIENCY",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_LONELYGUNCOURTSADJUOURNED",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_LONELYGUN",
         "achieved": 1
       },
       {
