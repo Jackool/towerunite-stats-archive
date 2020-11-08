@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 32335
+        "value": 32351
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604828692
+        "value": 1604866373
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 7295
+        "value": 7296
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3691701
+        "value": 3692422
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2120103
+        "value": 2120550
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 377174
+        "value": 377250
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1313033
+        "value": 1314078
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 655
+        "value": 656
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 22455
+        "value": 22460
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 703814
+        "value": 703887
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2589140
+        "value": 2590594
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2077,15 +2077,15 @@
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 372
+        "value": 382
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 1013
+        "value": 1043
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 2670663
+        "value": 2740663
       }
     ],
     "achievements": [
