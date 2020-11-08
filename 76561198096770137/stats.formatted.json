@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604814958
+        "value": 1604818945
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 704745
+        "value": 707864
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 181846
+        "value": 182721
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 20813
+        "value": 20880
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -269,15 +269,15 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Eliminations",
-        "value": 46
+        "value": 49
       },
       {
         "name": "Stats.Plaza.LaserTag.Tags",
-        "value": 96
+        "value": 109
       },
       {
         "name": "Stats.Plaza.LaserTag.Wins",
-        "value": 94
+        "value": 154
       },
       {
         "name": "Stats.Plaza.TypingDerby.Words",
@@ -285,7 +285,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 115132
+        "value": 115511
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 393
+        "value": 394
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -553,11 +553,11 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1948001
+        "value": 1953001
       },
       {
         "name": "Stats.EXP.ltag",
-        "value": 922271
+        "value": 973901
       },
       {
         "name": "Stats.EXP.trivia",
@@ -593,7 +593,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 1706001
+        "value": 1708501
       },
       {
         "name": "Stats.EXP.cooking",
@@ -857,7 +857,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Playtime",
-        "value": 3456
+        "value": 4990
       },
       {
         "name": "Stats.Plaza.Trivia.Playtime",
@@ -889,7 +889,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 796228
+        "value": 797990
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -921,7 +921,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.TotalScore",
-        "value": 8550
+        "value": 9525
       },
       {
         "name": "Stats.Plaza.Trivia.BestScore",
@@ -1233,7 +1233,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 701
+        "value": 712
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1447,6 +1447,14 @@
       },
       {
         "name": "ACH_PLZ_BOWLING_THECLEANER",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_LTAG_TERMINATOR",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_LTAG_GRIMREAPER",
         "achieved": 1
       },
       {
