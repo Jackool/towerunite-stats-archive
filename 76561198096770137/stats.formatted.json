@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604854766
+        "value": 1604861977
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,11 +169,11 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 721293
+        "value": 723423
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 184297
+        "value": 184301
       },
       {
         "name": "Stats.Plaza.Jumps",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1998001
+        "value": 2005501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -593,7 +593,7 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 39901
+        "value": 65601
       },
       {
         "name": "Stats.EXP.condo",
@@ -629,11 +629,11 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 44
+        "value": 94
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
-        "value": 1
+        "value": 22
       },
       {
         "name": "Stats.GameW.BallRace.OasisCompleted",
@@ -901,7 +901,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
-        "value": 2427
+        "value": 4120
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
@@ -1016,8 +1016,28 @@
         "value": 6
       },
       {
+        "name": "Stats.Plaza.Fishing.ReefButterflyfish",
+        "value": 1
+      },
+      {
         "name": "Stats.Plaza.Fishing.RedtailNotho",
         "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.ClownTriggerfish",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.RoyalAngelfish",
+        "value": 2
+      },
+      {
+        "name": "Stats.Plaza.Fishing.RedZebraCichlid",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.YellowAngelfish",
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.BlueArowana",
@@ -1028,7 +1048,19 @@
         "value": 1
       },
       {
+        "name": "Stats.Plaza.Fishing.Barracuda",
+        "value": 1
+      },
+      {
         "name": "Stats.Plaza.Fishing.ButterflyFish",
+        "value": 4
+      },
+      {
+        "name": "Stats.Plaza.Fishing.TigerTurquoiseDiscus",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.BlueCheckerboardDiscus",
         "value": 1
       },
       {
@@ -1040,11 +1072,27 @@
         "value": 1
       },
       {
-        "name": "Stats.Plaza.Fishing.MahiMahi",
+        "name": "Stats.Plaza.Fishing.Frontosa",
         "value": 1
       },
       {
+        "name": "Stats.Plaza.Fishing.Mackerel",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.MahiMahi",
+        "value": 2
+      },
+      {
         "name": "Stats.Plaza.Fishing.MoorishIdol",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.Octopus",
+        "value": 2
+      },
+      {
+        "name": "Stats.Plaza.Fishing.OrangespineUnicornfish",
         "value": 1
       },
       {
@@ -1053,6 +1101,14 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Piranha",
+        "value": 3
+      },
+      {
+        "name": "Stats.Plaza.Fishing.RainbowCichlid",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.RedEye",
         "value": 1
       },
       {
@@ -1064,7 +1120,27 @@
         "value": 1
       },
       {
+        "name": "Stats.Plaza.Fishing.Trout",
+        "value": 1
+      },
+      {
         "name": "Stats.Plaza.Fishing.CoralCod",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.Cuttlefish",
+        "value": 2
+      },
+      {
+        "name": "Stats.Plaza.Fishing.MantaRay",
+        "value": 2
+      },
+      {
+        "name": "Stats.Plaza.Fishing.Stingray",
+        "value": 2
+      },
+      {
+        "name": "Stats.Plaza.Fishing.LargeClownfish",
         "value": 1
       },
       {
@@ -1080,6 +1156,10 @@
         "value": 1
       },
       {
+        "name": "Stats.Plaza.Fishing.LargePeacockBass",
+        "value": 1
+      },
+      {
         "name": "Stats.Plaza.Fishing.LargeCommonStarfish",
         "value": 1
       },
@@ -1092,7 +1172,43 @@
         "value": 1
       },
       {
+        "name": "Stats.Plaza.Fishing.Pufferfish",
+        "value": 4
+      },
+      {
+        "name": "Stats.Plaza.Fishing.LeopardCoralGrouper",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.ShortfinCorvina",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.Fangtooth",
+        "value": 2
+      },
+      {
         "name": "Stats.Plaza.Fishing.SeaBass",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.LionFish",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.Archerfish",
+        "value": 2
+      },
+      {
+        "name": "Stats.Plaza.Fishing.BlueMarlin",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.Amur",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.LargeCuberaSnapper",
         "value": 1
       },
       {
@@ -1110,6 +1226,10 @@
       {
         "name": "Stats.Plaza.Minigames.EasterEgg.TotalScore",
         "value": 2440
+      },
+      {
+        "name": "Stats.Plaza.Fishing.Tire",
+        "value": 1
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenBottle",
@@ -1130,6 +1250,10 @@
       {
         "name": "Stats.Plaza.Fishing.PlasticToyblock",
         "value": 2
+      },
+      {
+        "name": "Stats.Plaza.Fishing.UsedSprayCan",
+        "value": 1
       },
       {
         "name": "Stats.Plaza.Fishing.CrosswordMagazine",
@@ -1345,7 +1469,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 4961228
+        "value": 5030343
       }
     ],
     "achievements": [
@@ -1819,6 +1943,10 @@
       },
       {
         "name": "ACH_PLZ_FISHING_CATCH20FISH",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_FISHING_CATCH100FISH",
         "achieved": 1
       },
       {
