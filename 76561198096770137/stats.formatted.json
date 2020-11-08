@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604847341
+        "value": 1604854766
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 711900
+        "value": 721293
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 183393
+        "value": 184297
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 20900
+        "value": 20961
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -429,7 +429,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.WeaponPickups",
-        "value": 315
+        "value": 318
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TeamMembersSaved",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1995501
+        "value": 1998001
       },
       {
         "name": "Stats.EXP.ltag",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 113439
+        "value": 113482
       },
       {
         "name": "Stats.EXP.casino",
@@ -593,7 +593,7 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 30151
+        "value": 39901
       },
       {
         "name": "Stats.EXP.condo",
@@ -861,7 +861,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
-        "value": 17436
+        "value": 17504
       },
       {
         "name": "Stats.Plaza.LaserTag.Playtime",
@@ -873,7 +873,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 228937
+        "value": 234677
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1233,7 +1233,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 4519
+        "value": 4646
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1265,7 +1265,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PluckAPal.Grabs",
-        "value": 20
+        "value": 77
       },
       {
         "name": "Stats.Plaza.Arcade.NewtonsApples.ApplesDropped",
@@ -1333,7 +1333,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 718
+        "value": 734
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
