@@ -53,7 +53,7 @@
       },
       {
         "name": "Stats.Stores.Fishing.NumVisits",
-        "value": 10
+        "value": 12
       },
       {
         "name": "Stats.Stores.Seasonal.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 711157
+        "value": 711900
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 183237
+        "value": 183393
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 20897
+        "value": 20900
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 262
+        "value": 264
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1963001
+        "value": 1978001
       },
       {
         "name": "Stats.EXP.ltag",
