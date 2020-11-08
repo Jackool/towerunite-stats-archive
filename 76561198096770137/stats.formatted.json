@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604804140
+        "value": 1604811539
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 685717
+        "value": 701819
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 179187
+        "value": 181450
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 20718
+        "value": 20796
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -553,7 +553,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1913001
+        "value": 1935501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 105637
+        "value": 112797
       },
       {
         "name": "Stats.EXP.casino",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 301101
+        "value": 306126
       },
       {
         "name": "Stats.EXP.ppanic",
@@ -865,7 +865,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 215058
+        "value": 228937
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -885,7 +885,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 11531
+        "value": 11685
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -901,7 +901,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
-        "value": 1142
+        "value": 1310
       },
       {
         "name": "Stats.Plaza.Minigames.BalloonsPopped",
@@ -941,7 +941,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Target.TotalScore",
-        "value": 64635
+        "value": 74165
       },
       {
         "name": "Stats.Plaza.Minigames.Fruit.TotalScore",
@@ -1113,23 +1113,27 @@
       },
       {
         "name": "Stats.Plaza.Arcade.StackEm.BestScore",
-        "value": 103
+        "value": 113
       },
       {
         "name": "Stats.Plaza.Arcade.SuperHoopers.BestScore",
-        "value": 5
+        "value": 105
       },
       {
         "name": "Stats.Plaza.Arcade.SalmonSays.BestScore",
-        "value": 180
+        "value": 510
       },
       {
         "name": "Stats.Plaza.Arcade.Skeeball.BestScore",
-        "value": 11025
+        "value": 33050
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAfish.BestScore",
         "value": 45
+      },
+      {
+        "name": "Stats.Plaza.Arcade.RingGod.BestScore",
+        "value": 4700
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.BestScore",
@@ -1149,11 +1153,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetPiano.BestScore",
-        "value": 542
+        "value": 3826
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.BestScore",
-        "value": 286
+        "value": 332
       },
       {
         "name": "Stats.Plaza.Arcade.Avalanche.BestScore",
@@ -1161,15 +1165,15 @@
       },
       {
         "name": "Stats.Plaza.Arcade.IceCave.BestScore",
-        "value": 1770
+        "value": 2204
       },
       {
         "name": "Stats.Plaza.Arcade.LonelyGun.BestTime",
-        "value": 6.1171875
+        "value": 3.25390625
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 4428
+        "value": 4519
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1177,11 +1181,19 @@
       },
       {
         "name": "Stats.Plaza.Arcade.SuperHoopers.Hoops",
-        "value": 1
+        "value": 372
+      },
+      {
+        "name": "Stats.Plaza.Arcade.SalmonSays.LevelReached",
+        "value": 45
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
         "value": 8
+      },
+      {
+        "name": "Stats.Plaza.Arcade.RingGod.Rings",
+        "value": 553
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.Basket",
@@ -1193,19 +1205,19 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PluckAPal.Grabs",
-        "value": 1
+        "value": 20
       },
       {
         "name": "Stats.Plaza.Arcade.NewtonsApples.ApplesDropped",
-        "value": 3877
+        "value": 3905
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 121
+        "value": 661
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
-        "value": 21
+        "value": 85
       },
       {
         "name": "Stats.Plaza.Arcade.Avalanche.BlueCatsacks",
@@ -1213,19 +1225,19 @@
       },
       {
         "name": "Stats.Plaza.Arcade.IceCave.TilesLit",
-        "value": 36
+        "value": 511
       },
       {
         "name": "Stats.Plaza.Arcade.LonelyGun.TargetsHit",
-        "value": 12
+        "value": 149
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 655
+        "value": 695
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 1222
+        "value": 1250
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
@@ -1233,7 +1245,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 4881831
+        "value": 4956831
       }
     ],
     "achievements": [
@@ -1858,7 +1870,15 @@
         "achieved": 1
       },
       {
+        "name": "ACH_PLZ_ARCADE_SUPERHOOPERSHOOP",
+        "achieved": 1
+      },
+      {
         "name": "ACH_PLZ_ARCADE_SUPERHOOPERSSUPERSTAR",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_SUPERHOOPERSGOINGPRO",
         "achieved": 1
       },
       {
@@ -1954,6 +1974,10 @@
         "achieved": 1
       },
       {
+        "name": "ACH_PLZ_ARCADE_ICECAVELIGHTEMUP",
+        "achieved": 1
+      },
+      {
         "name": "ACH_PLZ_ARCADE_LONELYGUNJUDGEJURY",
         "achieved": 1
       },
@@ -1971,6 +1995,10 @@
       },
       {
         "name": "ACH_PLZ_HALLOWEEN_GHOSTPUP",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_HALLOWEEN_GHOULISHSPENDER",
         "achieved": 1
       },
       {
