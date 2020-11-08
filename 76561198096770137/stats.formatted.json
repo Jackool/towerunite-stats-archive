@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604818945
+        "value": 1604832404
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -53,7 +53,7 @@
       },
       {
         "name": "Stats.Stores.Fishing.NumVisits",
-        "value": 9
+        "value": 10
       },
       {
         "name": "Stats.Stores.Seasonal.NumVisits",
@@ -93,7 +93,7 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 415
+        "value": 416
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 707864
+        "value": 711157
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 182721
+        "value": 183237
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 20880
+        "value": 20897
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 261
+        "value": 262
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 357090
+        "value": 376190
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -257,7 +257,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 4619435
+        "value": 4621160
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 394
+        "value": 395
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
-        "value": 55
+        "value": 57
       },
       {
         "name": "Stats.GameW.Virus.Survivor.AdrenalineUsed",
@@ -325,15 +325,15 @@
       },
       {
         "name": "Stats.GameW.Virus.Infected.SurvivorsInfected",
-        "value": 123
+        "value": 124
       },
       {
         "name": "Stats.GameW.Virus.Survivor.InfectedExploded",
-        "value": 109
+        "value": 111
       },
       {
         "name": "Stats.GameW.Virus.Survivor.LastSurvivorTimes",
-        "value": 19
+        "value": 20
       },
       {
         "name": "Stats.GameW.Virus.FirstPlaceCount",
@@ -345,11 +345,11 @@
       },
       {
         "name": "Stats.GameW.Virus.RoundsPlayed",
-        "value": 211
+        "value": 214
       },
       {
         "name": "Stats.GameW.Virus.HospitalSurvive",
-        "value": 9
+        "value": 11
       },
       {
         "name": "Stats.GameW.Virus.DesertionSurvive",
@@ -365,7 +365,7 @@
       },
       {
         "name": "Stats.GameW.Virus.HospitalInfect",
-        "value": 21
+        "value": 22
       },
       {
         "name": "Stats.GameW.Virus.DesertionInfect",
@@ -397,11 +397,15 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 2
+        "value": 6
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
         "value": 16
+      },
+      {
+        "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
+        "value": 2
       },
       {
         "name": "Stats.GameW.ZombieMassacre.RadioTowerKills",
@@ -549,11 +553,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 446742
+        "value": 447042
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1953001
+        "value": 1963001
       },
       {
         "name": "Stats.EXP.ltag",
@@ -589,7 +593,7 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 11351
+        "value": 30151
       },
       {
         "name": "Stats.EXP.condo",
@@ -601,7 +605,7 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 311301
+        "value": 316551
       },
       {
         "name": "Stats.EXP.ppanic",
@@ -609,11 +613,11 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 250416
+        "value": 250866
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 22076
+        "value": 27054
       },
       {
         "name": "Stats.EXP.zm",
@@ -621,11 +625,15 @@
       },
       {
         "name": "Stats.EXP.accel",
-        "value": 5310
+        "value": 8120
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 17
+        "value": 44
+      },
+      {
+        "name": "Stats.Plaza.Fishing.RareFishCaught",
+        "value": 1
       },
       {
         "name": "Stats.GameW.BallRace.OasisCompleted",
@@ -661,11 +669,11 @@
       },
       {
         "name": "Stats.GameW.Virus.SurvivorKills",
-        "value": 19
+        "value": 21
       },
       {
         "name": "Stats.GameW.Virus.InfectedKills",
-        "value": 20
+        "value": 21
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Kills",
@@ -829,19 +837,19 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 6
+        "value": 459
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 21463
+        "value": 21519
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 1122
+        "value": 1251
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 23321
+        "value": 23399
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -849,7 +857,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 22318
+        "value": 22635
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -869,7 +877,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 274219
+        "value": 274652
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -885,15 +893,15 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 11685
+        "value": 11763
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 797990
+        "value": 798110
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
-        "value": 912
+        "value": 2427
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
@@ -913,7 +921,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
-        "value": 3422
+        "value": 3467
       },
       {
         "name": "Stats.Plaza.LaserTag.BestScore",
@@ -961,7 +969,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
-        "value": 245277
+        "value": 248208
       },
       {
         "name": "Stats.Plaza.Minigames.Target.BestScore",
@@ -989,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 4833415
+        "value": 5433615
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.GrandQuest",
@@ -1028,6 +1036,26 @@
         "value": 1
       },
       {
+        "name": "Stats.Plaza.Fishing.FoureyeButterflyFish",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.MahiMahi",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.MoorishIdol",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.Pike",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.Piranha",
+        "value": 1
+      },
+      {
         "name": "Stats.Plaza.Fishing.Salmon",
         "value": 1
       },
@@ -1040,7 +1068,31 @@
         "value": 1
       },
       {
+        "name": "Stats.Plaza.Fishing.LargeFoureyeButterflyFish",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.LargeMussel",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.LargeNombochromis",
+        "value": 1
+      },
+      {
         "name": "Stats.Plaza.Fishing.LargeCommonStarfish",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.LargeBlueArowana",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.LargeOrangeSurgeon",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.SeaBass",
         "value": 1
       },
       {
@@ -1061,6 +1113,14 @@
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenBottle",
+        "value": 2
+      },
+      {
+        "name": "Stats.Plaza.Fishing.BrokenSodaCan",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.BarrelofTrash",
         "value": 1
       },
       {
@@ -1069,11 +1129,11 @@
       },
       {
         "name": "Stats.Plaza.Fishing.PlasticToyblock",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.CrosswordMagazine",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Minigames.Chainsaw.BestScore",
@@ -1232,8 +1292,48 @@
         "value": 149
       },
       {
+        "name": "Stats.GameW.Accelerate.BedzoomComplete",
+        "value": 1
+      },
+      {
+        "name": "Stats.GameW.Accelerate.DamagedByItems",
+        "value": 9
+      },
+      {
+        "name": "Stats.GameW.Accelerate.HitPlayers",
+        "value": 7
+      },
+      {
+        "name": "Stats.GameW.Accelerate.MelonBoosts",
+        "value": 5
+      },
+      {
+        "name": "Stats.GameW.Accelerate.BumperHits",
+        "value": 2
+      },
+      {
+        "name": "Stats.GameW.Accelerate.GolfHoleSinks",
+        "value": 1
+      },
+      {
+        "name": "Stats.GameW.Accelerate.HomingBowlingBalls",
+        "value": 2
+      },
+      {
+        "name": "Stats.GameW.Accelerate.SunHits",
+        "value": 1
+      },
+      {
+        "name": "Stats.GameW.Accelerate.DriftTime",
+        "value": 660
+      },
+      {
+        "name": "Stats.GameW.Accelerate.ItemsGiven",
+        "value": 33
+      },
+      {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 712
+        "value": 718
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1245,7 +1345,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 4956831
+        "value": 4961228
       }
     ],
     "achievements": [
@@ -1710,7 +1810,19 @@
         "achieved": 1
       },
       {
+        "name": "ACH_GW_LC_DRAGONTOYROOM",
+        "achieved": 1
+      },
+      {
         "name": "ACH_PLZ_FISHING_CATCHFISH",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_FISHING_CATCH20FISH",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_FISHING_CATCHRAREFISH",
         "achieved": 1
       },
       {
@@ -1999,6 +2111,10 @@
       },
       {
         "name": "ACH_PLZ_ARCADE_LONELYGUN",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_ACCEL_BEDZOOMCOMPLETE",
         "achieved": 1
       },
       {
