@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604796887
+        "value": 1604804140
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -553,7 +553,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1890501
+        "value": 1913001
       },
       {
         "name": "Stats.EXP.ltag",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 88682
+        "value": 105637
       },
       {
         "name": "Stats.EXP.casino",
@@ -1233,7 +1233,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 4867536
+        "value": 4881831
       }
     ],
     "achievements": [
@@ -1858,7 +1858,23 @@
         "achieved": 1
       },
       {
+        "name": "ACH_PLZ_ARCADE_SUPERHOOPERSSUPERSTAR",
+        "achieved": 1
+      },
+      {
         "name": "ACH_PLZ_ARCADE_SALMONSAYSTAKEME",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_SALMONSAYSDROPME",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_SKEEBALLMIDWAY",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_SKEEBALLBULLSEYE",
         "achieved": 1
       },
       {
@@ -1874,6 +1890,18 @@
         "achieved": 1
       },
       {
+        "name": "ACH_PLZ_ARCADE_RINGGODDIETY",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_RINGGODLORD",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_RINGGODGOD",
+        "achieved": 1
+      },
+      {
         "name": "ACH_PLZ_ARCADE_LBFEEDERSDELICIOUS",
         "achieved": 1
       },
@@ -1886,7 +1914,15 @@
         "achieved": 1
       },
       {
+        "name": "ACH_PLZ_ARCADE_PLUCKAPALFRIENDSHIP",
+        "achieved": 1
+      },
+      {
         "name": "ACH_PLZ_ARCADE_PLUCKAPALFRIENDS",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_PLUCKAPALVIP",
         "achieved": 1
       },
       {
@@ -1895,6 +1931,10 @@
       },
       {
         "name": "ACH_PLZ_ARCADE_NEWTONAPPLESGRAVITY",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_PLANETPIANOPLAYME",
         "achieved": 1
       },
       {

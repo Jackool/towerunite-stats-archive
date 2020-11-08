@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604797137
+        "value": 1604803567
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 451441
+        "value": 452196
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 244442
+        "value": 244702
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 46184
+        "value": 46295
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -953,7 +953,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 12499
+        "value": 12546
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 40403
+        "value": 40528
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
-        "value": 7010
+        "value": 7057
       },
       {
         "name": "Stats.Plaza.Minigames.BalloonsPopped",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Target.TotalScore",
-        "value": 307020
+        "value": 309075
       },
       {
         "name": "Stats.Plaza.Minigames.Fruit.TotalScore",
@@ -1725,7 +1725,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 337
+        "value": 338
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1733,11 +1733,11 @@
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 2661
+        "value": 2665
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 12093277
+        "value": 12102277
       }
     ],
     "achievements": [
