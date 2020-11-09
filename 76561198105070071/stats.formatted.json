@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604874082
+        "value": 1604891371
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 46315
+        "value": 46324
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 283123
+        "value": 283148
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1314775
+        "value": 1315330
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 29326940
+        "value": 29334890
       },
       {
         "name": "Stats.EXP.plaza",
@@ -961,7 +961,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 1870612
+        "value": 1870998
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2591291
+        "value": 2591846
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1845,11 +1845,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompleted",
-        "value": 212
+        "value": 213
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsMelons",
-        "value": 15665
+        "value": 15690
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompletedNoDeath",
@@ -2073,7 +2073,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 284
+        "value": 286
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
