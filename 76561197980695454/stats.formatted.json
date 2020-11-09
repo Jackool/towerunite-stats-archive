@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604886228
+        "value": 1604960668
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 460842
+        "value": 462836
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 250798
+        "value": 251354
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 47640
+        "value": 47826
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1346500
+        "value": 1351500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 70222
+        "value": 70228
       },
       {
         "name": "Stats.EXP.casino",
@@ -949,7 +949,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 36435
+        "value": 36748
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 41212
+        "value": 41392
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
-        "value": 7219
+        "value": 7303
       },
       {
         "name": "Stats.Plaza.Minigames.BalloonsPopped",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.PumpkinsSmashed",
-        "value": 6853
+        "value": 6933
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Target.TotalScore",
-        "value": 316180
+        "value": 319270
       },
       {
         "name": "Stats.Plaza.Minigames.Fruit.TotalScore",
@@ -1041,7 +1041,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
-        "value": 238390
+        "value": 241440
       },
       {
         "name": "Stats.Plaza.Minigames.Food.TotalScore",
@@ -1657,7 +1657,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 327
+        "value": 346
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -1725,7 +1725,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 351
+        "value": 354
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1737,7 +1737,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 12502578
+        "value": 12526788
       }
     ],
     "achievements": [
