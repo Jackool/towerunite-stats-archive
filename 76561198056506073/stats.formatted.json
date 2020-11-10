@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605027331
+        "value": 1605030739
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -49,7 +49,7 @@
       },
       {
         "name": "Stats.Stores.Music.NumVisits",
-        "value": 14
+        "value": 15
       },
       {
         "name": "Stats.Stores.Fishing.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 533739
+        "value": 536863
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 87212
+        "value": 87630
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 78728
+        "value": 79251
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 373
+        "value": 376
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -193,11 +193,11 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 2339297
+        "value": 2396522
       },
       {
         "name": "Stats.Plaza.Markers",
-        "value": 64
+        "value": 65
       },
       {
         "name": "Stats.Plaza.PhotoShoots",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1473000
+        "value": 1483000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 560215
+        "value": 565435
       },
       {
         "name": "Stats.EXP.casino",
@@ -989,7 +989,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 170271
+        "value": 170687
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1133,7 +1133,7 @@
       },
       {
         "name": "Stats.Stores.DIY.NumVisits",
-        "value": 8
+        "value": 10
       },
       {
         "name": "Stats.Plaza.Fishing.ReefButterflyfish",
@@ -1505,7 +1505,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 46476
+        "value": 47384
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
@@ -1525,7 +1525,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PluckAPal.Grabs",
-        "value": 104
+        "value": 109
       },
       {
         "name": "Stats.Plaza.Arcade.NewtonsApples.ApplesDropped",
@@ -1621,7 +1621,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 690
+        "value": 696
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
