@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 32367
+        "value": 32423
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604980804
+        "value": 1604991522
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 7500
+        "value": 7503
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -281,11 +281,11 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 362363
+        "value": 362397
       },
       {
         "name": "Stats.Condo.PartyTime",
-        "value": 162498
+        "value": 165329
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1316353
+        "value": 1321135
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 22460
+        "value": 22463
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -657,11 +657,11 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 1319900
+        "value": 1320800
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4639000
+        "value": 4651500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 5822836
+        "value": 5835286
       },
       {
         "name": "Stats.EXP.zm",
@@ -689,7 +689,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 2655
+        "value": 2656
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2593711
+        "value": 2598493
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1801,7 +1801,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.HomeCookingMagazine",
-        "value": 35
+        "value": 36
       },
       {
         "name": "Stats.Plaza.Fishing.CrosswordMagazine",
