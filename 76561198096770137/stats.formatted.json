@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604962527
+        "value": 1604968681
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 726672
+        "value": 730766
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 184660
+        "value": 185263
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 20983
+        "value": 20986
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Plaza.TypingDerby.Words",
-        "value": 3823
+        "value": 4204
       },
       {
         "name": "Stats.Condo.TVTime",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 2023001
+        "value": 2038001
       },
       {
         "name": "Stats.EXP.ltag",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 113866
+        "value": 118192
       },
       {
         "name": "Stats.EXP.casino",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 147
+        "value": 175
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -873,7 +873,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 234677
+        "value": 235812
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -881,7 +881,7 @@
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
-        "value": 3792
+        "value": 4044
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
@@ -901,7 +901,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
-        "value": 5939
+        "value": 6826
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
@@ -1081,7 +1081,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.EmperorAngelfish",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.FoureyeButterflyFish",
@@ -1113,7 +1113,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Mussel",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.Octopus",
@@ -1156,6 +1156,10 @@
         "value": 1
       },
       {
+        "name": "Stats.Plaza.Fishing.CommonStarfish",
+        "value": 1
+      },
+      {
         "name": "Stats.Plaza.Fishing.Trout",
         "value": 1
       },
@@ -1189,7 +1193,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.LargeMussel",
-        "value": 2
+        "value": 4
       },
       {
         "name": "Stats.Plaza.Fishing.LargeNombochromis",
@@ -1197,7 +1201,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.LargeOyster",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.LargePeacockBass",
@@ -1208,11 +1212,23 @@
         "value": 2
       },
       {
+        "name": "Stats.Plaza.Fishing.LargeRedKnobStarfish",
+        "value": 1
+      },
+      {
         "name": "Stats.Plaza.Fishing.LargeCommonStarfish",
         "value": 1
       },
       {
+        "name": "Stats.Plaza.Fishing.LargeRedSnapper",
+        "value": 1
+      },
+      {
         "name": "Stats.Plaza.Fishing.LargeClownTriggerfish",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.LargeDesjardinSailfinTang",
         "value": 1
       },
       {
@@ -1293,7 +1309,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenTelevision",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.Tire",
@@ -1301,15 +1317,19 @@
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenBottle",
-        "value": 2
+        "value": 3
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenSodaCan",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.Cigs",
-        "value": 2
+        "value": 3
+      },
+      {
+        "name": "Stats.Plaza.Fishing.RuinedPaperTicket",
+        "value": 1
       },
       {
         "name": "Stats.Plaza.Fishing.CandyWrapper",
@@ -1317,10 +1337,14 @@
       },
       {
         "name": "Stats.Plaza.Fishing.TrashBag",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.BarrelofTrash",
+        "value": 2
+      },
+      {
+        "name": "Stats.Plaza.Fishing.WoodenPalette",
         "value": 1
       },
       {
@@ -1333,7 +1357,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.ShoppingCart",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.UsedSprayCan",
@@ -1341,7 +1365,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.HomeCookingMagazine",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.CrosswordMagazine",
@@ -1481,7 +1505,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PluckAPal.Grabs",
-        "value": 77
+        "value": 92
       },
       {
         "name": "Stats.Plaza.Arcade.NewtonsApples.ApplesDropped",
@@ -1489,7 +1513,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 661
+        "value": 2219
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -1549,7 +1573,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 736
+        "value": 743
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1557,11 +1581,11 @@
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 782
+        "value": 785
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 5043343
+        "value": 5045573
       }
     ],
     "achievements": [
@@ -2274,6 +2298,14 @@
         "achieved": 1
       },
       {
+        "name": "ACH_PLZ_ARCADE_BUGBYTESLEAVINGEARLYACCESS",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_BUGBYTESOVERTIME",
+        "achieved": 1
+      },
+      {
         "name": "ACH_PLZ_ARCADE_PLUCKAPALFRIENDSHIP",
         "achieved": 1
       },
@@ -2295,6 +2327,10 @@
       },
       {
         "name": "ACH_PLZ_ARCADE_PLANETPIANOPLAYME",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_PLANETPIANOBEETHOVEN",
         "achieved": 1
       },
       {
