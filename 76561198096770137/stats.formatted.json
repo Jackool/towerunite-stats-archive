@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604968681
+        "value": 1604976215
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 2038001
+        "value": 2063001
       },
       {
         "name": "Stats.EXP.ltag",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 118192
+        "value": 125851
       },
       {
         "name": "Stats.EXP.casino",
@@ -2295,6 +2295,14 @@
       },
       {
         "name": "ACH_PLZ_ARCADE_LBFEEDERSSWEETSNACKS",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_OFFERINGWORTHY",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_OFFERINGMESSIAH",
         "achieved": 1
       },
       {
