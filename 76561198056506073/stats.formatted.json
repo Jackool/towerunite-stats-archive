@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605013162
+        "value": 1605020294
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -41,11 +41,11 @@
       },
       {
         "name": "Stats.Stores.Electronics.NumVisits",
-        "value": 256
+        "value": 257
       },
       {
         "name": "Stats.Stores.Thrift.NumVisits",
-        "value": 36
+        "value": 37
       },
       {
         "name": "Stats.Stores.Music.NumVisits",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 1780
+        "value": 1791
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 5789
+        "value": 5803
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -153,7 +153,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.GLXYMelons",
-        "value": 148
+        "value": 162
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 527955
+        "value": 529564
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 86735
+        "value": 87055
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 78614
+        "value": 78703
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 369
+        "value": 371
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 2136197
+        "value": 2196397
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -229,7 +229,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 9661
+        "value": 9705
       },
       {
         "name": "Stats.Plaza.Casino.Poker.TotalUnitsPlayed",
@@ -245,7 +245,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.WOMSpins",
-        "value": 433
+        "value": 436
       },
       {
         "name": "Stats.Plaza.Casino.WOMNothings",
@@ -253,7 +253,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 1356120
+        "value": 1362600
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -625,11 +625,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 1567686
+        "value": 1578636
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1460500
+        "value": 1470500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.casino",
-        "value": 170500
+        "value": 178000
       },
       {
         "name": "Stats.EXP.tderby",
@@ -957,7 +957,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 86947
+        "value": 87405
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -993,7 +993,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 86670
+        "value": 87224
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 9798
+        "value": 9804
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
-        "value": 1764
+        "value": 1765
       },
       {
         "name": "Stats.Plaza.Minigames.BalloonsPopped",
@@ -1069,7 +1069,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Target.TotalScore",
-        "value": 63010
+        "value": 63015
       },
       {
         "name": "Stats.Plaza.Minigames.Fruit.TotalScore",
@@ -1117,7 +1117,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 1065275
+        "value": 1070825
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.GrandQuest",
@@ -1621,7 +1621,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 673
+        "value": 675
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1633,7 +1633,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 1695888
+        "value": 1695896
       }
     ],
     "achievements": [
