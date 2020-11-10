@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604991596
+        "value": 1604998668
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 504863
+        "value": 519929
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 85808
+        "value": 86211
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 73330
+        "value": 77056
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 2020997
+        "value": 2103697
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1427500
+        "value": 1440500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 542238
+        "value": 546693
       },
       {
         "name": "Stats.EXP.casino",
@@ -697,6 +697,10 @@
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
+        "value": 1
+      },
+      {
+        "name": "Stats.Workshop.WorkshopRates",
         "value": 1
       },
       {
@@ -985,7 +989,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 155351
+        "value": 164670
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1501,7 +1505,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 38268
+        "value": 43810
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
@@ -1521,7 +1525,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PluckAPal.Grabs",
-        "value": 85
+        "value": 90
       },
       {
         "name": "Stats.Plaza.Arcade.NewtonsApples.ApplesDropped",
@@ -1529,7 +1533,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 4005
+        "value": 4409
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -1617,7 +1621,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 609
+        "value": 646
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -2403,6 +2407,10 @@
       },
       {
         "name": "ACH_WORKSHOP_WEARWORKSHOP",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_WORKSHOP_WORKSHOPRATE",
         "achieved": 1
       },
       {

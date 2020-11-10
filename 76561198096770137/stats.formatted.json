@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604991346
+        "value": 1604993754
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 745190
+        "value": 746829
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 186604
+        "value": 186742
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 21074
+        "value": 22140
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 2070501
+        "value": 2085501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 125851
+        "value": 138297
       },
       {
         "name": "Stats.EXP.casino",
@@ -873,7 +873,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 247536
+        "value": 249142
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1465,7 +1465,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAfish.BestScore",
-        "value": 45
+        "value": 172
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.BestScore",
@@ -1509,7 +1509,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 4684
+        "value": 5084
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1525,7 +1525,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 8
+        "value": 82
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
@@ -1613,7 +1613,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 778
+        "value": 783
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -2302,7 +2302,15 @@
         "achieved": 1
       },
       {
+        "name": "ACH_PLZ_ARCADE_WHIRLAFISHNICECATCH",
+        "achieved": 1
+      },
+      {
         "name": "ACH_PLZ_ARCADE_WHIRLAFISHTWOFISH",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_WHIRLAFISHJUSTKEEP",
         "achieved": 1
       },
       {
