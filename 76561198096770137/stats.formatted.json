@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605111517
+        "value": 1605119299
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 410
+        "value": 411
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 2445501
+        "value": 2455501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 403401
+        "value": 412024
       },
       {
         "name": "Stats.EXP.casino",
@@ -597,7 +597,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 1743501
+        "value": 1748501
       },
       {
         "name": "Stats.EXP.cooking",
@@ -897,7 +897,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 813752
+        "value": 815824
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
