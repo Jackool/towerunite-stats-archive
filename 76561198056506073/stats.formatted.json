@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605094817
+        "value": 1605163667
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 551935
+        "value": 552491
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 87769
+        "value": 87821
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 83424
+        "value": 83439
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 629
+        "value": 631
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 610979
+        "value": 611940
       },
       {
         "name": "Stats.EXP.casino",
@@ -669,7 +669,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4164500
+        "value": 4169500
       },
       {
         "name": "Stats.EXP.virus",
@@ -689,7 +689,7 @@
       },
       {
         "name": "Stats.EXP.accel",
-        "value": 93456
+        "value": 95936
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
@@ -953,7 +953,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 5273
+        "value": 5982
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
@@ -989,7 +989,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 175381
+        "value": 175404
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2117856
+        "value": 2120626
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1505,7 +1505,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 54458
+        "value": 54464
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
@@ -1561,7 +1561,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.PineValleyComplete",
-        "value": 3
+        "value": 5
       },
       {
         "name": "Stats.GameW.Accelerate.BedzoomComplete",
@@ -1585,7 +1585,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.MelonBoosts",
-        "value": 146
+        "value": 206
       },
       {
         "name": "Stats.GameW.Accelerate.DrinksDrunk",
@@ -1613,15 +1613,15 @@
       },
       {
         "name": "Stats.GameW.Accelerate.DriftTime",
-        "value": 10335
+        "value": 10939
       },
       {
         "name": "Stats.GameW.Accelerate.ItemsGiven",
-        "value": 295
+        "value": 331
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 734
+        "value": 738
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -2883,6 +2883,10 @@
       },
       {
         "name": "ACH_GW_ACCEL_SOLARECLIPSE",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_ACCEL_MAXIMUMDRIFT",
         "achieved": 1
       },
       {
