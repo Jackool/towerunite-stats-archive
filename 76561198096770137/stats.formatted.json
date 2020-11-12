@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605128816
+        "value": 1605173083
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,11 +169,11 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 865639
+        "value": 866867
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 190055
+        "value": 190097
       },
       {
         "name": "Stats.Plaza.Jumps",
@@ -309,11 +309,11 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 419
+        "value": 425
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 751
+        "value": 752
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 2480501
+        "value": 2483001
       },
       {
         "name": "Stats.EXP.ltag",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 435282
+        "value": 438866
       },
       {
         "name": "Stats.EXP.casino",
@@ -597,7 +597,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 1771001
+        "value": 1778501
       },
       {
         "name": "Stats.EXP.cooking",
@@ -873,7 +873,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 365865
+        "value": 367066
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -897,7 +897,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 826724
+        "value": 831734
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1509,7 +1509,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 78867
+        "value": 79785
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1613,7 +1613,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 1114
+        "value": 1119
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
