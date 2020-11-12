@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 670
+        "value": 671
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 274553
+        "value": 274727
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2627781
+        "value": 2628510
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
