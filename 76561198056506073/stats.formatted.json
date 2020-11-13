@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605197117
+        "value": 1605258865
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 561888
+        "value": 562997
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 88104
+        "value": 88161
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 85901
+        "value": 85912
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -289,7 +289,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 369524
+        "value": 370905
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 635
+        "value": 636
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 643480
+        "value": 644006
       },
       {
         "name": "Stats.EXP.casino",
@@ -669,7 +669,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4169500
+        "value": 4177000
       },
       {
         "name": "Stats.EXP.virus",
@@ -989,7 +989,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 177614
+        "value": 178191
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2122063
+        "value": 2124983
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1533,7 +1533,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 4409
+        "value": 4917
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -1621,7 +1621,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 766
+        "value": 769
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -2799,6 +2799,10 @@
       },
       {
         "name": "ACH_PLZ_ARCADE_NEWTONAPPLESGRAVITY",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_PLANETPIANOBEETHOVEN",
         "achieved": 1
       },
       {
