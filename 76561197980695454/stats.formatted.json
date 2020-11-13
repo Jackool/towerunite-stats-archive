@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605146420
+        "value": 1605230916
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 465320
+        "value": 466593
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 252050
+        "value": 252332
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 48042
+        "value": 48157
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1356500
+        "value": 1359000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 3180000
+        "value": 3192500
       },
       {
         "name": "Stats.EXP.virus",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 41527
+        "value": 41697
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.PumpkinsSmashed",
-        "value": 6933
+        "value": 7096
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
@@ -1041,7 +1041,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
-        "value": 241440
+        "value": 248350
       },
       {
         "name": "Stats.Plaza.Minigames.Food.TotalScore",
@@ -1725,11 +1725,11 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 359
+        "value": 360
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 1231
+        "value": 1241
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
@@ -1737,7 +1737,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 12623093
+        "value": 12673458
       }
     ],
     "achievements": [

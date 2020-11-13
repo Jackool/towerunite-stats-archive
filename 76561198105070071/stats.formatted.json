@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605169448
+        "value": 1605236378
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,7 +93,7 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 46687
+        "value": 46691
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 29658659
+        "value": 29659259
       },
       {
         "name": "Stats.EXP.plaza",
@@ -685,7 +685,7 @@
       },
       {
         "name": "Stats.EXP.accel",
-        "value": 1460316
+        "value": 1498596
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
@@ -957,11 +957,11 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 16087
+        "value": 20602
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 1890660
+        "value": 1890764
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -2017,11 +2017,11 @@
       },
       {
         "name": "Stats.GameW.Accelerate.DamagedByItems",
-        "value": 203
+        "value": 204
       },
       {
         "name": "Stats.GameW.Accelerate.HitPlayers",
-        "value": 107
+        "value": 110
       },
       {
         "name": "Stats.GameW.Accelerate.FirstPlace",
@@ -2029,7 +2029,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.MelonBoosts",
-        "value": 341
+        "value": 344
       },
       {
         "name": "Stats.GameW.Accelerate.BirbShieldGrabs",
@@ -2041,11 +2041,11 @@
       },
       {
         "name": "Stats.GameW.Accelerate.BumperHits",
-        "value": 19
+        "value": 20
       },
       {
         "name": "Stats.GameW.Accelerate.GolfHoleSinks",
-        "value": 16
+        "value": 17
       },
       {
         "name": "Stats.GameW.Accelerate.HomingBowlingBalls",
@@ -2065,15 +2065,15 @@
       },
       {
         "name": "Stats.GameW.Accelerate.DriftTime",
-        "value": 2676
+        "value": 2678
       },
       {
         "name": "Stats.GameW.Accelerate.ItemsGiven",
-        "value": 682
+        "value": 697
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 431
+        "value": 440
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
