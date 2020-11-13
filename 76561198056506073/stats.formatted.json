@@ -289,7 +289,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 369522
+        "value": 369524
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 631
+        "value": 635
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1563000
+        "value": 1565500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 643356
+        "value": 643480
       },
       {
         "name": "Stats.EXP.casino",
@@ -961,7 +961,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 38516
+        "value": 38875
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2120626
+        "value": 2122063
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
