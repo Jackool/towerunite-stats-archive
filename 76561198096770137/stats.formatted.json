@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605312835
+        "value": 1605322432
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,11 +169,11 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 954863
+        "value": 954887
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 191610
+        "value": 191622
       },
       {
         "name": "Stats.Plaza.Jumps",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 2783001
+        "value": 2808001
       },
       {
         "name": "Stats.EXP.ltag",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 677976
+        "value": 696485
       },
       {
         "name": "Stats.EXP.casino",
@@ -1683,6 +1683,10 @@
       },
       {
         "name": "ACH_GW_BR_PRISMCOMPLETED",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_TOWERADDICTION",
         "achieved": 1
       },
       {
