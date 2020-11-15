@@ -9,15 +9,15 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605472070
+        "value": 1605481170
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 4.8314433097839355
+        "value": 3.249392032623291
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 6185
+        "value": 6196
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 46813
+        "value": 46836
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 283917
+        "value": 283943
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -121,7 +121,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.GLXYCompleted",
-        "value": 310
+        "value": 311
       },
       {
         "name": "Stats.GameW.BallRace.SummitCompleted",
@@ -133,7 +133,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.PrismCompleted",
-        "value": 173
+        "value": 174
       },
       {
         "name": "Stats.GameW.BallRace.NimbusMelons",
@@ -165,19 +165,19 @@
       },
       {
         "name": "Stats.GameW.BallRace.PrismMelons",
-        "value": 7902
+        "value": 7928
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3703790
+        "value": 3704131
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2132139
+        "value": 2132357
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 378782
+        "value": 378850
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -481,31 +481,31 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 5813
+        "value": 5828
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 1311807566
+        "value": 1316757717
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 23938
+        "value": 24007
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
-        "value": 3757
+        "value": 3768
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
-        "value": 1274
+        "value": 1279
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 3941
+        "value": 3953
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
-        "value": 47
+        "value": 48
       },
       {
         "name": "Stats.GameW.Minigolf.WaterholeComplete",
@@ -525,7 +525,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.TreasureCoveComplete",
-        "value": 111
+        "value": 112
       },
       {
         "name": "Stats.GameW.Minigolf.SweetToothComplete",
@@ -533,7 +533,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.ForestComplete",
-        "value": 45
+        "value": 46
       },
       {
         "name": "Stats.GameW.Minigolf.KingdomComplete",
@@ -541,7 +541,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.GardenCoursePar",
-        "value": 49
+        "value": 44
       },
       {
         "name": "Stats.GameW.Minigolf.WaterholeCoursePar",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.TreasureCoveCoursePar",
-        "value": 52
+        "value": 57
       },
       {
         "name": "Stats.GameW.Minigolf.SweetToothCoursePar",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.ForestCoursePar",
-        "value": 80
+        "value": 60
       },
       {
         "name": "Stats.GameW.Minigolf.KingdomCoursePar",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 29756531
+        "value": 29784964
       },
       {
         "name": "Stats.EXP.plaza",
@@ -673,7 +673,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 22688137
+        "value": 22753388
       },
       {
         "name": "Stats.EXP.lc",
@@ -961,15 +961,15 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 1897017
+        "value": 1898191
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 276879
+        "value": 276882
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1437227
+        "value": 1441818
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -2073,7 +2073,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 521
+        "value": 556
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
