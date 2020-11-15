@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605321513
+        "value": 1605401944
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 476407
+        "value": 476559
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 260565
+        "value": 260619
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 50249
+        "value": 50266
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 526975
+        "value": 538725
       },
       {
         "name": "Stats.EXP.mgolf",
@@ -1729,7 +1729,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 1261
+        "value": 1301
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
@@ -1737,7 +1737,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 13139058
+        "value": 13244058
       }
     ],
     "achievements": [
@@ -2098,7 +2098,15 @@
         "achieved": 1
       },
       {
+        "name": "ACH_GW_VIRUS_HOSPITALSURVIVE",
+        "achieved": 1
+      },
+      {
         "name": "ACH_GW_VIRUS_DESERTIONSURVIVE",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_VIRUS_SUBWAYSURVIVE",
         "achieved": 1
       },
       {
