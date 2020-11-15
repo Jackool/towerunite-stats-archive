@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605409161
+        "value": 1605409450
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 46772
+        "value": 46786
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 283788
+        "value": 283851
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 29734728
+        "value": 29738418
       },
       {
         "name": "Stats.EXP.plaza",
@@ -961,7 +961,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 1894934
+        "value": 1896065
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1437132
+        "value": 1437227
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -2073,7 +2073,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 511
+        "value": 514
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
