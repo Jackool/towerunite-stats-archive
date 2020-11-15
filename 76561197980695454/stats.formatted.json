@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605401944
+        "value": 1605409147
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -317,39 +317,39 @@
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
-        "value": 98
+        "value": 118
       },
       {
         "name": "Stats.GameW.Virus.Survivor.AdrenalineUsed",
-        "value": 83
+        "value": 101
       },
       {
         "name": "Stats.GameW.Virus.Infected.SurvivorsInfected",
-        "value": 203
+        "value": 244
       },
       {
         "name": "Stats.GameW.Virus.Survivor.InfectedExploded",
-        "value": 108
+        "value": 119
       },
       {
         "name": "Stats.GameW.Virus.Survivor.LastSurvivorTimes",
-        "value": 44
+        "value": 47
       },
       {
         "name": "Stats.GameW.Virus.FirstPlaceCount",
-        "value": 72
+        "value": 79
       },
       {
         "name": "Stats.GameW.Virus.FirstInfectedCount",
-        "value": 41
+        "value": 48
       },
       {
         "name": "Stats.GameW.Virus.RoundsPlayed",
-        "value": 284
+        "value": 335
       },
       {
         "name": "Stats.GameW.Virus.HospitalSurvive",
-        "value": 23
+        "value": 24
       },
       {
         "name": "Stats.GameW.Virus.DesertionSurvive",
@@ -357,15 +357,15 @@
       },
       {
         "name": "Stats.GameW.Virus.OvertimeSurvive",
-        "value": 5
+        "value": 8
       },
       {
         "name": "Stats.GameW.Virus.SubwaySurvive",
-        "value": 23
+        "value": 32
       },
       {
         "name": "Stats.GameW.Virus.HospitalInfect",
-        "value": 38
+        "value": 40
       },
       {
         "name": "Stats.GameW.Virus.DesertionInfect",
@@ -373,11 +373,11 @@
       },
       {
         "name": "Stats.GameW.Virus.OvertimeInfect",
-        "value": 21
+        "value": 30
       },
       {
         "name": "Stats.GameW.Virus.SubwayInfect",
-        "value": 47
+        "value": 62
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
@@ -565,11 +565,11 @@
       },
       {
         "name": "Stats.GameW.Virus.SolarSurvive",
-        "value": 14
+        "value": 21
       },
       {
         "name": "Stats.GameW.Virus.SolarInfect",
-        "value": 32
+        "value": 47
       },
       {
         "name": "Stats.GameW.BallRace.NimbusCompletedNoDeath",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 538725
+        "value": 635275
       },
       {
         "name": "Stats.EXP.mgolf",
@@ -653,7 +653,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 431016
+        "value": 471731
       },
       {
         "name": "Stats.EXP.zm",
@@ -713,11 +713,11 @@
       },
       {
         "name": "Stats.GameW.Virus.SurvivorKills",
-        "value": 19
+        "value": 20
       },
       {
         "name": "Stats.GameW.Virus.InfectedKills",
-        "value": 40
+        "value": 49
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Kills",
@@ -933,7 +933,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 29167
+        "value": 34553
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -1725,7 +1725,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 386
+        "value": 402
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -2111,6 +2111,10 @@
       },
       {
         "name": "ACH_GW_VIRUS_DESERTIONINFECT",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_VIRUS_SUBWAYINFECT",
         "achieved": 1
       },
       {
@@ -2691,6 +2695,10 @@
       },
       {
         "name": "ACH_GW_ZM_SURVIVEDVILLAGE",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_LC_DRAGONKNIGHTSENDBYSEA",
         "achieved": 1
       },
       {
