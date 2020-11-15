@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605466580
+        "value": 1605472070
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -41,7 +41,7 @@
       },
       {
         "name": "Stats.Stores.Electronics.NumVisits",
-        "value": 27
+        "value": 30
       },
       {
         "name": "Stats.Stores.Thrift.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3699883
+        "value": 3703790
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2127598
+        "value": 2132139
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 378245
+        "value": 378782
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 866
+        "value": 869
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 4339935
+        "value": 4402835
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 677
+        "value": 679
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8314500
+        "value": 8319500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -993,11 +993,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 301157
+        "value": 301235
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 704009
+        "value": 704080
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2685388
+        "value": 2685974
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1949,7 +1949,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 4550
+        "value": 4567
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
@@ -1957,7 +1957,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.Basket",
-        "value": 52448
+        "value": 52469
       },
       {
         "name": "Stats.Plaza.Arcade.Offering.CenterCup",
@@ -2073,19 +2073,19 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 519
+        "value": 521
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 400
+        "value": 420
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 1061
+        "value": 1163
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 2878888
+        "value": 3015888
       }
     ],
     "achievements": [
