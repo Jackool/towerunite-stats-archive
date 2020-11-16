@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605502688
+        "value": 1605507167
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -37,7 +37,7 @@
       },
       {
         "name": "Stats.Stores.Toy.NumVisits",
-        "value": 32
+        "value": 33
       },
       {
         "name": "Stats.Stores.Furniture.NumVisits",
@@ -69,7 +69,7 @@
       },
       {
         "name": "Stats.Stores.BowlingCustom.NumVisits",
-        "value": 7
+        "value": 8
       },
       {
         "name": "Stats.Stores.Vending.NumVisits",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 478481
+        "value": 485745
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 261518
+        "value": 267661
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 50513
+        "value": 51988
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -189,7 +189,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 410
+        "value": 412
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1399000
+        "value": 1414000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 72851
+        "value": 73340
       },
       {
         "name": "Stats.EXP.casino",
@@ -949,11 +949,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 38396
+        "value": 39281
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 12577
+        "value": 12711
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 43697
+        "value": 45293
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -981,11 +981,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
-        "value": 4681
+        "value": 5202
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
-        "value": 7869
+        "value": 8033
       },
       {
         "name": "Stats.Plaza.Minigames.BalloonsPopped",
@@ -997,11 +997,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.PumpkinsSmashed",
-        "value": 7405
+        "value": 7830
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
-        "value": 9641
+        "value": 9811
       },
       {
         "name": "Stats.Plaza.LaserTag.BestScore",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Target.TotalScore",
-        "value": 347550
+        "value": 355045
       },
       {
         "name": "Stats.Plaza.Minigames.Fruit.TotalScore",
@@ -1041,15 +1041,15 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
-        "value": 260980
+        "value": 275960
       },
       {
         "name": "Stats.Plaza.Minigames.Food.TotalScore",
-        "value": 190800
+        "value": 215025
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
-        "value": 785084
+        "value": 802745
       },
       {
         "name": "Stats.Plaza.Minigames.Target.BestScore",
@@ -1617,7 +1617,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 245
+        "value": 253
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1669,7 +1669,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.IceCave.TilesLit",
-        "value": 1107
+        "value": 1141
       },
       {
         "name": "Stats.Plaza.Arcade.LonelyGun.TargetsHit",
@@ -1725,19 +1725,19 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 419
+        "value": 439
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 1311
+        "value": 1321
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 3058
+        "value": 3147
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 13373011
+        "value": 13561192
       }
     ],
     "achievements": [
