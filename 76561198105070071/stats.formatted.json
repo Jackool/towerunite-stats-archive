@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 33085
+        "value": 33100
       },
       {
         "name": "stat_lastcommand",
@@ -37,11 +37,11 @@
       },
       {
         "name": "Stats.Stores.Furniture.NumVisits",
-        "value": 21
+        "value": 22
       },
       {
         "name": "Stats.Stores.Electronics.NumVisits",
-        "value": 30
+        "value": 31
       },
       {
         "name": "Stats.Stores.Thrift.NumVisits",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 869
+        "value": 872
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1396572
+        "value": 1400324
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 679
+        "value": 680
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 22602
+        "value": 22621
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4811500
+        "value": 4821500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2687744
+        "value": 2691611
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1157,7 +1157,7 @@
       },
       {
         "name": "Stats.Stores.DIY.NumVisits",
-        "value": 19
+        "value": 20
       },
       {
         "name": "Stats.Plaza.Fishing.ReefButterflyfish",

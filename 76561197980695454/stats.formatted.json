@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 15503
+        "value": 15569
       },
       {
         "name": "stat_units",
@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605493520
+        "value": 1605502688
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -61,7 +61,7 @@
       },
       {
         "name": "Stats.Stores.Seasonal.NumVisits",
-        "value": 26
+        "value": 28
       },
       {
         "name": "Stats.Stores.Bowling.NumVisits",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 477953
+        "value": 478481
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 261136
+        "value": 261518
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 50440
+        "value": 50513
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -189,7 +189,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 408
+        "value": 410
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -197,7 +197,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 368570
+        "value": 380670
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -281,11 +281,11 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 260088
+        "value": 261462
       },
       {
         "name": "Stats.Condo.PartyTime",
-        "value": 446351
+        "value": 448901
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 920984
+        "value": 926541
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 2035
+        "value": 2038
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1389000
+        "value": 1399000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 72614
+        "value": 72851
       },
       {
         "name": "Stats.EXP.casino",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 3262500
+        "value": 3272500
       },
       {
         "name": "Stats.EXP.virus",
@@ -973,7 +973,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1393578
+        "value": 1399135
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1737,7 +1737,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 13295646
+        "value": 13373011
       }
     ],
     "achievements": [
