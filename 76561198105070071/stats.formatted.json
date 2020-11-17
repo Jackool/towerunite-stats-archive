@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 33125
+        "value": 33127
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605567562
+        "value": 1605574590
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 46869
+        "value": 46957
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 284004
+        "value": 284117
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -105,15 +105,15 @@
       },
       {
         "name": "Stats.GameW.BallRace.NimbusCompleted",
-        "value": 128
+        "value": 129
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseCompleted",
-        "value": 146
+        "value": 147
       },
       {
         "name": "Stats.GameW.BallRace.MidoriCompleted",
-        "value": 232
+        "value": 233
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesCompleted",
@@ -129,23 +129,23 @@
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroCompleted",
-        "value": 235
+        "value": 236
       },
       {
         "name": "Stats.GameW.BallRace.PrismCompleted",
-        "value": 174
+        "value": 175
       },
       {
         "name": "Stats.GameW.BallRace.NimbusMelons",
-        "value": 7313
+        "value": 7320
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseMelons",
-        "value": 3739
+        "value": 3753
       },
       {
         "name": "Stats.GameW.BallRace.MidoriMelons",
-        "value": 3881
+        "value": 3893
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesMelons",
@@ -161,23 +161,23 @@
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
-        "value": 2215
+        "value": 2228
       },
       {
         "name": "Stats.GameW.BallRace.PrismMelons",
-        "value": 7960
+        "value": 7982
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3705111
+        "value": 3708504
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2133305
+        "value": 2136637
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 379205
+        "value": 379848
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -229,7 +229,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 38797
+        "value": 38805
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
@@ -245,7 +245,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 5991700
+        "value": 5992950
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1411353
+        "value": 1411596
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 22646
+        "value": 22648
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -617,11 +617,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 29920415
+        "value": 29932565
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8319500
+        "value": 8327000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 6119383
+        "value": 6121633
       },
       {
         "name": "Stats.EXP.zm",
@@ -701,11 +701,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.OasisCompleted",
-        "value": 162
+        "value": 163
       },
       {
         "name": "Stats.GameW.BallRace.OasisMelons",
-        "value": 12354
+        "value": 12358
       },
       {
         "name": "Stats.GameW.BallRace.OasisCompletedNoDeath",
@@ -961,7 +961,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 1899717
+        "value": 1904771
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -993,11 +993,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 301235
+        "value": 301703
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 704080
+        "value": 704746
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 465908
+        "value": 465914
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2710947
+        "value": 2711190
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1137,7 +1137,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 9700495
+        "value": 9700795
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.TripleDiamonds",
@@ -1845,11 +1845,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompleted",
-        "value": 214
+        "value": 216
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsMelons",
-        "value": 15732
+        "value": 15773
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompletedNoDeath",
@@ -2073,19 +2073,19 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 599
+        "value": 629
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 430
+        "value": 451
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 1190
+        "value": 1191
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3077888
+        "value": 3146388
       }
     ],
     "achievements": [
