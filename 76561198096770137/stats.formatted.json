@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605646762
+        "value": 1605653045
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 1145174
+        "value": 1145703
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 196265
+        "value": 196486
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 45790
+        "value": 45802
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -317,19 +317,19 @@
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
-        "value": 57
+        "value": 60
       },
       {
         "name": "Stats.GameW.Virus.Survivor.AdrenalineUsed",
-        "value": 63
+        "value": 65
       },
       {
         "name": "Stats.GameW.Virus.Infected.SurvivorsInfected",
-        "value": 124
+        "value": 127
       },
       {
         "name": "Stats.GameW.Virus.Survivor.InfectedExploded",
-        "value": 111
+        "value": 113
       },
       {
         "name": "Stats.GameW.Virus.Survivor.LastSurvivorTimes",
@@ -341,11 +341,11 @@
       },
       {
         "name": "Stats.GameW.Virus.FirstInfectedCount",
-        "value": 33
+        "value": 34
       },
       {
         "name": "Stats.GameW.Virus.RoundsPlayed",
-        "value": 214
+        "value": 223
       },
       {
         "name": "Stats.GameW.Virus.HospitalSurvive",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 3420501
+        "value": 3440501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1220388
+        "value": 1235195
       },
       {
         "name": "Stats.EXP.casino",
@@ -605,7 +605,7 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 324426
+        "value": 331701
       },
       {
         "name": "Stats.EXP.ppanic",
@@ -673,7 +673,7 @@
       },
       {
         "name": "Stats.GameW.Virus.InfectedKills",
-        "value": 21
+        "value": 22
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Kills",
@@ -857,7 +857,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 22635
+        "value": 23614
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -873,7 +873,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 640736
+        "value": 641035
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1509,7 +1509,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 272165
+        "value": 272299
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1613,7 +1613,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 1876
+        "value": 1881
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
@@ -1625,7 +1625,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 6458512
+        "value": 6731012
       }
     ],
     "achievements": [
