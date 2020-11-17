@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 33425
+        "value": 33427
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605600554
+        "value": 1605646287
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3709192
+        "value": 3709670
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2136766
+        "value": 2137135
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 379854
+        "value": 379933
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1423342
+        "value": 1423366
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -669,7 +669,7 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 4507723
+        "value": 4519423
       },
       {
         "name": "Stats.EXP.mgolf",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2731307
+        "value": 2731331
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2085,7 +2085,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3146388
+        "value": 3156388
       }
     ],
     "achievements": [
