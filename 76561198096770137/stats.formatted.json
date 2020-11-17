@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605595310
+        "value": 1605601609
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 1099929
+        "value": 1110183
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 194338
+        "value": 194517
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 45695
+        "value": 45719
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 3293001
+        "value": 3308001
       },
       {
         "name": "Stats.EXP.ltag",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1116650
+        "value": 1129504
       },
       {
         "name": "Stats.EXP.casino",
@@ -873,7 +873,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 597291
+        "value": 607255
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -893,7 +893,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 11952
+        "value": 12121
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -921,7 +921,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
-        "value": 3467
+        "value": 3649
       },
       {
         "name": "Stats.Plaza.LaserTag.BestScore",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
-        "value": 248208
+        "value": 259984
       },
       {
         "name": "Stats.Plaza.Minigames.Target.BestScore",
@@ -1509,7 +1509,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 242278
+        "value": 249474
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1613,15 +1613,15 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 1752
+        "value": 1782
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
-        "value": 1552
+        "value": 1630
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 844
+        "value": 845
       },
       {
         "name": "Stats.EXP.halloween",
