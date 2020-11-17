@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605581126
+        "value": 1605588694
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 1062496
+        "value": 1097151
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 193660
+        "value": 193969
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 45673
+        "value": 45682
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 3248001
+        "value": 3270501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1076947
+        "value": 1098788
       },
       {
         "name": "Stats.EXP.casino",
@@ -873,7 +873,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 560199
+        "value": 594700
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1509,7 +1509,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 214869
+        "value": 240735
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1613,7 +1613,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 1648
+        "value": 1745
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
