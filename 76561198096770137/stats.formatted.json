@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605699561
+        "value": 1605709655
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -25,7 +25,7 @@
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
-        "value": 15
+        "value": 16
       },
       {
         "name": "Stats.Stores.Food.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 1184800
+        "value": 1189562
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 197855
+        "value": 203056
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 45839
+        "value": 46094
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 266
+        "value": 267
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 376190
+        "value": 376540
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 3550501
+        "value": 3563001
       },
       {
         "name": "Stats.EXP.ltag",
@@ -589,7 +589,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 62022
+        "value": 121898
       },
       {
         "name": "Stats.EXP.fishing",
@@ -597,7 +597,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 1786001
+        "value": 1788501
       },
       {
         "name": "Stats.EXP.cooking",
@@ -877,7 +877,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 274668
+        "value": 275060
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -889,11 +889,11 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 137674
+        "value": 137676
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 12299
+        "value": 13367
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -905,15 +905,19 @@
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
-        "value": 1115
+        "value": 1377
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
-        "value": 1497
+        "value": 1673
       },
       {
         "name": "Stats.Plaza.Minigames.BalloonsPopped",
-        "value": 115
+        "value": 249
+      },
+      {
+        "name": "Stats.Plaza.Minigames.PlanesDowned",
+        "value": 5
       },
       {
         "name": "Stats.Plaza.Minigames.PumpkinsSmashed",
@@ -949,15 +953,15 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Target.TotalScore",
-        "value": 83680
+        "value": 94265
       },
       {
         "name": "Stats.Plaza.Minigames.Fruit.TotalScore",
-        "value": 5375
+        "value": 18850
       },
       {
         "name": "Stats.Plaza.Minigames.Balloon.TotalScore",
-        "value": 3215
+        "value": 12996
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
@@ -977,11 +981,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Fruit.BestScore",
-        "value": 3125
+        "value": 7375
       },
       {
         "name": "Stats.Plaza.Minigames.Balloon.BestScore",
-        "value": 3215
+        "value": 9781
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.BestScore",
@@ -1421,15 +1425,15 @@
       },
       {
         "name": "Stats.Plaza.Minigames.BoozeBash.TotalScore",
-        "value": 3200
+        "value": 8025
       },
       {
         "name": "Stats.Plaza.Minigames.BoozeBash.BestScore",
-        "value": 1525
+        "value": 4825
       },
       {
         "name": "Stats.Plaza.Minigames.BoozeBashDrinks",
-        "value": 100
+        "value": 201
       },
       {
         "name": "Stats.Plaza.Minigames.ChainsawDeathmatchKills",
