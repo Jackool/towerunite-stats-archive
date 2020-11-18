@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605668377
+        "value": 1605675432
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 47363
+        "value": 47484
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 284225
+        "value": 284379
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -157,7 +157,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
-        "value": 5287
+        "value": 5298
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3711726
+        "value": 3713683
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2138185
+        "value": 2139429
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 380224
+        "value": 380581
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -617,11 +617,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 30073696
+        "value": 30114248
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8332000
+        "value": 8337000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -961,7 +961,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 1915999
+        "value": 1918870
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -993,7 +993,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 301703
+        "value": 301779
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 465920
+        "value": 465996
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1849,7 +1849,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsMelons",
-        "value": 15785
+        "value": 15928
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompletedNoDeath",
@@ -2073,7 +2073,7 @@
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
-        "value": 719
+        "value": 736
       },
       {
         "name": "Stats.Plaza.Halloween.RemainsDelievered",
