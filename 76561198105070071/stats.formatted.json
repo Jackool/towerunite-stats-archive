@@ -21,11 +21,11 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 7792
+        "value": 7793
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
-        "value": 242
+        "value": 243
       },
       {
         "name": "Stats.Stores.Food.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3724412
+        "value": 3724741
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2148215
+        "value": 2148454
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 381919
+        "value": 381968
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 878
+        "value": 879
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 704783
+        "value": 704798
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
