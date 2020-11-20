@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605869491
+        "value": 1605873814
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 1192561
+        "value": 1194071
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 204965
+        "value": 206025
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 46239
+        "value": 46262
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 3578001
+        "value": 3585501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -589,7 +589,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 218962
+        "value": 248505
       },
       {
         "name": "Stats.EXP.fishing",
@@ -893,7 +893,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 14371
+        "value": 14882
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -909,7 +909,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
-        "value": 1863
+        "value": 2041
       },
       {
         "name": "Stats.Plaza.Minigames.BalloonsPopped",
@@ -917,7 +917,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.PlanesDowned",
-        "value": 27
+        "value": 34
       },
       {
         "name": "Stats.Plaza.Minigames.PumpkinsSmashed",
@@ -953,7 +953,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Target.TotalScore",
-        "value": 106585
+        "value": 114760
       },
       {
         "name": "Stats.Plaza.Minigames.Fruit.TotalScore",
@@ -1429,7 +1429,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Chainsaw.TotalScore",
-        "value": 87990
+        "value": 94770
       },
       {
         "name": "Stats.Plaza.Minigames.BoozeBash.TotalScore",
@@ -1445,7 +1445,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.ChainsawDeathmatchKills",
-        "value": 3000
+        "value": 3226
       },
       {
         "name": "Stats.GameW.ZombieMassacre.VillagePlays",
