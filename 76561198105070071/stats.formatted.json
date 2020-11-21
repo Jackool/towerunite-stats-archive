@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 33653
+        "value": 33657
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605950131
+        "value": 1605996869
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 7795
+        "value": 7796
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3735339
+        "value": 3735694
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2159097
+        "value": 2159341
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 383271
+        "value": 383319
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1469260
+        "value": 1469283
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,43 +313,43 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24247
+        "value": 24248
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
-        "value": 742
+        "value": 751
       },
       {
         "name": "Stats.GameW.Virus.Survivor.AdrenalineUsed",
-        "value": 384
+        "value": 386
       },
       {
         "name": "Stats.GameW.Virus.Infected.SurvivorsInfected",
-        "value": 1850
+        "value": 1868
       },
       {
         "name": "Stats.GameW.Virus.Survivor.InfectedExploded",
-        "value": 724
+        "value": 732
       },
       {
         "name": "Stats.GameW.Virus.Survivor.LastSurvivorTimes",
-        "value": 267
+        "value": 269
       },
       {
         "name": "Stats.GameW.Virus.FirstPlaceCount",
-        "value": 958
+        "value": 975
       },
       {
         "name": "Stats.GameW.Virus.FirstInfectedCount",
-        "value": 359
+        "value": 363
       },
       {
         "name": "Stats.GameW.Virus.RoundsPlayed",
-        "value": 2469
+        "value": 2500
       },
       {
         "name": "Stats.GameW.Virus.HospitalSurvive",
-        "value": 165
+        "value": 170
       },
       {
         "name": "Stats.GameW.Virus.DesertionSurvive",
@@ -365,7 +365,7 @@
       },
       {
         "name": "Stats.GameW.Virus.HospitalInfect",
-        "value": 355
+        "value": 360
       },
       {
         "name": "Stats.GameW.Virus.DesertionInfect",
@@ -573,11 +573,11 @@
       },
       {
         "name": "Stats.GameW.Virus.SolarSurvive",
-        "value": 54
+        "value": 58
       },
       {
         "name": "Stats.GameW.Virus.SolarInfect",
-        "value": 119
+        "value": 132
       },
       {
         "name": "Stats.GameW.BallRace.NimbusCompletedNoDeath",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 5016500
+        "value": 5019000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -669,7 +669,7 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 4558348
+        "value": 4622323
       },
       {
         "name": "Stats.EXP.mgolf",
@@ -753,7 +753,7 @@
       },
       {
         "name": "Stats.GameW.Virus.InfectedKills",
-        "value": 333
+        "value": 335
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Kills",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 265567
+        "value": 268735
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 705940
+        "value": 706031
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2788833
+        "value": 2788856
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
