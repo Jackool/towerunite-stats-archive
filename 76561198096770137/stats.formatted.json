@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 1194071
+        "value": 1200133
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 206025
+        "value": 209419
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 46262
+        "value": 46540
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -877,7 +877,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 275060
+        "value": 275253
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -893,7 +893,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 14882
+        "value": 31760
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -905,19 +905,19 @@
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
-        "value": 1377
+        "value": 1551
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
-        "value": 2041
+        "value": 2411
       },
       {
         "name": "Stats.Plaza.Minigames.BalloonsPopped",
-        "value": 349
+        "value": 630
       },
       {
         "name": "Stats.Plaza.Minigames.PlanesDowned",
-        "value": 34
+        "value": 43
       },
       {
         "name": "Stats.Plaza.Minigames.PumpkinsSmashed",
@@ -953,15 +953,15 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Target.TotalScore",
-        "value": 114760
+        "value": 133790
       },
       {
         "name": "Stats.Plaza.Minigames.Fruit.TotalScore",
-        "value": 18850
+        "value": 26250
       },
       {
         "name": "Stats.Plaza.Minigames.Balloon.TotalScore",
-        "value": 20389
+        "value": 43711
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Balloon.BestScore",
-        "value": 9781
+        "value": 12312
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.BestScore",
@@ -1429,23 +1429,23 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Chainsaw.TotalScore",
-        "value": 94770
+        "value": 115380
       },
       {
         "name": "Stats.Plaza.Minigames.BoozeBash.TotalScore",
-        "value": 10625
+        "value": 16775
       },
       {
         "name": "Stats.Plaza.Minigames.BoozeBash.BestScore",
-        "value": 4825
+        "value": 5300
       },
       {
         "name": "Stats.Plaza.Minigames.BoozeBashDrinks",
-        "value": 318
+        "value": 437
       },
       {
         "name": "Stats.Plaza.Minigames.ChainsawDeathmatchKills",
-        "value": 3226
+        "value": 3913
       },
       {
         "name": "Stats.GameW.ZombieMassacre.VillagePlays",

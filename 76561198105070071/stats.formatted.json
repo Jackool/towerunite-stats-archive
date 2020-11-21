@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3725240
+        "value": 3728103
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2148691
+        "value": 2149871
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 382016
+        "value": 382418
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8364500
+        "value": 8372000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 289688
+        "value": 289989
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 704798
+        "value": 704814
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 466198
+        "value": 466260
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
