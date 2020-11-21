@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 15713
+        "value": 15735
       },
       {
         "name": "stat_units",
@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605920680
+        "value": 1605934291
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -281,11 +281,11 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 265795
+        "value": 266357
       },
       {
         "name": "Stats.Condo.PartyTime",
-        "value": 462810
+        "value": 463099
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 955027
+        "value": 958338
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 220
+        "value": 221
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 2066
+        "value": 2068
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1424000
+        "value": 1434000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 73342
+        "value": 73684
       },
       {
         "name": "Stats.EXP.casino",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 306297
+        "value": 316198
       },
       {
         "name": "Stats.EXP.fishing",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 3367500
+        "value": 3377500
       },
       {
         "name": "Stats.EXP.virus",
@@ -973,7 +973,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1437592
+        "value": 1443170
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
