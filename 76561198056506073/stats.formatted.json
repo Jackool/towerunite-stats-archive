@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605258865
+        "value": 1605992385
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -93,7 +93,7 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 1906
+        "value": 1908
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
@@ -129,7 +129,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroCompleted",
-        "value": 13
+        "value": 14
       },
       {
         "name": "Stats.GameW.BallRace.PrismCompleted",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 1666186
+        "value": 1669651
       },
       {
         "name": "Stats.EXP.plaza",
@@ -957,7 +957,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 91525
+        "value": 91646
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
