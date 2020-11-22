@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 33794
+        "value": 33795
       },
       {
         "name": "stat_lastcommand",
@@ -29,35 +29,35 @@
       },
       {
         "name": "Stats.Stores.Food.NumVisits",
-        "value": 16
+        "value": 18
       },
       {
         "name": "Stats.Stores.Toy.NumVisits",
-        "value": 56
+        "value": 57
       },
       {
         "name": "Stats.Stores.Furniture.NumVisits",
-        "value": 22
+        "value": 25
       },
       {
         "name": "Stats.Stores.Electronics.NumVisits",
-        "value": 31
+        "value": 36
       },
       {
         "name": "Stats.Stores.Thrift.NumVisits",
-        "value": 33
-      },
-      {
-        "name": "Stats.Stores.Music.NumVisits",
-        "value": 15
-      },
-      {
-        "name": "Stats.Stores.Fishing.NumVisits",
         "value": 37
       },
       {
+        "name": "Stats.Stores.Music.NumVisits",
+        "value": 16
+      },
+      {
+        "name": "Stats.Stores.Fishing.NumVisits",
+        "value": 38
+      },
+      {
         "name": "Stats.Stores.Seasonal.NumVisits",
-        "value": 47
+        "value": 49
       },
       {
         "name": "Stats.Stores.Bowling.NumVisits",
@@ -73,7 +73,7 @@
       },
       {
         "name": "Stats.Stores.Bar.NumVisits",
-        "value": 25
+        "value": 26
       },
       {
         "name": "Stats.Stores.Nature.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3739288
+        "value": 3744887
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2162938
+        "value": 2164771
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 383647
+        "value": 384090
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 879
+        "value": 903
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 4764080
+        "value": 11774410
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -229,7 +229,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 38886
+        "value": 38887
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
@@ -245,7 +245,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 6005285
+        "value": 6005435
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -305,11 +305,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1479531
+        "value": 1479742
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 699
+        "value": 702
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8399500
+        "value": 8414500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 707633
+        "value": 707699
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 466274
+        "value": 466300
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2801945
+        "value": 2802707
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1137,7 +1137,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 9711445
+        "value": 9711595
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.TripleDiamonds",
@@ -1157,7 +1157,7 @@
       },
       {
         "name": "Stats.Stores.DIY.NumVisits",
-        "value": 20
+        "value": 24
       },
       {
         "name": "Stats.Plaza.Fishing.ReefButterflyfish",
