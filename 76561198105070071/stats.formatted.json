@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3737286
+        "value": 3737354
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2161990
+        "value": 2162027
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 383437
+        "value": 383441
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -229,7 +229,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 38828
+        "value": 38834
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
@@ -237,7 +237,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.WOMSpins",
-        "value": 702
+        "value": 703
       },
       {
         "name": "Stats.Plaza.Casino.WOMNothings",
@@ -245,7 +245,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 5996705
+        "value": 5997605
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 5024000
+        "value": 5036500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 706045
+        "value": 706099
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1137,7 +1137,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 9702745
+        "value": 9704395
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.TripleDiamonds",
