@@ -5,19 +5,19 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 33792
+        "value": 33794
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606042753
+        "value": 1606043195
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 4.158029079437256
+        "value": 4.051246643066406
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 6276
+        "value": 6277
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 48151
+        "value": 48155
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 285348
+        "value": 285350
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -109,7 +109,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseCompleted",
-        "value": 151
+        "value": 152
       },
       {
         "name": "Stats.GameW.BallRace.MidoriCompleted",
@@ -141,7 +141,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseMelons",
-        "value": 3783
+        "value": 3785
       },
       {
         "name": "Stats.GameW.BallRace.MidoriMelons",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3738597
+        "value": 3739288
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2162612
+        "value": 2162938
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 383488
+        "value": 383647
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1479463
+        "value": 1479531
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24254
+        "value": 24255
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -481,19 +481,19 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 5866
+        "value": 5868
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 1328655166
+        "value": 1329285283
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 24160
+        "value": 24170
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
-        "value": 3794
+        "value": 3795
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
@@ -501,7 +501,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 3984
+        "value": 3985
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 30683687
+        "value": 30685787
       },
       {
         "name": "Stats.EXP.plaza",
@@ -673,7 +673,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 22930704
+        "value": 22933344
       },
       {
         "name": "Stats.EXP.lc",
@@ -961,7 +961,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 1951304
+        "value": 1951498
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1452423
+        "value": 1452781
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 707311
+        "value": 707633
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2801877
+        "value": 2801945
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
