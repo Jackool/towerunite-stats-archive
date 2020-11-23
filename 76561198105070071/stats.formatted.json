@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 33926
+        "value": 33989
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606114372
+        "value": 1606117915
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 405682
+        "value": 405960
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1495294
+        "value": 1497188
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -381,15 +381,15 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
-        "value": 1552
+        "value": 1570
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.FancyGhost",
-        "value": 92
+        "value": 94
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.AirKills",
-        "value": 1341
+        "value": 1356
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.NearTaunts",
@@ -397,27 +397,27 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.TeamWins",
-        "value": 2789
+        "value": 2821
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
-        "value": 1137
+        "value": 1153
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 2454
+        "value": 2467
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 3656
+        "value": 3689
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
-        "value": 321
+        "value": 330
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.BirbKills",
-        "value": 38
+        "value": 39
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TeslaZapKills",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.MaxRank",
-        "value": 934
+        "value": 936
       },
       {
         "name": "Stats.EXP.br",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 5079000
+        "value": 5084000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 6363591
+        "value": 6424251
       },
       {
         "name": "Stats.EXP.zm",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 291355
+        "value": 294552
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2819863
+        "value": 2821757
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
