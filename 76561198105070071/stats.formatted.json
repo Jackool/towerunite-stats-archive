@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 33907
+        "value": 33926
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606043195
+        "value": 1606114372
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 7799
+        "value": 7800
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3744945
+        "value": 3745478
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2164803
+        "value": 2165225
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 384103
+        "value": 384145
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -245,7 +245,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 6005435
+        "value": 6005685
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 405678
+        "value": 405682
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1491900
+        "value": 1495294
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 703
+        "value": 705
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24264
+        "value": 24270
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -381,7 +381,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
-        "value": 1549
+        "value": 1552
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.FancyGhost",
@@ -389,7 +389,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.AirKills",
-        "value": 1338
+        "value": 1341
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.NearTaunts",
@@ -397,23 +397,23 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.TeamWins",
-        "value": 2783
+        "value": 2789
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
-        "value": 1136
+        "value": 1137
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 2449
+        "value": 2454
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 3648
+        "value": 3656
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
-        "value": 320
+        "value": 321
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.BirbKills",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 5074000
+        "value": 5079000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 6354516
+        "value": 6363591
       },
       {
         "name": "Stats.EXP.zm",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 290793
+        "value": 291355
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 707699
+        "value": 707760
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2815674
+        "value": 2819863
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1137,7 +1137,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 9711595
+        "value": 9711695
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.TripleDiamonds",
