@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 33795
+        "value": 33803
       },
       {
         "name": "stat_lastcommand",
@@ -37,11 +37,11 @@
       },
       {
         "name": "Stats.Stores.Furniture.NumVisits",
-        "value": 25
+        "value": 26
       },
       {
         "name": "Stats.Stores.Electronics.NumVisits",
-        "value": 36
+        "value": 38
       },
       {
         "name": "Stats.Stores.Thrift.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3744887
+        "value": 3744945
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2164771
+        "value": 2164803
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 384090
+        "value": 384103
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 903
+        "value": 906
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 11774410
+        "value": 11815660
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 405221
+        "value": 405282
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1479742
+        "value": 1480480
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 702
+        "value": 703
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24255
+        "value": 24256
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 5044000
+        "value": 5051500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2802707
+        "value": 2804254
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
