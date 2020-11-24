@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 34020
+        "value": 34449
       },
       {
         "name": "stat_lastcommand",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3747479
+        "value": 3748510
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2166847
+        "value": 2166901
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 384408
+        "value": 384414
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -273,7 +273,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Wins",
-        "value": 100
+        "value": 104
       },
       {
         "name": "Stats.Plaza.TypingDerby.Words",
@@ -281,11 +281,11 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 406863
+        "value": 407660
       },
       {
         "name": "Stats.Condo.PartyTime",
-        "value": 173682
+        "value": 174810
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1503647
+        "value": 1510393
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 706
+        "value": 707
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24274
+        "value": 24280
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -621,11 +621,11 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8417000
+        "value": 8419500
       },
       {
         "name": "Stats.EXP.ltag",
-        "value": 768202
+        "value": 776782
       },
       {
         "name": "Stats.EXP.trivia",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 5101500
+        "value": 5114000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Playtime",
-        "value": 27837
+        "value": 28515
       },
       {
         "name": "Stats.Plaza.Trivia.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2828363
+        "value": 2835134
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
