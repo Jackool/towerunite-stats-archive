@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 35742
+        "value": 35754
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606187050
+        "value": 1606198543
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 48229
+        "value": 48258
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 285448
+        "value": 285518
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 407660
+        "value": 408189
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1512601
+        "value": 1516735
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 30770587
+        "value": 30786682
       },
       {
         "name": "Stats.EXP.plaza",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 5124000
+        "value": 5129000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -961,11 +961,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 1955645
+        "value": 1957722
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 295108
+        "value": 295314
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 268735
+        "value": 268794
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2837652
+        "value": 2841786
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
