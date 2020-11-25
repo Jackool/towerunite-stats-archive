@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606255840
+        "value": 1606262641
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3756592
+        "value": 3757728
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2168191
+        "value": 2168815
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 384620
+        "value": 384837
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8424500
+        "value": 8427000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -653,7 +653,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 1887311
+        "value": 1888811
       },
       {
         "name": "Stats.EXP.fishing",
@@ -1009,11 +1009,11 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 466402
+        "value": 466458
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 35837
+        "value": 35917
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1037,7 +1037,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.PlanesDowned",
-        "value": 325
+        "value": 329
       },
       {
         "name": "Stats.Plaza.Minigames.PumpkinsSmashed",
