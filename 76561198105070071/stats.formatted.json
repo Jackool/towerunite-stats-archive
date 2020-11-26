@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 8000
+        "value": 8001
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -169,7 +169,7 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3758233
+        "value": 3758241
       },
       {
         "name": "Stats.Plaza.Steps",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1452781
+        "value": 1453319
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
