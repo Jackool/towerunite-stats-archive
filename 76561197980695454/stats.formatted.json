@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 16023
+        "value": 16037
       },
       {
         "name": "stat_units",
@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606013838
+        "value": 1606364280
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 500134
+        "value": 502052
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 275888
+        "value": 276580
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 53683
+        "value": 53880
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 981669
+        "value": 982283
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1449000
+        "value": 1454000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 74376
+        "value": 75297
       },
       {
         "name": "Stats.EXP.casino",
@@ -949,11 +949,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 40810
+        "value": 42250
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 13017
+        "value": 13046
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -973,7 +973,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1475191
+        "value": 1475805
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1549,7 +1549,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Dizzy.Jackpots",
-        "value": 24
+        "value": 26
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRig.BestScore",
@@ -1577,7 +1577,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.BestScore",
-        "value": 530
+        "value": 590
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.BestScore",
@@ -1617,7 +1617,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 260
+        "value": 274
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1633,11 +1633,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
-        "value": 237
+        "value": 273
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.Basket",
-        "value": 54
+        "value": 70
       },
       {
         "name": "Stats.Plaza.Arcade.Offering.CenterCup",
@@ -1669,7 +1669,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.IceCave.TilesLit",
-        "value": 1178
+        "value": 1216
       },
       {
         "name": "Stats.Plaza.Arcade.LonelyGun.TargetsHit",
