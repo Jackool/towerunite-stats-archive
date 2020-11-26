@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606291601
+        "value": 1606393425
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3759167
+        "value": 3762351
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2169865
+        "value": 2173541
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 385099
+        "value": 385835
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -197,7 +197,7 @@
       },
       {
         "name": "Stats.Plaza.Markers",
-        "value": 135
+        "value": 136
       },
       {
         "name": "Stats.Plaza.PhotoShoots",
@@ -269,11 +269,11 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Tags",
-        "value": 344
+        "value": 346
       },
       {
         "name": "Stats.Plaza.LaserTag.Wins",
-        "value": 125
+        "value": 126
       },
       {
         "name": "Stats.Plaza.TypingDerby.Words",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 415929
+        "value": 416301
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 717
+        "value": 719
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -621,11 +621,11 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8429500
+        "value": 8444500
       },
       {
         "name": "Stats.EXP.ltag",
-        "value": 776782
+        "value": 788572
       },
       {
         "name": "Stats.EXP.trivia",
@@ -637,7 +637,7 @@
       },
       {
         "name": "Stats.EXP.casino",
-        "value": 1208000
+        "value": 1210500
       },
       {
         "name": "Stats.EXP.tderby",
@@ -653,7 +653,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 1888811
+        "value": 1888849
       },
       {
         "name": "Stats.EXP.fishing",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Playtime",
-        "value": 31751
+        "value": 31968
       },
       {
         "name": "Stats.Plaza.Trivia.Playtime",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 707941
+        "value": 709553
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1009,15 +1009,15 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 466466
+        "value": 466478
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 35917
+        "value": 37473
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2869580
+        "value": 2870529
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1057,7 +1057,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.TotalScore",
-        "value": 27135
+        "value": 27315
       },
       {
         "name": "Stats.Plaza.Trivia.BestScore",
