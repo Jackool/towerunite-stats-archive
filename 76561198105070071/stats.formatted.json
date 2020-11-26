@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606393425
+        "value": 1606406908
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -65,11 +65,11 @@
       },
       {
         "name": "Stats.Stores.BowlingCustom.NumVisits",
-        "value": 41
+        "value": 42
       },
       {
         "name": "Stats.Stores.Vending.NumVisits",
-        "value": 163
+        "value": 164
       },
       {
         "name": "Stats.Stores.Bar.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3762351
+        "value": 3775249
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2173541
+        "value": 2179800
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 385835
+        "value": 387404
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 908
+        "value": 910
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 11815660
+        "value": 11815705
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -253,15 +253,15 @@
       },
       {
         "name": "Stats.Plaza.Bowling.Strikes",
-        "value": 145
+        "value": 149
       },
       {
         "name": "Stats.Plaza.Bowling.Spares",
-        "value": 282
+        "value": 289
       },
       {
         "name": "Stats.Plaza.Bowling.Wins",
-        "value": 27
+        "value": 28
       },
       {
         "name": "Stats.Plaza.LaserTag.Eliminations",
@@ -273,7 +273,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Wins",
-        "value": 126
+        "value": 127
       },
       {
         "name": "Stats.Plaza.TypingDerby.Words",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 719
+        "value": 720
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8464500
+        "value": 8479500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.bowling",
-        "value": 1277890
+        "value": 1303630
       },
       {
         "name": "Stats.EXP.theater",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Playtime",
-        "value": 31968
+        "value": 32465
       },
       {
         "name": "Stats.Plaza.Trivia.Playtime",
@@ -993,11 +993,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 302464
+        "value": 302532
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 709553
+        "value": 710135
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1005,19 +1005,19 @@
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
-        "value": 72247
+        "value": 75028
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 466478
+        "value": 471280
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 37473
+        "value": 50140
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2870529
+        "value": 2870673
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
-        "value": 1674
+        "value": 1675
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
@@ -1073,7 +1073,7 @@
       },
       {
         "name": "Stats.Plaza.Bowling.TotalScore",
-        "value": 15404
+        "value": 15700
       },
       {
         "name": "Stats.Plaza.Bowling.BestScore",
@@ -1085,7 +1085,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Fruit.TotalScore",
-        "value": 100850
+        "value": 100875
       },
       {
         "name": "Stats.Plaza.Minigames.Balloon.TotalScore",
