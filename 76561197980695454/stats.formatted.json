@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606364280
+        "value": 1606373583
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -21,11 +21,11 @@
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 2.5398402214050293
+        "value": 3.876101016998291
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 184
+        "value": 189
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 224
+        "value": 225
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -473,27 +473,27 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 102
+        "value": 112
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 71917709
+        "value": 76961202
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 1020
+        "value": 1059
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
-        "value": 78
+        "value": 88
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
-        "value": 20
+        "value": 23
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 277
+        "value": 289
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -517,11 +517,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.TreasureCoveComplete",
-        "value": 3
+        "value": 4
       },
       {
         "name": "Stats.GameW.Minigolf.SweetToothComplete",
-        "value": 7
+        "value": 8
       },
       {
         "name": "Stats.GameW.Minigolf.ForestComplete",
@@ -549,11 +549,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.TreasureCoveCoursePar",
-        "value": 55
+        "value": 58
       },
       {
         "name": "Stats.GameW.Minigolf.SweetToothCoursePar",
-        "value": 72
+        "value": 60
       },
       {
         "name": "Stats.GameW.Minigolf.ForestCoursePar",
@@ -649,7 +649,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 936981
+        "value": 995004
       },
       {
         "name": "Stats.EXP.lc",
@@ -929,7 +929,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 65994
+        "value": 71081
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
@@ -973,7 +973,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1475805
+        "value": 1475926
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1677,11 +1677,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.IslandComplete",
-        "value": 5
+        "value": 6
       },
       {
         "name": "Stats.GameW.Minigolf.IslandCoursePar",
-        "value": 68
+        "value": 58
       },
       {
         "name": "Stats.GameW.Accelerate.BedzoomComplete",
@@ -2350,7 +2350,15 @@
         "achieved": 1
       },
       {
+        "name": "ACH_GW_MGOLF_SWEETTOOTHHIO7",
+        "achieved": 1
+      },
+      {
         "name": "ACH_GW_MGOLF_SWEETTOOTHHIO12",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_SWEETTOOTHHIO16",
         "achieved": 1
       },
       {
