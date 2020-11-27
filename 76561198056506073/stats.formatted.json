@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1568000
+        "value": 1573000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -666,6 +666,10 @@
       {
         "name": "Stats.EXP.fishing",
         "value": 46600
+      },
+      {
+        "name": "Stats.EXP.nightclub",
+        "value": 10000
       },
       {
         "name": "Stats.EXP.condo",
