@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1604831513
+        "value": 1606481278
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -561,7 +561,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1855500
+        "value": 1863000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -598,6 +598,10 @@
       {
         "name": "Stats.EXP.fishing",
         "value": 344700
+      },
+      {
+        "name": "Stats.EXP.nightclub",
+        "value": 6200
       },
       {
         "name": "Stats.EXP.condo",
@@ -1807,6 +1811,10 @@
       },
       {
         "name": "ACH_GW_BR_PRISMCOMPLETED",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_TOWERADDICTION",
         "achieved": 1
       },
       {
