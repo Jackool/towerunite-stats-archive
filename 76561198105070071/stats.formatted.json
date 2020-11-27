@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 35973
+        "value": 36009
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606406908
+        "value": 1606472278
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -73,7 +73,7 @@
       },
       {
         "name": "Stats.Stores.Bar.NumVisits",
-        "value": 26
+        "value": 27
       },
       {
         "name": "Stats.Stores.Nature.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3775249
+        "value": 3794277
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2179800
+        "value": 2179835
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 387404
+        "value": 387412
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 910
+        "value": 911
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 417746
+        "value": 417759
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1549965
+        "value": 1549971
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 720
+        "value": 721
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24293
+        "value": 24295
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -381,15 +381,15 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
-        "value": 1586
+        "value": 1601
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.FancyGhost",
-        "value": 94
+        "value": 95
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.AirKills",
-        "value": 1370
+        "value": 1382
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.NearTaunts",
@@ -397,19 +397,19 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.TeamWins",
-        "value": 2835
+        "value": 2875
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
-        "value": 1156
+        "value": 1171
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 2486
+        "value": 2506
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 3713
+        "value": 3756
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
@@ -417,7 +417,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.BirbKills",
-        "value": 39
+        "value": 40
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TeslaZapKills",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.MaxRank",
-        "value": 948
+        "value": 949
       },
       {
         "name": "Stats.EXP.br",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8479500
+        "value": 8622000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -660,6 +660,10 @@
         "value": 1321550
       },
       {
+        "name": "Stats.EXP.nightclub",
+        "value": 830460
+      },
+      {
         "name": "Stats.EXP.condo",
         "value": 5214000
       },
@@ -677,7 +681,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 6470616
+        "value": 6539766
       },
       {
         "name": "Stats.EXP.zm",
@@ -965,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 296311
+        "value": 298919
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -1017,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2878589
+        "value": 2879374
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
