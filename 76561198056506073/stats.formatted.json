@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605992518
+        "value": 1606490176
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 564275
+        "value": 568806
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 88365
+        "value": 90419
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 86059
+        "value": 86280
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1573000
+        "value": 1593000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -669,7 +669,7 @@
       },
       {
         "name": "Stats.EXP.nightclub",
-        "value": 10000
+        "value": 65100
       },
       {
         "name": "Stats.EXP.condo",
