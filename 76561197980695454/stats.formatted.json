@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606532249
+        "value": 1606534314
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -37,7 +37,7 @@
       },
       {
         "name": "Stats.Stores.Toy.NumVisits",
-        "value": 34
+        "value": 35
       },
       {
         "name": "Stats.Stores.Furniture.NumVisits",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 507868
+        "value": 511041
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 279929
+        "value": 281899
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 54548
+        "value": 55032
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -189,7 +189,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 415
+        "value": 416
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1471500
+        "value": 1479000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 75297
+        "value": 75595
       },
       {
         "name": "Stats.EXP.casino",
@@ -949,11 +949,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 42250
+        "value": 42504
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 13179
+        "value": 13471
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 14794
+        "value": 14798
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1561,7 +1561,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Dizzy.Jackpots",
-        "value": 26
+        "value": 27
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRig.BestScore",
