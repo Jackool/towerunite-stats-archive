@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606453344
+        "value": 1606532249
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -69,7 +69,7 @@
       },
       {
         "name": "Stats.Stores.BowlingCustom.NumVisits",
-        "value": 8
+        "value": 10
       },
       {
         "name": "Stats.Stores.Vending.NumVisits",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 505213
+        "value": 507868
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 279517
+        "value": 279929
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 54458
+        "value": 54548
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -189,7 +189,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 413
+        "value": 415
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1464000
+        "value": 1471500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -637,7 +637,7 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 107100
+        "value": 115700
       },
       {
         "name": "Stats.EXP.condo",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 207
+        "value": 225
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -953,7 +953,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 13117
+        "value": 13179
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 14792
+        "value": 14794
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
-        "value": 7893
+        "value": 8538
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
@@ -1105,7 +1105,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.ClownLoach",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.RoyalAngelfish",
@@ -1204,6 +1204,10 @@
         "value": 2
       },
       {
+        "name": "Stats.Plaza.Fishing.MurexShellfish",
+        "value": 1
+      },
+      {
         "name": "Stats.Plaza.Fishing.Mussel",
         "value": 1
       },
@@ -1256,8 +1260,12 @@
         "value": 3
       },
       {
+        "name": "Stats.Plaza.Fishing.RedKnobStarfish",
+        "value": 1
+      },
+      {
         "name": "Stats.Plaza.Fishing.CommonStarfish",
-        "value": 5
+        "value": 6
       },
       {
         "name": "Stats.Plaza.Fishing.TrewavasCichlid",
@@ -1273,7 +1281,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.CoralCod",
-        "value": 2
+        "value": 3
       },
       {
         "name": "Stats.Plaza.Fishing.RedSnapper",
@@ -1317,7 +1325,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.LargeOyster",
-        "value": 3
+        "value": 4
       },
       {
         "name": "Stats.Plaza.Fishing.LargePowderblueTang",
@@ -1333,7 +1341,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.LargeCommonStarfish",
-        "value": 3
+        "value": 4
       },
       {
         "name": "Stats.Plaza.Fishing.LargeCoralCod",
@@ -1365,7 +1373,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.ShortfinCorvina",
-        "value": 4
+        "value": 5
       },
       {
         "name": "Stats.Plaza.Fishing.CuberaSnapper",
@@ -1441,15 +1449,15 @@
       },
       {
         "name": "Stats.Plaza.Fishing.UsedCoffeeCup",
-        "value": 3
+        "value": 4
       },
       {
         "name": "Stats.Plaza.Fishing.Cigs",
-        "value": 2
+        "value": 3
       },
       {
         "name": "Stats.Plaza.Fishing.RuinedPaperTicket",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.CandyWrapper",
@@ -1457,19 +1465,19 @@
       },
       {
         "name": "Stats.Plaza.Fishing.OldNewspaper",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.TrashBag",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.PlasticStraw",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.BarrelofTrash",
-        "value": 3
+        "value": 4
       },
       {
         "name": "Stats.Plaza.Fishing.WoodenPalette",
@@ -1489,7 +1497,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.ShoppingCart",
-        "value": 3
+        "value": 4
       },
       {
         "name": "Stats.Plaza.Fishing.UsedSprayCan",
@@ -1501,6 +1509,10 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Cooler",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.Broom",
         "value": 1
       },
       {
