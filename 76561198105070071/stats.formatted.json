@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606622571
+        "value": 1606659543
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3853947
+        "value": 3856717
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2191952
+        "value": 2192277
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 389210
+        "value": 389280
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 726
+        "value": 727
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8729500
+        "value": 8737000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1795160
+        "value": 1797544
       },
       {
         "name": "Stats.EXP.casino",
@@ -661,11 +661,11 @@
       },
       {
         "name": "Stats.EXP.nightclub",
-        "value": 1100180
+        "value": 1110180
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 5336500
+        "value": 5339000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 302806
+        "value": 303549
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2927549
+        "value": 2929817
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1953,7 +1953,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 4577
+        "value": 4613
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
@@ -1961,11 +1961,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.Basket",
-        "value": 52505
+        "value": 52559
       },
       {
         "name": "Stats.Plaza.Arcade.Offering.CenterCup",
-        "value": 1063
+        "value": 1133
       },
       {
         "name": "Stats.Plaza.Arcade.BugBytes.BugsDestroyed",
