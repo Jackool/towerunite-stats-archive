@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606701892
+        "value": 1606712382
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 518244
+        "value": 525707
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 287078
+        "value": 291417
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 55865
+        "value": 56445
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -381,7 +381,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
-        "value": 77
+        "value": 78
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.FancyGhost",
@@ -397,19 +397,19 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.TeamWins",
-        "value": 287
+        "value": 297
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
-        "value": 153
+        "value": 154
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 149
+        "value": 155
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 325
+        "value": 336
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
@@ -597,11 +597,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 2015404
+        "value": 2022601
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1504000
+        "value": 1521500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 360426
+        "value": 392512
       },
       {
         "name": "Stats.EXP.fishing",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.nightclub",
-        "value": 10000
+        "value": 20000
       },
       {
         "name": "Stats.EXP.condo",
@@ -657,7 +657,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 474281
+        "value": 488606
       },
       {
         "name": "Stats.EXP.zm",
@@ -929,7 +929,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 27166
+        "value": 27877
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -969,11 +969,11 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 14828
+        "value": 14910
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 47489
+        "value": 47840
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -993,11 +993,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.BalloonsPopped",
-        "value": 666
+        "value": 791
       },
       {
         "name": "Stats.Plaza.Minigames.PlanesDowned",
-        "value": 74
+        "value": 117
       },
       {
         "name": "Stats.Plaza.Minigames.PumpkinsSmashed",
@@ -1041,7 +1041,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Balloon.TotalScore",
-        "value": 48763
+        "value": 58070
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
@@ -2679,6 +2679,10 @@
       },
       {
         "name": "ACH_PLZ_MINIGAMES_FLOATDENIER",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_MINIGAMES_REDBARON",
         "achieved": 1
       },
       {
