@@ -9,14 +9,14 @@ URI encoding = 'ISO-8859-1'
 iconv UTF-8 -> ISO-8859-1
 iconv outlen=294 inlen=147
 converted 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561197980695454' (ISO-8859-1) -> 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561197980695454' (UTF-8)
---2020-11-30 02:00:03--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561197980695454
-Resolving api.steampowered.com (api.steampowered.com)... 96.6.229.181
-Caching api.steampowered.com => 96.6.229.181
-Connecting to api.steampowered.com (api.steampowered.com)|96.6.229.181|:443... connected.
+--2020-11-30 04:00:04--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561197980695454
+Resolving api.steampowered.com (api.steampowered.com)... 23.14.8.147
+Caching api.steampowered.com => 23.14.8.147
+Connecting to api.steampowered.com (api.steampowered.com)|23.14.8.147|:443... connected.
 Created socket 4.
-Releasing 0x0000562e11045760 (new refcount 1).
+Releasing 0x000056020a463760 (new refcount 1).
 Initiating SSL handshake.
-Handshake successful; connected socket 4 to SSL handle 0x0000562e11045950
+Handshake successful; connected socket 4 to SSL handle 0x000056020a463950
 certificate:
   subject: CN=store.steampowered.com,O=Valve Corp,L=Bellevue,ST=Washington,C=US,serialNumber=602 290 773,jurisdictionST=Washington,jurisdictionC=US,businessCategory=Private Organization
   issuer:  CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US
@@ -36,8 +36,8 @@ HTTP request sent, awaiting response...
 HTTP/1.1 200 OK
 Content-Type: application/json; charset=UTF-8
 Vary: Accept-Encoding
-Expires: Mon, 30 Nov 2020 07:05:04 GMT
-Date: Mon, 30 Nov 2020 07:00:04 GMT
+Expires: Mon, 30 Nov 2020 09:05:05 GMT
+Date: Mon, 30 Nov 2020 09:00:05 GMT
 Content-Length: 40393
 Connection: keep-alive
 
@@ -46,8 +46,8 @@ Connection: keep-alive
   HTTP/1.1 200 OK
   Content-Type: application/json; charset=UTF-8
   Vary: Accept-Encoding
-  Expires: Mon, 30 Nov 2020 07:05:04 GMT
-  Date: Mon, 30 Nov 2020 07:00:04 GMT
+  Expires: Mon, 30 Nov 2020 09:05:05 GMT
+  Date: Mon, 30 Nov 2020 09:00:05 GMT
   Content-Length: 40393
   Connection: keep-alive
 Registered socket 4 for persistent reuse.
@@ -55,7 +55,7 @@ URI content encoding = 'UTF-8'
 Length: 40393 (39K) [application/json]
 Saving to: '/dev/stdout'
 
-     0K .......... .......... .......... .........            100% 1.60M=0.02s
+     0K .......... .......... .......... .........            100%  199K=0.2s
 
-2020-11-30 02:00:04 (1.60 MB/s) - '/dev/stdout' saved [40393/40393]
+2020-11-30 04:00:06 (199 KB/s) - '/dev/stdout' saved [40393/40393]
 
