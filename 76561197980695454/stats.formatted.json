@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606625803
+        "value": 1606701892
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 516928
+        "value": 518244
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 286251
+        "value": 287078
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 55666
+        "value": 55865
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1499000
+        "value": 1504000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -638,6 +638,10 @@
       {
         "name": "Stats.EXP.fishing",
         "value": 115700
+      },
+      {
+        "name": "Stats.EXP.nightclub",
+        "value": 10000
       },
       {
         "name": "Stats.EXP.condo",
@@ -949,11 +953,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 44711
+        "value": 44977
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 13539
+        "value": 13632
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1561,7 +1565,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Dizzy.Jackpots",
-        "value": 28
+        "value": 29
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRig.BestScore",
