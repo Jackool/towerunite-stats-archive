@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3860446
+        "value": 3861860
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2193026
+        "value": 2193424
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 389541
+        "value": 389676
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 471366
+        "value": 471370
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
