@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606712382
+        "value": 1606714200
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -97,11 +97,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 1501
+        "value": 1541
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 4034
+        "value": 4105
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -117,7 +117,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MidoriCompleted",
-        "value": 3
+        "value": 4
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesCompleted",
@@ -125,7 +125,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.GLXYCompleted",
-        "value": 17
+        "value": 18
       },
       {
         "name": "Stats.GameW.BallRace.SummitCompleted",
@@ -149,7 +149,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MidoriMelons",
-        "value": 105
+        "value": 135
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesMelons",
@@ -157,7 +157,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.GLXYMelons",
-        "value": 287
+        "value": 305
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
@@ -173,11 +173,11 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 525707
+        "value": 525710
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 291417
+        "value": 291419
       },
       {
         "name": "Stats.Plaza.Jumps",
@@ -597,7 +597,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 2022601
+        "value": 2080894
       },
       {
         "name": "Stats.EXP.plaza",
@@ -925,7 +925,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 71638
+        "value": 73752
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1421,11 +1421,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompleted",
-        "value": 15
+        "value": 16
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonMelons",
-        "value": 211
+        "value": 234
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompletedNoDeath",
