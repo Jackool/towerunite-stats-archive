@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 529398
+        "value": 536195
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 292681
+        "value": 293409
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 56791
+        "value": 56986
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1541500
+        "value": 1554000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.nightclub",
-        "value": 25000
+        "value": 55000
       },
       {
         "name": "Stats.EXP.condo",
@@ -953,7 +953,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 46589
+        "value": 47516
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1665,7 +1665,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PluckAPal.Grabs",
-        "value": 17
+        "value": 18
       },
       {
         "name": "Stats.Plaza.Arcade.NewtonsApples.ApplesDropped",
@@ -1677,7 +1677,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
-        "value": 70
+        "value": 77
       },
       {
         "name": "Stats.Plaza.Arcade.Avalanche.BlueCatsacks",
