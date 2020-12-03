@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 16037
+        "value": 16236
       },
       {
         "name": "stat_units",
@@ -281,11 +281,11 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 270965
+        "value": 278367
       },
       {
         "name": "Stats.Condo.PartyTime",
-        "value": 468250
+        "value": 470413
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 982283
+        "value": 996722
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 3490000
+        "value": 3507500
       },
       {
         "name": "Stats.EXP.virus",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1479357
+        "value": 1493796
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
