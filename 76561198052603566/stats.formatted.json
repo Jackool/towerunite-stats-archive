@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 13312
+        "value": 13332
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606923650
+        "value": 1606989412
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -89,11 +89,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 386
+        "value": 403
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 1229
+        "value": 1243
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -301,11 +301,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 579409
+        "value": 579813
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 318
+        "value": 320
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 519181
+        "value": 526111
       },
       {
         "name": "Stats.EXP.plaza",
@@ -841,7 +841,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 22374
+        "value": 23002
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -893,7 +893,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1435630
+        "value": 1436040
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1377,11 +1377,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompleted",
-        "value": 5
+        "value": 6
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonMelons",
-        "value": 106
+        "value": 120
       },
       {
         "name": "Stats.Plaza.Fishing.AllKnowingPufferfish",

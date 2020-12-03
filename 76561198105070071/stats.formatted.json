@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3880894
+        "value": 3881182
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2199997
+        "value": 2200098
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 391001
+        "value": 391023
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 710272
+        "value": 710302
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 471396
+        "value": 471404
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
