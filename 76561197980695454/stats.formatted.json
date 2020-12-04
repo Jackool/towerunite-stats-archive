@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606961476
+        "value": 1607061785
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 536556
+        "value": 538985
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 293481
+        "value": 294625
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 57015
+        "value": 57217
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1554000
+        "value": 1561500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 79490
+        "value": 80137
       },
       {
         "name": "Stats.EXP.casino",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 3507500
+        "value": 3515000
       },
       {
         "name": "Stats.EXP.virus",
@@ -953,11 +953,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 47672
+        "value": 48674
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 13822
+        "value": 13899
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1565,7 +1565,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Dizzy.Jackpots",
-        "value": 29
+        "value": 30
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRig.BestScore",
@@ -1633,7 +1633,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 281
+        "value": 288
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
