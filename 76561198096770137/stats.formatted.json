@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1605912691
+        "value": 1607171495
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 1200133
+        "value": 1200531
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 209419
+        "value": 209684
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 46540
+        "value": 46548
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -229,7 +229,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 31232
+        "value": 31263
       },
       {
         "name": "Stats.Plaza.Casino.Poker.TotalUnitsPlayed",
@@ -249,7 +249,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.WOMSpins",
-        "value": 2141
+        "value": 2144
       },
       {
         "name": "Stats.Plaza.Casino.WOMNothings",
@@ -257,7 +257,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 4621160
+        "value": 4625810
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -877,7 +877,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 275253
+        "value": 275571
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 5433615
+        "value": 5441865
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.GrandQuest",
