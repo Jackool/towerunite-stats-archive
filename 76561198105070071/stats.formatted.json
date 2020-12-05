@@ -33,7 +33,7 @@
       },
       {
         "name": "Stats.Stores.Toy.NumVisits",
-        "value": 57
+        "value": 58
       },
       {
         "name": "Stats.Stores.Furniture.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3898522
+        "value": 3898720
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2203802
+        "value": 2204000
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 391972
+        "value": 392015
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 915
+        "value": 916
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 459097
+        "value": 459216
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -309,11 +309,11 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 753
+        "value": 758
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24377
+        "value": 24378
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -661,11 +661,11 @@
       },
       {
         "name": "Stats.EXP.nightclub",
-        "value": 1160180
+        "value": 1161380
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 5531500
+        "value": 5534000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 720710
+        "value": 720827
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3014196
+        "value": 3016822
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
