@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1607172844
+        "value": 1607176452
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3888148
+        "value": 3898522
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2203720
+        "value": 2203802
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 391970
+        "value": 391972
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -229,7 +229,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 38887
+        "value": 40427
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
@@ -237,15 +237,15 @@
       },
       {
         "name": "Stats.Plaza.Casino.WOMSpins",
-        "value": 707
+        "value": 835
       },
       {
         "name": "Stats.Plaza.Casino.WOMNothings",
-        "value": 131
+        "value": 155
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 6005710
+        "value": 6236710
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8834500
+        "value": 8847000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -637,7 +637,7 @@
       },
       {
         "name": "Stats.EXP.casino",
-        "value": 1228000
+        "value": 1238000
       },
       {
         "name": "Stats.EXP.tderby",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 710360
+        "value": 720710
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3014192
+        "value": 3014196
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1141,7 +1141,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 9711895
+        "value": 9899470
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.TripleDiamonds",
