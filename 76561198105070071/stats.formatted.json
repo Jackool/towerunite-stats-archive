@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 36521
+        "value": 36524
       },
       {
         "name": "stat_lastcommand",
-        "value": 1607176452
+        "value": 1607251858
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -73,7 +73,7 @@
       },
       {
         "name": "Stats.Stores.Bar.NumVisits",
-        "value": 28
+        "value": 30
       },
       {
         "name": "Stats.Stores.Nature.NumVisits",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 916
+        "value": 918
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 459327
+        "value": 459514
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1631321
+        "value": 1632095
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 760
+        "value": 762
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24378
+        "value": 24379
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8847000
+        "value": 8849500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -637,7 +637,7 @@
       },
       {
         "name": "Stats.EXP.casino",
-        "value": 1238000
+        "value": 1240500
       },
       {
         "name": "Stats.EXP.tderby",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3018999
+        "value": 3020726
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
