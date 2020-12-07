@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 36538
+        "value": 36543
       },
       {
         "name": "stat_lastcommand",
-        "value": 1607297474
+        "value": 1607341061
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3916870
+        "value": 3920681
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2208737
+        "value": 2210176
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 393004
+        "value": 393341
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1633052
+        "value": 1634606
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 763
+        "value": 764
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24379
+        "value": 24384
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8902000
+        "value": 8914500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1802683
+        "value": 1803445
       },
       {
         "name": "Stats.EXP.casino",
@@ -661,11 +661,11 @@
       },
       {
         "name": "Stats.EXP.nightclub",
-        "value": 1161380
+        "value": 1181380
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 5539000
+        "value": 5541500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3022048
+        "value": 3024240
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1877,7 +1877,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.StackEm.BestScore",
-        "value": 1393
+        "value": 1524
       },
       {
         "name": "Stats.Plaza.Arcade.SuperHoopers.BestScore",
