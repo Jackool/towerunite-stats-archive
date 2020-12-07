@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1607275481
+        "value": 1607297474
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3911665
+        "value": 3915798
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2208015
+        "value": 2208279
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 392862
+        "value": 392918
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -229,7 +229,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 40825
+        "value": 41355
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
@@ -237,15 +237,15 @@
       },
       {
         "name": "Stats.Plaza.Casino.WOMSpins",
-        "value": 869
+        "value": 904
       },
       {
         "name": "Stats.Plaza.Casino.WOMNothings",
-        "value": 162
+        "value": 169
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 6296410
+        "value": 6375910
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8889500
+        "value": 8899500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -637,7 +637,7 @@
       },
       {
         "name": "Stats.EXP.casino",
-        "value": 1253000
+        "value": 1260500
       },
       {
         "name": "Stats.EXP.tderby",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 727029
+        "value": 730839
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1141,7 +1141,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 9950845
+        "value": 9982795
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.TripleDiamonds",
