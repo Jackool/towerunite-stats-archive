@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 36706
+        "value": 36708
       },
       {
         "name": "stat_lastcommand",
@@ -61,7 +61,7 @@
       },
       {
         "name": "Stats.Stores.Bowling.NumVisits",
-        "value": 24
+        "value": 25
       },
       {
         "name": "Stats.Stores.BowlingCustom.NumVisits",
@@ -69,7 +69,7 @@
       },
       {
         "name": "Stats.Stores.Vending.NumVisits",
-        "value": 166
+        "value": 168
       },
       {
         "name": "Stats.Stores.Bar.NumVisits",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 920
+        "value": 923
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 485620
+        "value": 485710
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1675612
+        "value": 1678235
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 770
+        "value": 774
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24406
+        "value": 24407
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.bowling",
-        "value": 1304350
+        "value": 1305250
       },
       {
         "name": "Stats.EXP.theater",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 5656500
+        "value": 5666500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
-        "value": 75296
+        "value": 75835
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3067315
+        "value": 3074680
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
