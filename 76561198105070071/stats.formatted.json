@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1607341061
+        "value": 1607521897
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3928210
+        "value": 3932563
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2211427
+        "value": 2213232
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 393664
+        "value": 393830
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 8937000
+        "value": 8949500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1803445
+        "value": 1804818
       },
       {
         "name": "Stats.EXP.casino",
@@ -661,11 +661,11 @@
       },
       {
         "name": "Stats.EXP.nightclub",
-        "value": 1236380
+        "value": 1256380
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 5651500
+        "value": 5656500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -997,11 +997,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 306327
+        "value": 306453
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 731147
+        "value": 731800
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1877,7 +1877,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.StackEm.BestScore",
-        "value": 1524
+        "value": 2513
       },
       {
         "name": "Stats.Plaza.Arcade.SuperHoopers.BestScore",
@@ -1981,7 +1981,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 47382
+        "value": 47662
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
