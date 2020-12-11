@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 48531
+        "value": 48535
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 285981
+        "value": 285984
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -149,7 +149,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesMelons",
-        "value": 3107
+        "value": 3110
       },
       {
         "name": "Stats.GameW.BallRace.GLXYMelons",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 31034932
+        "value": 31036057
       },
       {
         "name": "Stats.EXP.plaza",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 1970600
+        "value": 1970736
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
