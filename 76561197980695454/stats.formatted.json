@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1607061785
+        "value": 1608005386
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 538985
+        "value": 539158
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 294625
+        "value": 294758
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 57217
+        "value": 57263
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 3555000
+        "value": 3562500
       },
       {
         "name": "Stats.EXP.virus",
@@ -957,7 +957,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 13899
+        "value": 13926
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
