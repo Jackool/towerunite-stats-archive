@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608098483
+        "value": 1608154714
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 10009
+        "value": 10010
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3982709
+        "value": 3987014
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2240190
+        "value": 2244630
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 398414
+        "value": 398953
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 548285
+        "value": 548289
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -309,11 +309,11 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 818
+        "value": 820
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24421
+        "value": 24424
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9082000
+        "value": 9087000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -653,7 +653,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 1900662
+        "value": 1903347
       },
       {
         "name": "Stats.EXP.fishing",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 306733
+        "value": 306784
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1013,15 +1013,15 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 496972
+        "value": 496982
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 50817
+        "value": 51156
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3227730
+        "value": 3230327
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1105,7 +1105,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Snowball.TotalScore",
-        "value": 38250
+        "value": 38670
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
@@ -2093,7 +2093,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 1970
+        "value": 2623
       }
     ],
     "achievements": [
