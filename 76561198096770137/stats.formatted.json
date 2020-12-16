@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 3600501
+        "value": 3610501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -577,7 +577,7 @@
       },
       {
         "name": "Stats.EXP.tderby",
-        "value": 201951
+        "value": 206601
       },
       {
         "name": "Stats.EXP.bowling",
@@ -1637,7 +1637,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 6731012
+        "value": 6733012
       }
     ],
     "achievements": [

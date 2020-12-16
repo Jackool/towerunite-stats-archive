@@ -25,7 +25,7 @@
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
-        "value": 244
+        "value": 245
       },
       {
         "name": "Stats.Stores.Food.NumVisits",
@@ -69,7 +69,7 @@
       },
       {
         "name": "Stats.Stores.Vending.NumVisits",
-        "value": 171
+        "value": 172
       },
       {
         "name": "Stats.Stores.Bar.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3972348
+        "value": 3978007
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2232689
+        "value": 2236944
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 396968
+        "value": 397826
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 930
+        "value": 932
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -197,7 +197,7 @@
       },
       {
         "name": "Stats.Plaza.Markers",
-        "value": 149
+        "value": 150
       },
       {
         "name": "Stats.Plaza.PhotoShoots",
@@ -269,11 +269,11 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Tags",
-        "value": 346
+        "value": 347
       },
       {
         "name": "Stats.Plaza.LaserTag.Wins",
-        "value": 127
+        "value": 128
       },
       {
         "name": "Stats.Plaza.TypingDerby.Words",
@@ -621,11 +621,11 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9052000
+        "value": 9077000
       },
       {
         "name": "Stats.EXP.ltag",
-        "value": 788572
+        "value": 795592
       },
       {
         "name": "Stats.EXP.trivia",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.tderby",
-        "value": 1191530
+        "value": 1195880
       },
       {
         "name": "Stats.EXP.bowling",
@@ -989,7 +989,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Playtime",
-        "value": 32465
+        "value": 33053
       },
       {
         "name": "Stats.Plaza.Trivia.Playtime",
@@ -997,11 +997,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 306711
+        "value": 306733
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 732344
+        "value": 732415
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1013,11 +1013,11 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 496844
+        "value": 496898
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 50311
+        "value": 50593
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1061,7 +1061,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.TotalScore",
-        "value": 27315
+        "value": 27405
       },
       {
         "name": "Stats.Plaza.Trivia.BestScore",
@@ -2089,7 +2089,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3183388
+        "value": 3229978
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
