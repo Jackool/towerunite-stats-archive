@@ -53,7 +53,7 @@
       },
       {
         "name": "Stats.Stores.Fishing.NumVisits",
-        "value": 13
+        "value": 14
       },
       {
         "name": "Stats.Stores.Seasonal.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 1200544
+        "value": 1200924
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 209684
+        "value": 210176
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 46548
+        "value": 46551
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 267
+        "value": 268
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 508
+        "value": 511
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 3598001
+        "value": 3600501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -577,7 +577,7 @@
       },
       {
         "name": "Stats.EXP.tderby",
-        "value": 199101
+        "value": 201951
       },
       {
         "name": "Stats.EXP.bowling",
@@ -897,7 +897,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 999071
+        "value": 999615
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",

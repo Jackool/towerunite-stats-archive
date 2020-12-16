@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608005386
+        "value": 1608085053
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 539158
+        "value": 540227
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 294758
+        "value": 295048
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 57263
+        "value": 57373
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1561500
+        "value": 1564000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 80137
+        "value": 80157
       },
       {
         "name": "Stats.EXP.casino",
@@ -953,7 +953,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 48674
+        "value": 48786
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 14912
+        "value": 14918
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1754,6 +1754,10 @@
       {
         "name": "Stats.EXP.halloween",
         "value": 13583192
+      },
+      {
+        "name": "Stats.Plaza.Nightclub.Playtime",
+        "value": 277
       }
     ],
     "achievements": [
