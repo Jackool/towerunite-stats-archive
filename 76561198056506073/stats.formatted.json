@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606794921
+        "value": 1608171642
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 578484
+        "value": 580306
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 96247
+        "value": 96482
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 86943
+        "value": 87172
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1610500
+        "value": 1613000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 645668
+        "value": 647741
       },
       {
         "name": "Stats.EXP.casino",
@@ -993,7 +993,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 178235
+        "value": 178290
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1449,7 +1449,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAfish.BestScore",
-        "value": 294
+        "value": 339
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.BestScore",
@@ -1493,7 +1493,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 12817
+        "value": 12823
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -1509,7 +1509,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 59510
+        "value": 59844
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
