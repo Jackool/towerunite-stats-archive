@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1606989412
+        "value": 1608195011
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -165,15 +165,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 641342
+        "value": 645391
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 210222
+        "value": 212071
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 20115
+        "value": 20270
       },
       {
         "name": "Stats.Plaza.Store.Talks",
@@ -561,7 +561,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1903000
+        "value": 1913000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1494421
+        "value": 1494751
       },
       {
         "name": "Stats.EXP.casino",
@@ -593,7 +593,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 733201
+        "value": 738286
       },
       {
         "name": "Stats.EXP.fishing",
@@ -869,7 +869,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 267718
+        "value": 270863
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -889,7 +889,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 15805
+        "value": 16178
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -968,6 +968,10 @@
         "value": 16400
       },
       {
+        "name": "Stats.Plaza.Minigames.Snowball.TotalScore",
+        "value": 320
+      },
+      {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
         "value": 48191
       },
@@ -990,6 +994,10 @@
       {
         "name": "Stats.Plaza.Minigames.Food.BestScore",
         "value": 4675
+      },
+      {
+        "name": "Stats.Plaza.Minigames.Snowball.BestScore",
+        "value": 320
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.BestScore",
@@ -1754,6 +1762,10 @@
       {
         "name": "Stats.EXP.halloween",
         "value": 4058679
+      },
+      {
+        "name": "Stats.Plaza.Nightclub.Playtime",
+        "value": 326
       }
     ],
     "achievements": [
