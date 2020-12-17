@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608179520
+        "value": 1608218812
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3991965
+        "value": 3992924
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2248085
+        "value": 2249074
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 399522
+        "value": 399716
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -305,11 +305,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1799255
+        "value": 1799360
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 825
+        "value": 828
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 6044000
+        "value": 6046500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 732447
+        "value": 732468
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1013,15 +1013,15 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 497006
+        "value": 497014
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 51544
+        "value": 51609
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3245439
+        "value": 3248284
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1953,7 +1953,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 4652
+        "value": 4654
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
@@ -2093,7 +2093,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 4223
+        "value": 4354
       }
     ],
     "achievements": [
