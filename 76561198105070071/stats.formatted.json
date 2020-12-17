@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 36929
+        "value": 36931
       },
       {
         "name": "stat_lastcommand",
@@ -69,7 +69,7 @@
       },
       {
         "name": "Stats.Stores.Vending.NumVisits",
-        "value": 172
+        "value": 173
       },
       {
         "name": "Stats.Stores.Bar.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 3987014
+        "value": 3988448
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2244630
+        "value": 2245728
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 398953
+        "value": 399092
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 932
+        "value": 933
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -197,7 +197,7 @@
       },
       {
         "name": "Stats.Plaza.Markers",
-        "value": 154
+        "value": 155
       },
       {
         "name": "Stats.Plaza.PhotoShoots",
@@ -305,11 +305,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1787342
+        "value": 1788598
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 820
+        "value": 822
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9087000
+        "value": 9089500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1804995
+        "value": 1805045
       },
       {
         "name": "Stats.EXP.casino",
@@ -653,7 +653,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 1903347
+        "value": 1932224
       },
       {
         "name": "Stats.EXP.fishing",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 6014000
+        "value": 6019000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 732415
+        "value": 732447
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1017,11 +1017,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 51156
+        "value": 51544
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3230327
+        "value": 3232056
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
-        "value": 1765
+        "value": 1890
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
@@ -1089,7 +1089,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Fruit.TotalScore",
-        "value": 108175
+        "value": 121300
       },
       {
         "name": "Stats.Plaza.Minigames.Balloon.TotalScore",
@@ -2085,15 +2085,15 @@
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 1203
+        "value": 1228
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3244978
+        "value": 3269978
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 2623
+        "value": 2680
       }
     ],
     "achievements": [
