@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608274172
+        "value": 1608281797
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -165,15 +165,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 650579
+        "value": 657977
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 213155
+        "value": 215803
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 20406
+        "value": 20738
       },
       {
         "name": "Stats.Plaza.Store.Talks",
@@ -561,7 +561,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1928000
+        "value": 1948000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1495561
+        "value": 1499352
       },
       {
         "name": "Stats.EXP.casino",
@@ -593,7 +593,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 738706
+        "value": 743161
       },
       {
         "name": "Stats.EXP.fishing",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.nightclub",
-        "value": 195900
+        "value": 205900
       },
       {
         "name": "Stats.EXP.condo",
@@ -869,11 +869,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 274770
+        "value": 279537
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 49539
+        "value": 49542
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -889,7 +889,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 16346
+        "value": 16550
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1541,7 +1541,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Dizzy.Jackpots",
-        "value": 30
+        "value": 31
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRig.BestScore",
@@ -1765,7 +1765,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 326
+        "value": 2013
       }
     ],
     "achievements": [
@@ -2435,6 +2435,10 @@
       },
       {
         "name": "ACH_PLZ_ARCADE_SALMONSAYSTAKEME",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_SKEEBALLBULLSEYE",
         "achieved": 1
       },
       {
