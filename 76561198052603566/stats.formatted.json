@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608281797
+        "value": 1608292776
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -165,15 +165,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 657977
+        "value": 660627
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 215803
+        "value": 216565
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 20738
+        "value": 20880
       },
       {
         "name": "Stats.Plaza.Store.Talks",
@@ -201,11 +201,11 @@
       },
       {
         "name": "Stats.Plaza.Trivia.QuestionsCorrect",
-        "value": 27
+        "value": 28
       },
       {
         "name": "Stats.Plaza.Trivia.FullGame",
-        "value": 7
+        "value": 8
       },
       {
         "name": "Stats.Plaza.Trivia.ComboFire",
@@ -561,7 +561,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1948000
+        "value": 1955500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -569,11 +569,11 @@
       },
       {
         "name": "Stats.EXP.trivia",
-        "value": 22300
+        "value": 24400
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1499352
+        "value": 1500777
       },
       {
         "name": "Stats.EXP.casino",
@@ -593,7 +593,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 743161
+        "value": 743686
       },
       {
         "name": "Stats.EXP.fishing",
@@ -829,7 +829,7 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Anime",
-        "value": 2
+        "value": 3
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Cartoon",
@@ -865,11 +865,11 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Playtime",
-        "value": 1292
+        "value": 1448
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 279537
+        "value": 280983
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -889,7 +889,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 16550
+        "value": 16573
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -937,7 +937,7 @@
       },
       {
         "name": "Stats.Plaza.Trivia.TotalScore",
-        "value": 15100
+        "value": 15700
       },
       {
         "name": "Stats.Plaza.Bowling.TotalScore",
