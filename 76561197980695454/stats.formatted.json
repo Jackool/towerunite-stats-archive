@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608352907
+        "value": 1608431305
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -33,7 +33,7 @@
       },
       {
         "name": "Stats.Stores.Food.NumVisits",
-        "value": 7
+        "value": 8
       },
       {
         "name": "Stats.Stores.Toy.NumVisits",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 548033
+        "value": 551117
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 302262
+        "value": 306560
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 58500
+        "value": 59088
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -189,7 +189,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 416
+        "value": 417
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1586500
+        "value": 1596500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 425632
+        "value": 444442
       },
       {
         "name": "Stats.EXP.fishing",
@@ -969,11 +969,11 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 14994
+        "value": 15016
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 49743
+        "value": 50575
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.SnowballKills",
-        "value": 38
+        "value": 57
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
@@ -1057,7 +1057,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Snowball.TotalScore",
-        "value": 9900
+        "value": 12790
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",

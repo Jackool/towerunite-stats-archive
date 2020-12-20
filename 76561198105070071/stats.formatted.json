@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 37110
+        "value": 37182
       },
       {
         "name": "stat_lastcommand",
@@ -13,7 +13,7 @@
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 2.628099203109741
+        "value": 2.8146798610687256
       },
       {
         "name": "Stats.Golf.NumOOB",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4000132
+        "value": 4000230
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2256759
+        "value": 2256801
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 400149
+        "value": 400162
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 556880
+        "value": 561519
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1814515
+        "value": 1828763
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -485,11 +485,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 1333668082
+        "value": 1333871323
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 24236
+        "value": 24238
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 6086500
+        "value": 6096500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -973,7 +973,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1459003
+        "value": 1459097
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 497040
+        "value": 497046
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3266035
+        "value": 3280283
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
