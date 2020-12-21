@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 37372
+        "value": 37467
       },
       {
         "name": "stat_lastcommand",
@@ -41,7 +41,7 @@
       },
       {
         "name": "Stats.Stores.Electronics.NumVisits",
-        "value": 38
+        "value": 40
       },
       {
         "name": "Stats.Stores.Thrift.NumVisits",
@@ -85,7 +85,7 @@
       },
       {
         "name": "Stats.Stores.Theater.NumVisits",
-        "value": 17
+        "value": 18
       },
       {
         "name": "Stats.Stores.CondoRealtor.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4005733
+        "value": 4006084
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2261306
+        "value": 2261498
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 401162
+        "value": 401246
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 933
+        "value": 936
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 11878370
+        "value": 12030215
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -281,11 +281,11 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 572746
+        "value": 573974
       },
       {
         "name": "Stats.Condo.PartyTime",
-        "value": 193952
+        "value": 194171
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1858777
+        "value": 1870254
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3323549
+        "value": 3335026
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
