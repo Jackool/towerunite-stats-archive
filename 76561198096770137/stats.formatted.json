@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 160672
+        "value": 163777
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 548
+        "value": 550
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 755
+        "value": 757
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -897,7 +897,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1060667
+        "value": 1063778
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
