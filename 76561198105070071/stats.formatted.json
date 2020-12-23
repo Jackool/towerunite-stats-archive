@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608656499
+        "value": 1608758748
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 10025
+        "value": 10026
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4009723
+        "value": 4011556
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2264188
+        "value": 2265921
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 401811
+        "value": 401865
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 936
+        "value": 940
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 12030215
+        "value": 12115215
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9134500
+        "value": 9139500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 6391500
+        "value": 6401500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 309278
+        "value": 309310
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 497194
+        "value": 497222
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1161,7 +1161,7 @@
       },
       {
         "name": "Stats.Stores.DIY.NumVisits",
-        "value": 24
+        "value": 28
       },
       {
         "name": "Stats.Plaza.Fishing.ReefButterflyfish",
