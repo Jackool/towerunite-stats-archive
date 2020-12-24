@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608793134
+        "value": 1608796101
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 584677
+        "value": 585471
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 97133
+        "value": 97279
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 87868
+        "value": 87973
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -325,39 +325,39 @@
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
-        "value": 89
+        "value": 91
       },
       {
         "name": "Stats.GameW.Virus.Survivor.AdrenalineUsed",
-        "value": 48
+        "value": 50
       },
       {
         "name": "Stats.GameW.Virus.Infected.SurvivorsInfected",
-        "value": 250
+        "value": 262
       },
       {
         "name": "Stats.GameW.Virus.Survivor.InfectedExploded",
-        "value": 146
+        "value": 149
       },
       {
         "name": "Stats.GameW.Virus.Survivor.LastSurvivorTimes",
-        "value": 37
+        "value": 38
       },
       {
         "name": "Stats.GameW.Virus.FirstPlaceCount",
-        "value": 55
+        "value": 56
       },
       {
         "name": "Stats.GameW.Virus.FirstInfectedCount",
-        "value": 45
+        "value": 46
       },
       {
         "name": "Stats.GameW.Virus.RoundsPlayed",
-        "value": 323
+        "value": 331
       },
       {
         "name": "Stats.GameW.Virus.HospitalSurvive",
-        "value": 14
+        "value": 16
       },
       {
         "name": "Stats.GameW.Virus.DesertionSurvive",
@@ -373,7 +373,7 @@
       },
       {
         "name": "Stats.GameW.Virus.HospitalInfect",
-        "value": 33
+        "value": 45
       },
       {
         "name": "Stats.GameW.Virus.DesertionInfect",
@@ -389,15 +389,15 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
-        "value": 165
+        "value": 180
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.FancyGhost",
-        "value": 12
+        "value": 13
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.AirKills",
-        "value": 81
+        "value": 91
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.NearTaunts",
@@ -405,23 +405,23 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.TeamWins",
-        "value": 393
+        "value": 432
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
-        "value": 231
+        "value": 250
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 175
+        "value": 209
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 450
+        "value": 493
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
-        "value": 78
+        "value": 97
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.BirbKills",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.MaxRank",
-        "value": 51
+        "value": 54
       },
       {
         "name": "Stats.EXP.br",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1623000
+        "value": 1625500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 540535
+        "value": 557485
       },
       {
         "name": "Stats.EXP.mgolf",
@@ -685,7 +685,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 1009690
+        "value": 1046025
       },
       {
         "name": "Stats.EXP.zm",
@@ -761,7 +761,7 @@
       },
       {
         "name": "Stats.GameW.Virus.InfectedKills",
-        "value": 58
+        "value": 59
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Kills",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 40775
+        "value": 44332
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 34276
+        "value": 34938
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -993,7 +993,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 178582
+        "value": 178606
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -2935,6 +2935,10 @@
       },
       {
         "name": "ACH_PLZ_HALLOWEEN_STINGYJACK",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_LC_COUNTMYSTICGROVE",
         "achieved": 1
       },
       {
