@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608532978
+        "value": 1608785844
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1624000
+        "value": 1626500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 80482
+        "value": 80637
       },
       {
         "name": "Stats.EXP.casino",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 472867
+        "value": 478057
       },
       {
         "name": "Stats.EXP.fishing",
