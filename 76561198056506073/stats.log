@@ -9,14 +9,14 @@ URI encoding = 'ISO-8859-1'
 iconv UTF-8 -> ISO-8859-1
 iconv outlen=294 inlen=147
 converted 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198056506073' (ISO-8859-1) -> 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198056506073' (UTF-8)
---2020-12-24 10:00:40--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198056506073
-Resolving api.steampowered.com (api.steampowered.com)... 104.64.155.245
-Caching api.steampowered.com => 104.64.155.245
-Connecting to api.steampowered.com (api.steampowered.com)|104.64.155.245|:443... connected.
+--2020-12-24 12:00:01--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198056506073
+Resolving api.steampowered.com (api.steampowered.com)... 23.53.57.107
+Caching api.steampowered.com => 23.53.57.107
+Connecting to api.steampowered.com (api.steampowered.com)|23.53.57.107|:443... connected.
 Created socket 4.
-Releasing 0x00005561d993e760 (new refcount 1).
+Releasing 0x00005628d8bc7760 (new refcount 1).
 Initiating SSL handshake.
-Handshake successful; connected socket 4 to SSL handle 0x00005561d993e950
+Handshake successful; connected socket 4 to SSL handle 0x00005628d8bc7950
 certificate:
   subject: CN=store.steampowered.com,O=Valve Corp,L=Bellevue,ST=Washington,C=US,serialNumber=602 290 773,jurisdictionST=Washington,jurisdictionC=US,businessCategory=Private Organization
   issuer:  CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US
@@ -33,23 +33,29 @@ Connection: Keep-Alive
 ---request end---
 HTTP request sent, awaiting response... 
 ---response begin---
-HTTP/1.1 400 Bad Request
+HTTP/1.1 200 OK
 Content-Type: application/json; charset=UTF-8
-Content-Length: 2
-Expires: Thu, 24 Dec 2020 15:01:20 GMT
-Date: Thu, 24 Dec 2020 15:01:20 GMT
+Vary: Accept-Encoding
+Expires: Thu, 24 Dec 2020 17:05:02 GMT
+Date: Thu, 24 Dec 2020 17:00:02 GMT
+Content-Length: 40380
 Connection: keep-alive
 
 ---response end---
 
-  HTTP/1.1 400 Bad Request
+  HTTP/1.1 200 OK
   Content-Type: application/json; charset=UTF-8
-  Content-Length: 2
-  Expires: Thu, 24 Dec 2020 15:01:20 GMT
-  Date: Thu, 24 Dec 2020 15:01:20 GMT
+  Vary: Accept-Encoding
+  Expires: Thu, 24 Dec 2020 17:05:02 GMT
+  Date: Thu, 24 Dec 2020 17:00:02 GMT
+  Content-Length: 40380
   Connection: keep-alive
 Registered socket 4 for persistent reuse.
 URI content encoding = 'UTF-8'
-Skipping 2 bytes of body: [{}] done.
-2020-12-24 10:01:20 ERROR 400: Bad Request.
+Length: 40380 (39K) [application/json]
+Saving to: '/dev/stdout'
+
+     0K .......... .......... .......... .........            100%  207K=0.2s
+
+2020-12-24 12:00:02 (207 KB/s) - '/dev/stdout' saved [40380/40380]
 
