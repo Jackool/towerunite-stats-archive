@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608813736
+        "value": 1608818323
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -25,7 +25,7 @@
       },
       {
         "name": "Stats.Stores.Food.NumVisits",
-        "value": 9
+        "value": 10
       },
       {
         "name": "Stats.Stores.Toy.NumVisits",
@@ -53,7 +53,7 @@
       },
       {
         "name": "Stats.Stores.Seasonal.NumVisits",
-        "value": 9
+        "value": 10
       },
       {
         "name": "Stats.Stores.Bowling.NumVisits",
@@ -165,19 +165,19 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 679783
+        "value": 686391
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 220318
+        "value": 222965
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 21596
+        "value": 21819
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 209
+        "value": 211
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 752652
+        "value": 763652
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -561,7 +561,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 2028000
+        "value": 2033000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1513457
+        "value": 1513627
       },
       {
         "name": "Stats.EXP.casino",
@@ -869,7 +869,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 295108
+        "value": 300066
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -889,7 +889,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 16573
+        "value": 16755
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1629,7 +1629,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 1420
+        "value": 1468
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
@@ -1657,7 +1657,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
-        "value": 108
+        "value": 111
       },
       {
         "name": "Stats.Plaza.Arcade.Avalanche.BlueCatsacks",
@@ -1765,7 +1765,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 2041
+        "value": 2256
       }
     ],
     "achievements": [
