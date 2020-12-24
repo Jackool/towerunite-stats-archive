@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 38006
+        "value": 38131
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608758748
+        "value": 1608770188
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4011556
+        "value": 4011796
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2265921
+        "value": 2266301
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 401865
+        "value": 401874
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 595297
+        "value": 595542
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1928585
+        "value": 1936129
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24471
+        "value": 24479
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9139500
+        "value": 9147000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1805702
+        "value": 1805751
       },
       {
         "name": "Stats.EXP.casino",
@@ -653,7 +653,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 1937789
+        "value": 1941794
       },
       {
         "name": "Stats.EXP.fishing",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 6401500
+        "value": 6411500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3397157
+        "value": 3404701
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
