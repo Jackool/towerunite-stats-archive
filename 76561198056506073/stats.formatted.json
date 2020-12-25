@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 13670
+        "value": 13706
       },
       {
         "name": "stat_lastcommand",
@@ -25,11 +25,11 @@
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
-        "value": 32
+        "value": 33
       },
       {
         "name": "Stats.Stores.Food.NumVisits",
-        "value": 6
+        "value": 7
       },
       {
         "name": "Stats.Stores.Toy.NumVisits",
@@ -57,15 +57,15 @@
       },
       {
         "name": "Stats.Stores.Seasonal.NumVisits",
-        "value": 20
+        "value": 21
       },
       {
         "name": "Stats.Stores.Bowling.NumVisits",
-        "value": 5
+        "value": 6
       },
       {
         "name": "Stats.Stores.BowlingCustom.NumVisits",
-        "value": 5
+        "value": 6
       },
       {
         "name": "Stats.Stores.Vending.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 587781
+        "value": 596437
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 97394
+        "value": 97868
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 88626
+        "value": 90610
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 379
+        "value": 385
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -193,11 +193,11 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 2569672
+        "value": 2669457
       },
       {
         "name": "Stats.Plaza.Markers",
-        "value": 65
+        "value": 66
       },
       {
         "name": "Stats.Plaza.PhotoShoots",
@@ -289,7 +289,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 370956
+        "value": 370998
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -313,15 +313,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 893922
+        "value": 895860
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 675
+        "value": 678
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 3415
+        "value": 3416
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1660500
+        "value": 1663000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -673,7 +673,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4184500
+        "value": 4192000
       },
       {
         "name": "Stats.EXP.virus",
@@ -993,7 +993,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 178606
+        "value": 180409
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2135773
+        "value": 2139093
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1137,7 +1137,7 @@
       },
       {
         "name": "Stats.Stores.DIY.NumVisits",
-        "value": 10
+        "value": 11
       },
       {
         "name": "Stats.Plaza.Fishing.ReefButterflyfish",
@@ -1509,7 +1509,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 62127
+        "value": 65587
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
