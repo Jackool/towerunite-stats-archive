@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608882669
+        "value": 1608915598
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4018698
+        "value": 4019101
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2272766
+        "value": 2272865
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 402509
+        "value": 402516
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -229,7 +229,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 41369
+        "value": 41403
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
@@ -237,15 +237,15 @@
       },
       {
         "name": "Stats.Plaza.Casino.WOMSpins",
-        "value": 907
+        "value": 911
       },
       {
         "name": "Stats.Plaza.Casino.WOMNothings",
-        "value": 169
+        "value": 170
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 6378010
+        "value": 6383110
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
-        "value": 757
+        "value": 822
       },
       {
         "name": "Stats.GameW.Virus.Survivor.AdrenalineUsed",
@@ -325,7 +325,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Infected.SurvivorsInfected",
-        "value": 1868
+        "value": 1869
       },
       {
         "name": "Stats.GameW.Virus.Survivor.InfectedExploded",
@@ -333,35 +333,35 @@
       },
       {
         "name": "Stats.GameW.Virus.Survivor.LastSurvivorTimes",
-        "value": 270
+        "value": 272
       },
       {
         "name": "Stats.GameW.Virus.FirstPlaceCount",
-        "value": 975
+        "value": 976
       },
       {
         "name": "Stats.GameW.Virus.FirstInfectedCount",
-        "value": 368
+        "value": 397
       },
       {
         "name": "Stats.GameW.Virus.RoundsPlayed",
-        "value": 2510
+        "value": 2638
       },
       {
         "name": "Stats.GameW.Virus.HospitalSurvive",
-        "value": 170
+        "value": 174
       },
       {
         "name": "Stats.GameW.Virus.DesertionSurvive",
-        "value": 147
+        "value": 163
       },
       {
         "name": "Stats.GameW.Virus.OvertimeSurvive",
-        "value": 98
+        "value": 112
       },
       {
         "name": "Stats.GameW.Virus.SubwaySurvive",
-        "value": 157
+        "value": 171
       },
       {
         "name": "Stats.GameW.Virus.HospitalInfect",
@@ -377,7 +377,7 @@
       },
       {
         "name": "Stats.GameW.Virus.SubwayInfect",
-        "value": 278
+        "value": 279
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.GameW.Virus.SolarSurvive",
-        "value": 61
+        "value": 78
       },
       {
         "name": "Stats.GameW.Virus.SolarInfect",
@@ -673,7 +673,7 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 4632073
+        "value": 4798198
       },
       {
         "name": "Stats.EXP.mgolf",
@@ -757,7 +757,7 @@
       },
       {
         "name": "Stats.GameW.Virus.InfectedKills",
-        "value": 335
+        "value": 336
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Kills",
@@ -981,7 +981,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 269821
+        "value": 271127
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 733193
+        "value": 733569
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1141,7 +1141,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 9986695
+        "value": 10002220
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.TripleDiamonds",

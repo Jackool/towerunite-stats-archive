@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608908314
+        "value": 1608908516
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -165,15 +165,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 688712
+        "value": 694926
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 224145
+        "value": 226391
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 22000
+        "value": 22312
       },
       {
         "name": "Stats.Plaza.Store.Talks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 763652
+        "value": 803652
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 335
+        "value": 337
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1517756
+        "value": 1517905
       },
       {
         "name": "Stats.EXP.casino",
@@ -869,7 +869,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 302094
+        "value": 305681
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -885,15 +885,15 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 27028
+        "value": 27062
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 16755
+        "value": 16851
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1463711
+        "value": 1463766
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1617,7 +1617,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
-        "value": 2737
+        "value": 2753
       },
       {
         "name": "Stats.Plaza.Arcade.SuperHoopers.Hoops",
@@ -1633,7 +1633,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
-        "value": 556
+        "value": 597
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.Basket",
@@ -1641,11 +1641,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.BugBytes.BugsDestroyed",
-        "value": 5805
+        "value": 5874
       },
       {
         "name": "Stats.Plaza.Arcade.PluckAPal.Grabs",
-        "value": 37
+        "value": 38
       },
       {
         "name": "Stats.Plaza.Arcade.NewtonsApples.ApplesDropped",
@@ -1657,7 +1657,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
-        "value": 111
+        "value": 112
       },
       {
         "name": "Stats.Plaza.Arcade.Avalanche.BlueCatsacks",
