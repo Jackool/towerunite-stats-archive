@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608864549
+        "value": 1608872393
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 674
+        "value": 675
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -389,11 +389,11 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
-        "value": 186
+        "value": 191
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.FancyGhost",
-        "value": 13
+        "value": 14
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.AirKills",
@@ -409,19 +409,19 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
-        "value": 263
+        "value": 280
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 241
+        "value": 242
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 525
+        "value": 530
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
-        "value": 97
+        "value": 107
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.BirbKills",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.MaxRank",
-        "value": 54
+        "value": 56
       },
       {
         "name": "Stats.EXP.br",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 557485
+        "value": 642485
       },
       {
         "name": "Stats.EXP.mgolf",
@@ -685,7 +685,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 1098975
+        "value": 1120140
       },
       {
         "name": "Stats.EXP.zm",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 46451
+        "value": 48149
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2135604
+        "value": 2135773
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2098,7 +2098,15 @@
         "achieved": 1
       },
       {
+        "name": "ACH_GW_VIRUS_HOSPITALINFECT",
+        "achieved": 1
+      },
+      {
         "name": "ACH_GW_VIRUS_DESERTIONINFECT",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_VIRUS_OVERTIMEINFECT",
         "achieved": 1
       },
       {
@@ -2323,6 +2331,14 @@
       },
       {
         "name": "ACH_GW_MGOLF_FORESTHIO2",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_VIRUS_SOLARSURVIVE",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_VIRUS_SOLARINFECT",
         "achieved": 1
       },
       {
