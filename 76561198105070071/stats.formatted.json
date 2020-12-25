@@ -9,15 +9,15 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608850550
+        "value": 1608854599
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 11.728121757507324
+        "value": 6.347471237182617
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 6288
+        "value": 6357
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
@@ -481,15 +481,15 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 5889
+        "value": 5892
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 1335121540
+        "value": 1343900115
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 24258
+        "value": 24389
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
@@ -497,11 +497,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
-        "value": 1298
+        "value": 1299
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 4009
+        "value": 4013
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -521,11 +521,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.EmissionComplete",
-        "value": 16
+        "value": 17
       },
       {
         "name": "Stats.GameW.Minigolf.TreasureCoveComplete",
-        "value": 113
+        "value": 114
       },
       {
         "name": "Stats.GameW.Minigolf.SweetToothComplete",
@@ -537,7 +537,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.KingdomComplete",
-        "value": 81
+        "value": 82
       },
       {
         "name": "Stats.GameW.Minigolf.GardenCoursePar",
@@ -553,11 +553,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.EmissionCoursePar",
-        "value": 35
+        "value": 124
       },
       {
         "name": "Stats.GameW.Minigolf.TreasureCoveCoursePar",
-        "value": 56
+        "value": 124
       },
       {
         "name": "Stats.GameW.Minigolf.SweetToothCoursePar",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.KingdomCoursePar",
-        "value": 32
+        "value": 165
       },
       {
         "name": "Stats.GameW.Virus.SolarSurvive",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 23016090
+        "value": 23029044
       },
       {
         "name": "Stats.EXP.lc",
@@ -973,7 +973,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1462239
+        "value": 1469900
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -2001,11 +2001,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.IslandComplete",
-        "value": 64
+        "value": 65
       },
       {
         "name": "Stats.GameW.Minigolf.IslandCoursePar",
-        "value": 128
+        "value": 132
       },
       {
         "name": "Stats.GameW.Accelerate.PineValleyComplete",
