@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608796101
+        "value": 1608864549
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 1961
+        "value": 1999
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 6587
+        "value": 6711
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 585471
+        "value": 587781
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 97279
+        "value": 97394
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 87973
+        "value": 88626
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -389,7 +389,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
-        "value": 180
+        "value": 186
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.FancyGhost",
@@ -397,7 +397,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.AirKills",
-        "value": 91
+        "value": 94
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.NearTaunts",
@@ -405,19 +405,19 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.TeamWins",
-        "value": 432
+        "value": 464
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
-        "value": 250
+        "value": 263
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 209
+        "value": 241
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 493
+        "value": 525
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
@@ -625,11 +625,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 1730135
+        "value": 1798223
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1625500
+        "value": 1633000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 656239
+        "value": 662412
       },
       {
         "name": "Stats.EXP.casino",
@@ -685,7 +685,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 1046025
+        "value": 1098975
       },
       {
         "name": "Stats.EXP.zm",
@@ -709,11 +709,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.OasisCompleted",
-        "value": 16
+        "value": 17
       },
       {
         "name": "Stats.GameW.BallRace.OasisMelons",
-        "value": 749
+        "value": 831
       },
       {
         "name": "Stats.GameW.BallRace.OasisCompletedNoDeath",
@@ -961,11 +961,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 94181
+        "value": 96590
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 44332
+        "value": 46451
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -1301,11 +1301,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompleted",
-        "value": 14
+        "value": 15
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonMelons",
-        "value": 350
+        "value": 357
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompletedNoDeath",
@@ -1405,11 +1405,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompleted",
-        "value": 13
+        "value": 14
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsMelons",
-        "value": 1271
+        "value": 1306
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompletedNoDeath",
@@ -1509,7 +1509,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 61169
+        "value": 62127
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
