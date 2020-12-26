@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608994276
+        "value": 1609000007
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -165,15 +165,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 703149
+        "value": 711300
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 226799
+        "value": 229634
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 22418
+        "value": 22900
       },
       {
         "name": "Stats.Plaza.Store.Talks",
@@ -561,7 +561,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 2093000
+        "value": 2113000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1522716
+        "value": 1523575
       },
       {
         "name": "Stats.EXP.casino",
@@ -605,7 +605,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 3321500
+        "value": 3324000
       },
       {
         "name": "Stats.EXP.virus",
@@ -869,7 +869,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 313696
+        "value": 321249
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1613,11 +1613,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 141
+        "value": 148
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
-        "value": 2753
+        "value": 2772
       },
       {
         "name": "Stats.Plaza.Arcade.SuperHoopers.Hoops",
@@ -1641,7 +1641,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.BugBytes.BugsDestroyed",
-        "value": 5874
+        "value": 5936
       },
       {
         "name": "Stats.Plaza.Arcade.PluckAPal.Grabs",
@@ -1657,7 +1657,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
-        "value": 112
+        "value": 115
       },
       {
         "name": "Stats.Plaza.Arcade.Avalanche.BlueCatsacks",
