@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 38328
+        "value": 38345
       },
       {
         "name": "stat_lastcommand",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1966112
+        "value": 1971108
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,11 +313,11 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24516
+        "value": 24518
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
-        "value": 945
+        "value": 946
       },
       {
         "name": "Stats.GameW.Virus.Survivor.AdrenalineUsed",
@@ -341,11 +341,11 @@
       },
       {
         "name": "Stats.GameW.Virus.FirstInfectedCount",
-        "value": 432
+        "value": 433
       },
       {
         "name": "Stats.GameW.Virus.RoundsPlayed",
-        "value": 2796
+        "value": 2802
       },
       {
         "name": "Stats.GameW.Virus.HospitalSurvive",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.GameW.Virus.SolarSurvive",
-        "value": 128
+        "value": 129
       },
       {
         "name": "Stats.GameW.Virus.SolarInfect",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 6521500
+        "value": 6529000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -981,7 +981,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 272409
+        "value": 272431
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3447413
+        "value": 3452409
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
