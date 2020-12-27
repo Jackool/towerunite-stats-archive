@@ -9,15 +9,15 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1609023547
+        "value": 1609026503
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 3.610163450241089
+        "value": 2.5795021057128906
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 6357
+        "value": 6363
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4025175
+        "value": 4028948
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2277540
+        "value": 2280368
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 403560
+        "value": 404013
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 857
+        "value": 858
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -481,27 +481,27 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 5893
+        "value": 5900
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 1344721700
+        "value": 1347502041
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 24400
+        "value": 24431
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
-        "value": 3811
+        "value": 3819
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
-        "value": 1301
+        "value": 1306
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 4014
+        "value": 4028
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -521,7 +521,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.EmissionComplete",
-        "value": 17
+        "value": 18
       },
       {
         "name": "Stats.GameW.Minigolf.TreasureCoveComplete",
@@ -553,7 +553,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.EmissionCoursePar",
-        "value": 124
+        "value": 57
       },
       {
         "name": "Stats.GameW.Minigolf.TreasureCoveCoursePar",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9174500
+        "value": 9187000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -653,7 +653,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 1941794
+        "value": 1943954
       },
       {
         "name": "Stats.EXP.fishing",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 23060259
+        "value": 23086173
       },
       {
         "name": "Stats.EXP.lc",
@@ -973,7 +973,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1471060
+        "value": 1474106
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -997,11 +997,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 310277
+        "value": 310281
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 734056
+        "value": 734069
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1013,15 +1013,15 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 497452
+        "value": 497520
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 51989
+        "value": 52076
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3462443
+        "value": 3462647
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2001,11 +2001,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.IslandComplete",
-        "value": 65
+        "value": 66
       },
       {
         "name": "Stats.GameW.Minigolf.IslandCoursePar",
-        "value": 132
+        "value": 40
       },
       {
         "name": "Stats.GameW.Accelerate.PineValleyComplete",
