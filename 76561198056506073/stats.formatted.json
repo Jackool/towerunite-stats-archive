@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1609080644
+        "value": 1609083586
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 599262
+        "value": 603065
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 98123
+        "value": 98816
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 90996
+        "value": 91107
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1670500
+        "value": 1680500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 692323
+        "value": 694532
       },
       {
         "name": "Stats.EXP.casino",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 321054
+        "value": 323004
       },
       {
         "name": "Stats.EXP.fishing",
@@ -993,7 +993,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 180619
+        "value": 183887
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 9804
+        "value": 9920
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1497,7 +1497,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
-        "value": 1045
+        "value": 1057
       },
       {
         "name": "Stats.Plaza.Arcade.SuperHoopers.Hoops",
@@ -1517,7 +1517,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.Basket",
-        "value": 5166
+        "value": 5170
       },
       {
         "name": "Stats.Plaza.Arcade.Offering.CenterCup",
@@ -1537,7 +1537,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 4917
+        "value": 5367
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -1549,7 +1549,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.IceCave.TilesLit",
-        "value": 766
+        "value": 959
       },
       {
         "name": "Stats.Plaza.Arcade.LonelyGun.TargetsHit",
@@ -2747,6 +2747,10 @@
       },
       {
         "name": "ACH_PLZ_ARCADE_SALMONSAYSTAKEME",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_SKEEBALLBULLSEYE",
         "achieved": 1
       },
       {
