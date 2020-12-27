@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1609035297
+        "value": 1609057617
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -25,7 +25,7 @@
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
-        "value": 245
+        "value": 247
       },
       {
         "name": "Stats.Stores.Food.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4029373
+        "value": 4036253
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2281039
+        "value": 2284520
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 404029
+        "value": 404724
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 947
+        "value": 949
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9192000
+        "value": 9209500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.nightclub",
-        "value": 1273180
+        "value": 1293180
       },
       {
         "name": "Stats.EXP.condo",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 497520
+        "value": 497584
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -2093,7 +2093,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 6206
+        "value": 9144
       }
     ],
     "achievements": [
