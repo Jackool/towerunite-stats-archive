@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1609153121
+        "value": 1609159544
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -25,7 +25,7 @@
       },
       {
         "name": "Stats.Stores.Food.NumVisits",
-        "value": 10
+        "value": 11
       },
       {
         "name": "Stats.Stores.Toy.NumVisits",
@@ -53,7 +53,7 @@
       },
       {
         "name": "Stats.Stores.Seasonal.NumVisits",
-        "value": 10
+        "value": 11
       },
       {
         "name": "Stats.Stores.Bowling.NumVisits",
@@ -165,19 +165,19 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 723772
+        "value": 730910
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 231231
+        "value": 234741
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 23170
+        "value": 23523
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 211
+        "value": 213
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 803652
+        "value": 828652
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -561,7 +561,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 2150500
+        "value": 2170500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1528751
+        "value": 1531232
       },
       {
         "name": "Stats.EXP.casino",
@@ -869,7 +869,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 333313
+        "value": 338874
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -889,7 +889,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 16851
+        "value": 16857
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1541,7 +1541,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Dizzy.Jackpots",
-        "value": 34
+        "value": 35
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRig.BestScore",
@@ -1613,11 +1613,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 148
+        "value": 156
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
-        "value": 2772
+        "value": 2785
       },
       {
         "name": "Stats.Plaza.Arcade.SuperHoopers.Hoops",
@@ -1641,7 +1641,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.BugBytes.BugsDestroyed",
-        "value": 5936
+        "value": 5976
       },
       {
         "name": "Stats.Plaza.Arcade.PluckAPal.Grabs",
