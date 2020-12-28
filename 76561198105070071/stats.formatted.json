@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 38600
+        "value": 38601
       },
       {
         "name": "stat_lastcommand",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 10031
+        "value": 10032
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4044057
+        "value": 4044991
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2293250
+        "value": 2293631
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 405640
+        "value": 405710
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -229,7 +229,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 41403
+        "value": 41446
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
@@ -237,7 +237,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.WOMSpins",
-        "value": 911
+        "value": 915
       },
       {
         "name": "Stats.Plaza.Casino.WOMNothings",
@@ -245,7 +245,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 6383110
+        "value": 6389560
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -305,11 +305,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1989029
+        "value": 1989469
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 873
+        "value": 874
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 734197
+        "value": 734568
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 497718
+        "value": 498418
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3503952
+        "value": 3504814
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1141,7 +1141,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 10002220
+        "value": 10005520
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.TripleDiamonds",
