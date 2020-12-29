@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1609217756
+        "value": 1609218988
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 572563
+        "value": 576258
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 330096
+        "value": 333570
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 63101
+        "value": 63649
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 237
+        "value": 238
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1669000
+        "value": 1674000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 514992
+        "value": 516042
       },
       {
         "name": "Stats.EXP.fishing",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 3612500
+        "value": 3620000
       },
       {
         "name": "Stats.EXP.virus",
@@ -953,7 +953,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 49190
+        "value": 49205
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -973,11 +973,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 55541
+        "value": 56026
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1537548
+        "value": 1540667
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.SnowballKills",
-        "value": 115
+        "value": 120
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
@@ -1057,7 +1057,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Snowball.TotalScore",
-        "value": 23530
+        "value": 24230
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
