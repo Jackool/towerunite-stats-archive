@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1609159544
+        "value": 1609227037
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -165,15 +165,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 730910
+        "value": 732655
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 234741
+        "value": 235413
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 23523
+        "value": 23580
       },
       {
         "name": "Stats.Plaza.Store.Talks",
@@ -213,7 +213,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 5052
+        "value": 5125
       },
       {
         "name": "Stats.Plaza.Casino.Poker.TotalUnitsPlayed",
@@ -233,7 +233,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.WOMSpins",
-        "value": 314
+        "value": 320
       },
       {
         "name": "Stats.Plaza.Casino.WOMNothings",
@@ -241,7 +241,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 753110
+        "value": 764060
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -561,7 +561,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 2170500
+        "value": 2175500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -573,7 +573,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1531232
+        "value": 1531337
       },
       {
         "name": "Stats.EXP.casino",
@@ -869,11 +869,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 338874
+        "value": 339702
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 49542
+        "value": 50300
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 525435
+        "value": 532785
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.GrandQuest",
@@ -1765,7 +1765,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 2256
+        "value": 2282
       }
     ],
     "achievements": [
