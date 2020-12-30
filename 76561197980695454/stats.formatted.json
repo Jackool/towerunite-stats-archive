@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1609218988
+        "value": 1609310183
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 576258
+        "value": 581329
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 333570
+        "value": 339618
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 63649
+        "value": 64882
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -233,7 +233,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 65
+        "value": 72
       },
       {
         "name": "Stats.Plaza.Casino.Poker.TotalUnitsPlayed",
@@ -245,7 +245,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 10580
+        "value": 11630
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1674000
+        "value": 1691500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 516042
+        "value": 546717
       },
       {
         "name": "Stats.EXP.fishing",
@@ -957,7 +957,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 14059
+        "value": 14135
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -969,11 +969,11 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 15108
+        "value": 15112
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 56026
+        "value": 57291
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.SnowballKills",
-        "value": 120
+        "value": 127
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
@@ -1057,7 +1057,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Snowball.TotalScore",
-        "value": 24230
+        "value": 27100
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
@@ -1093,7 +1093,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 12400
+        "value": 12850
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TotalScore",
@@ -1769,7 +1769,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 870
+        "value": 1088
       }
     ],
     "achievements": [
