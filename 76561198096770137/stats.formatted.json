@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 1209389
+        "value": 1210575
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 212486
+        "value": 212521
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 46766
+        "value": 46770
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 581
+        "value": 582
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 3623001
+        "value": 3625501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -597,7 +597,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 2381001
+        "value": 2391001
       },
       {
         "name": "Stats.EXP.cooking",
@@ -893,11 +893,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 32259
+        "value": 32262
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1117366
+        "value": 1120437
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
