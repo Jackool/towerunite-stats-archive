@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1609375811
+        "value": 1609390700
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4060164
+        "value": 4061242
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2306327
+        "value": 2307144
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 408327
+        "value": 408629
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 12404965
+        "value": 12454965
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -305,11 +305,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2006844
+        "value": 2007178
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 893
+        "value": 896
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1807746
+        "value": 1808160
       },
       {
         "name": "Stats.EXP.casino",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 6764000
+        "value": 6769000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 23270158
+        "value": 23281784
       },
       {
         "name": "Stats.EXP.lc",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 316987
+        "value": 317349
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 498978
+        "value": 499024
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3555627
+        "value": 3558040
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1865,7 +1865,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Dizzy.Jackpots",
-        "value": 30
+        "value": 31
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRig.BestScore",
@@ -1961,7 +1961,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.Basket",
-        "value": 52661
+        "value": 52679
       },
       {
         "name": "Stats.Plaza.Arcade.Offering.CenterCup",
