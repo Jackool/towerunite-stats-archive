@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1609396107
+        "value": 1609480105
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 585201
+        "value": 588674
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 342497
+        "value": 345372
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 65183
+        "value": 65635
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1704000
+        "value": 1714000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 549942
+        "value": 551082
       },
       {
         "name": "Stats.EXP.fishing",
@@ -969,11 +969,11 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 15112
+        "value": 15144
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 58377
+        "value": 58470
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.SnowballKills",
-        "value": 127
+        "value": 135
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
@@ -1057,7 +1057,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Snowball.TotalScore",
-        "value": 27100
+        "value": 27860
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
