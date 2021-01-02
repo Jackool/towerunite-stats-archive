@@ -9,15 +9,15 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1609541954
+        "value": 1609549191
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 5.925955295562744
+        "value": 6.190722942352295
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 6409
+        "value": 6411
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 49250
+        "value": 49262
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 287053
+        "value": 287061
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -125,7 +125,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitCompleted",
-        "value": 272
+        "value": 273
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroCompleted",
@@ -157,7 +157,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
-        "value": 5440
+        "value": 5448
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4067116
+        "value": 4072264
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2313351
+        "value": 2316399
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 410106
+        "value": 410195
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -381,7 +381,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
-        "value": 1697
+        "value": 1698
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.FancyGhost",
@@ -397,7 +397,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.TeamWins",
-        "value": 3092
+        "value": 3097
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
@@ -405,15 +405,15 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 2670
+        "value": 2677
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 3982
+        "value": 3987
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
-        "value": 347
+        "value": 348
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.BirbKills",
@@ -481,27 +481,27 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 6000
+        "value": 6006
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 1371113419
+        "value": 1371804832
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 24797
+        "value": 24806
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
-        "value": 3877
+        "value": 3880
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
-        "value": 1339
+        "value": 1340
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 4080
+        "value": 4083
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -617,11 +617,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 31891156
+        "value": 31909936
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9282000
+        "value": 9297000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1808160
+        "value": 1808343
       },
       {
         "name": "Stats.EXP.casino",
@@ -677,11 +677,11 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 23480891
+        "value": 23498216
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 6891639
+        "value": 6900564
       },
       {
         "name": "Stats.EXP.zm",
@@ -965,15 +965,15 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2008868
+        "value": 2009215
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 312646
+        "value": 312911
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1503631
+        "value": 1504997
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -997,11 +997,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 317349
+        "value": 317526
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 734998
+        "value": 735027
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 499266
+        "value": 499274
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1981,7 +1981,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 48718
+        "value": 49157
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -2093,7 +2093,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 10236
+        "value": 10241
       }
     ],
     "achievements": [
