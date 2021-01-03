@@ -165,11 +165,11 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 732886
+        "value": 732900
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 235571
+        "value": 235599
       },
       {
         "name": "Stats.Plaza.Jumps",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 355
+        "value": 356
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -605,7 +605,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 3346500
+        "value": 3356500
       },
       {
         "name": "Stats.EXP.virus",
@@ -893,7 +893,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1474955
+        "value": 1475806
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
