@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1609786784
+        "value": 1609790011
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -17,11 +17,11 @@
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 5.608262538909912
+        "value": 8.863017082214355
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 100
+        "value": 161
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -461,19 +461,19 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 13
+        "value": 27
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 27804263
+        "value": 31233745
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 502
+        "value": 536
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
-        "value": 12
+        "value": 21
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
@@ -481,15 +481,19 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 65
+        "value": 79
+      },
+      {
+        "name": "Stats.GameW.Minigolf.GardenComplete",
+        "value": 4
       },
       {
         "name": "Stats.GameW.Minigolf.AltitudeComplete",
-        "value": 2
+        "value": 3
       },
       {
         "name": "Stats.GameW.Minigolf.AlpineComplete",
-        "value": 1
+        "value": 4
       },
       {
         "name": "Stats.GameW.Minigolf.EmissionComplete",
@@ -497,7 +501,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.TreasureCoveComplete",
-        "value": 2
+        "value": 3
       },
       {
         "name": "Stats.GameW.Minigolf.SweetToothComplete",
@@ -512,8 +516,12 @@
         "value": 1
       },
       {
+        "name": "Stats.GameW.Minigolf.GardenCoursePar",
+        "value": 153
+      },
+      {
         "name": "Stats.GameW.Minigolf.AltitudeCoursePar",
-        "value": 67
+        "value": 26
       },
       {
         "name": "Stats.GameW.Minigolf.EmissionCoursePar",
@@ -521,7 +529,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.TreasureCoveCoursePar",
-        "value": 69
+        "value": 71
       },
       {
         "name": "Stats.GameW.Minigolf.SweetToothCoursePar",
@@ -597,7 +605,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 2561001
+        "value": 2563501
       },
       {
         "name": "Stats.EXP.cooking",
@@ -613,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 292632
+        "value": 381402
       },
       {
         "name": "Stats.EXP.lc",
@@ -849,7 +857,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 25045
+        "value": 29188
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -2050,6 +2058,10 @@
         "achieved": 1
       },
       {
+        "name": "ACH_GW_MGOLF_WELCOMETOMASTERS",
+        "achieved": 1
+      },
+      {
         "name": "ACH_GW_MGOLF_GREENGREENS",
         "achieved": 1
       },
@@ -2106,11 +2118,27 @@
         "achieved": 1
       },
       {
+        "name": "ACH_GW_MGOLF_TREASURECOVEHIO3",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_TREASURECOVEHIO6",
+        "achieved": 1
+      },
+      {
         "name": "ACH_GW_MGOLF_TREASURECOVEHIO13",
         "achieved": 1
       },
       {
         "name": "ACH_GW_MGOLF_TREASURECOVEHIO14",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_TREASURECOVEHIO15",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_TREASURECOVEHIO18",
         "achieved": 1
       },
       {
@@ -2218,7 +2246,27 @@
         "achieved": 1
       },
       {
+        "name": "ACH_GW_MGOLF_ALPINEHIO3",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_ALPINEHIO7",
+        "achieved": 1
+      },
+      {
         "name": "ACH_GW_MGOLF_ALPINEHIO11",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_ALPINEHIO16",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_ALPINEHIO17",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_ALPINEHIO18",
         "achieved": 1
       },
       {
@@ -2475,6 +2523,10 @@
       },
       {
         "name": "ACH_PLZ_ARCADE_LONELYGUN",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_ISLANDHIO1",
         "achieved": 1
       },
       {
