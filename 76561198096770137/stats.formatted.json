@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1609778639
+        "value": 1609786784
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 1225444
+        "value": 1232569
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 215496
+        "value": 216051
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 46809
+        "value": 46844
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 3678001
+        "value": 3695501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1366335
+        "value": 1377798
       },
       {
         "name": "Stats.EXP.casino",
@@ -589,7 +589,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 342734
+        "value": 342839
       },
       {
         "name": "Stats.EXP.fishing",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 265717
+        "value": 292632
       },
       {
         "name": "Stats.EXP.lc",
@@ -873,7 +873,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 692091
+        "value": 698681
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -893,7 +893,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 44611
+        "value": 44650
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1533,7 +1533,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 306049
+        "value": 310520
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
@@ -2054,6 +2054,10 @@
         "achieved": 1
       },
       {
+        "name": "ACH_GW_MGOLF_GARDENCOMPLETE",
+        "achieved": 1
+      },
+      {
         "name": "ACH_GW_MGOLF_ALTITUDECOMPLETE",
         "achieved": 1
       },
@@ -2095,6 +2099,10 @@
       },
       {
         "name": "ACH_GW_MGOLF_ALTITUDEHIO1",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_ALTITUDEHIO4",
         "achieved": 1
       },
       {
@@ -2219,6 +2227,14 @@
       },
       {
         "name": "ACH_GW_MGOLF_EMISSIONHIO18",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_GARDENHIO11",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_GARDENHIO13",
         "achieved": 1
       },
       {
