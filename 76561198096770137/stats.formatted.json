@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1608156413
+        "value": 1609764371
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -17,11 +17,11 @@
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 8.16792106628418
+        "value": 5.608262538909912
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 95
+        "value": 100
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 1211372
+        "value": 1211964
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 213204
+        "value": 214068
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 46775
+        "value": 46780
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -285,7 +285,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 144341
+        "value": 144568
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 631
+        "value": 636
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -317,35 +317,35 @@
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
-        "value": 60
+        "value": 63
       },
       {
         "name": "Stats.GameW.Virus.Survivor.AdrenalineUsed",
-        "value": 65
+        "value": 69
       },
       {
         "name": "Stats.GameW.Virus.Infected.SurvivorsInfected",
-        "value": 127
+        "value": 135
       },
       {
         "name": "Stats.GameW.Virus.Survivor.InfectedExploded",
-        "value": 113
+        "value": 119
       },
       {
         "name": "Stats.GameW.Virus.Survivor.LastSurvivorTimes",
-        "value": 20
+        "value": 21
       },
       {
         "name": "Stats.GameW.Virus.FirstPlaceCount",
-        "value": 24
+        "value": 28
       },
       {
         "name": "Stats.GameW.Virus.FirstInfectedCount",
-        "value": 34
+        "value": 35
       },
       {
         "name": "Stats.GameW.Virus.RoundsPlayed",
-        "value": 223
+        "value": 233
       },
       {
         "name": "Stats.GameW.Virus.HospitalSurvive",
@@ -353,7 +353,7 @@
       },
       {
         "name": "Stats.GameW.Virus.DesertionSurvive",
-        "value": 11
+        "value": 14
       },
       {
         "name": "Stats.GameW.Virus.OvertimeSurvive",
@@ -369,7 +369,7 @@
       },
       {
         "name": "Stats.GameW.Virus.DesertionInfect",
-        "value": 44
+        "value": 52
       },
       {
         "name": "Stats.GameW.Virus.OvertimeInfect",
@@ -465,11 +465,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 26286154
+        "value": 27804263
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 481
+        "value": 502
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
@@ -481,11 +481,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 58
+        "value": 65
       },
       {
         "name": "Stats.GameW.Minigolf.AltitudeComplete",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.GameW.Minigolf.AlpineComplete",
@@ -513,7 +513,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.AltitudeCoursePar",
-        "value": 66
+        "value": 67
       },
       {
         "name": "Stats.GameW.Minigolf.EmissionCoursePar",
@@ -557,7 +557,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 3628001
+        "value": 3630501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1330724
+        "value": 1332839
       },
       {
         "name": "Stats.EXP.casino",
@@ -589,7 +589,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 339824
+        "value": 342734
       },
       {
         "name": "Stats.EXP.fishing",
@@ -597,7 +597,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 2558501
+        "value": 2561001
       },
       {
         "name": "Stats.EXP.cooking",
@@ -605,7 +605,7 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 331701
+        "value": 353926
       },
       {
         "name": "Stats.EXP.ppanic",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 250866
+        "value": 265717
       },
       {
         "name": "Stats.EXP.lc",
@@ -849,7 +849,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 23399
+        "value": 25045
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -857,7 +857,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 23614
+        "value": 24603
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -877,7 +877,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 275571
+        "value": 275698
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -897,7 +897,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1196149
+        "value": 1198857
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2003,6 +2003,10 @@
       },
       {
         "name": "ACH_GW_VIRUS_DYNAMITECOMBO",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_VIRUS_DESERTIONINFECT",
         "achieved": 1
       },
       {
