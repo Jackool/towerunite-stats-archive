@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 23009
+        "value": 24999
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9307000
+        "value": 9309500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -981,7 +981,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 274370
+        "value": 274381
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
