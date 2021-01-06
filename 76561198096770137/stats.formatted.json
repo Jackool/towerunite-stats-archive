@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1609936934
+        "value": 1609941409
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 1261022
+        "value": 1269206
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 216463
+        "value": 216516
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 46891
+        "value": 46897
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 3803001
+        "value": 3815501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -581,7 +581,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1444135
+        "value": 1453312
       },
       {
         "name": "Stats.EXP.casino",
@@ -889,7 +889,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 726701
+        "value": 734763
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1549,7 +1549,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRigged.Coins",
-        "value": 323890
+        "value": 329140
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
