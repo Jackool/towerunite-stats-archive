@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1610592331
+        "value": 1610593370
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2083422
+        "value": 2083897
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -689,7 +689,7 @@
       },
       {
         "name": "Stats.EXP.accel",
-        "value": 1706841
+        "value": 1707171
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
@@ -961,7 +961,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 62240
+        "value": 62553
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3692069
+        "value": 3692544
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2037,7 +2037,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.MelonBoosts",
-        "value": 1128
+        "value": 1153
       },
       {
         "name": "Stats.GameW.Accelerate.BirbShieldGrabs",
@@ -2073,11 +2073,11 @@
       },
       {
         "name": "Stats.GameW.Accelerate.DriftTime",
-        "value": 300533
+        "value": 300576
       },
       {
         "name": "Stats.GameW.Accelerate.ItemsGiven",
-        "value": 1344
+        "value": 1358
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
