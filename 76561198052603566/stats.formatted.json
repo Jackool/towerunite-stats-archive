@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1609483410
+        "value": 1610620203
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.accel",
-        "value": 185713
+        "value": 187203
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
@@ -837,7 +837,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 12268
+        "value": 12705
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
@@ -1692,6 +1692,10 @@
         "value": 15
       },
       {
+        "name": "Stats.GameW.Accelerate.WishyWashyComplete",
+        "value": 1
+      },
+      {
         "name": "Stats.GameW.Accelerate.DamagedByItems",
         "value": 87
       },
@@ -1705,7 +1709,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.MelonBoosts",
-        "value": 412
+        "value": 470
       },
       {
         "name": "Stats.GameW.Accelerate.BirbShieldGrabs",
@@ -1741,11 +1745,11 @@
       },
       {
         "name": "Stats.GameW.Accelerate.DriftTime",
-        "value": 21436
+        "value": 21904
       },
       {
         "name": "Stats.GameW.Accelerate.ItemsGiven",
-        "value": 718
+        "value": 756
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
@@ -2647,6 +2651,10 @@
       },
       {
         "name": "ACH_PLZ_HALLOWEEN_STINGYJACK",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_ACCEL_WISHYWASHYCOMPLETE",
         "achieved": 1
       }
     ]
