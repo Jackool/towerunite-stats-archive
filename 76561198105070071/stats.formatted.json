@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 39470
+        "value": 39503
       },
       {
         "name": "stat_lastcommand",
-        "value": 1610663784
+        "value": 1610672382
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -33,7 +33,7 @@
       },
       {
         "name": "Stats.Stores.Toy.NumVisits",
-        "value": 58
+        "value": 59
       },
       {
         "name": "Stats.Stores.Furniture.NumVisits",
@@ -45,7 +45,7 @@
       },
       {
         "name": "Stats.Stores.Thrift.NumVisits",
-        "value": 38
+        "value": 39
       },
       {
         "name": "Stats.Stores.Music.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4092723
+        "value": 4093641
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2329878
+        "value": 2330755
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 412400
+        "value": 412638
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 954
+        "value": 956
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 638157
+        "value": 638676
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2087572
+        "value": 2090087
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -381,15 +381,15 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
-        "value": 1821
+        "value": 1838
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.FancyGhost",
-        "value": 110
+        "value": 112
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.AirKills",
-        "value": 1570
+        "value": 1582
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.NearTaunts",
@@ -397,27 +397,27 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.TeamWins",
-        "value": 3307
+        "value": 3337
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
-        "value": 1316
+        "value": 1323
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 2842
+        "value": 2884
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 4222
+        "value": 4254
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
-        "value": 371
+        "value": 374
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.BirbKills",
-        "value": 48
+        "value": 49
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TeslaZapKills",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.MaxRank",
-        "value": 1083
+        "value": 1091
       },
       {
         "name": "Stats.EXP.br",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 7076500
+        "value": 7081500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -677,11 +677,11 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 24220103
+        "value": 24224078
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 7304447
+        "value": 7369135
       },
       {
         "name": "Stats.EXP.zm",
@@ -689,7 +689,7 @@
       },
       {
         "name": "Stats.EXP.accel",
-        "value": 1714431
+        "value": 1717071
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
@@ -961,7 +961,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 65430
+        "value": 66871
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 328608
+        "value": 330574
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 324427
+        "value": 324503
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 499438
+        "value": 499444
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3697194
+        "value": 3699709
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2009,7 +2009,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.PineValleyComplete",
-        "value": 9
+        "value": 10
       },
       {
         "name": "Stats.GameW.Accelerate.BedzoomComplete",
@@ -2017,7 +2017,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.SunriseIslesComplete",
-        "value": 6
+        "value": 7
       },
       {
         "name": "Stats.GameW.Accelerate.WishyWashyComplete",
@@ -2037,7 +2037,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.MelonBoosts",
-        "value": 1395
+        "value": 1567
       },
       {
         "name": "Stats.GameW.Accelerate.BirbShieldGrabs",
@@ -2073,11 +2073,11 @@
       },
       {
         "name": "Stats.GameW.Accelerate.DriftTime",
-        "value": 300711
+        "value": 300759
       },
       {
         "name": "Stats.GameW.Accelerate.ItemsGiven",
-        "value": 1558
+        "value": 1657
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
@@ -2097,7 +2097,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 10293
+        "value": 10309
       }
     ],
     "achievements": [
