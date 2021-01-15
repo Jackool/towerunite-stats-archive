@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 361
+        "value": 362
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -605,7 +605,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 3411500
+        "value": 3421500
       },
       {
         "name": "Stats.EXP.virus",
@@ -893,7 +893,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1501626
+        "value": 1503530
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
