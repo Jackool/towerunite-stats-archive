@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1610853789
+        "value": 1610869895
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -689,7 +689,7 @@
       },
       {
         "name": "Stats.EXP.accel",
-        "value": 1722681
+        "value": 1724331
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
@@ -961,7 +961,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 67375
+        "value": 68598
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
@@ -2021,7 +2021,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.WishyWashyComplete",
-        "value": 6
+        "value": 7
       },
       {
         "name": "Stats.GameW.Accelerate.DamagedByItems",
@@ -2037,7 +2037,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.MelonBoosts",
-        "value": 1567
+        "value": 1713
       },
       {
         "name": "Stats.GameW.Accelerate.BirbShieldGrabs",
@@ -2073,11 +2073,11 @@
       },
       {
         "name": "Stats.GameW.Accelerate.DriftTime",
-        "value": 300760
+        "value": 300869
       },
       {
         "name": "Stats.GameW.Accelerate.ItemsGiven",
-        "value": 1671
+        "value": 1757
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
