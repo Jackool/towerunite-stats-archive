@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 39597
+        "value": 39642
       },
       {
         "name": "stat_lastcommand",
-        "value": 1610932415
+        "value": 1610944437
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -281,11 +281,11 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 642480
+        "value": 643522
       },
       {
         "name": "Stats.Condo.PartyTime",
-        "value": 233426
+        "value": 234862
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2106658
+        "value": 2111896
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24776
+        "value": 24778
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -325,7 +325,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Infected.SurvivorsInfected",
-        "value": 1917
+        "value": 1918
       },
       {
         "name": "Stats.GameW.Virus.Survivor.InfectedExploded",
@@ -337,15 +337,15 @@
       },
       {
         "name": "Stats.GameW.Virus.FirstPlaceCount",
-        "value": 1001
+        "value": 1005
       },
       {
         "name": "Stats.GameW.Virus.FirstInfectedCount",
-        "value": 442
+        "value": 444
       },
       {
         "name": "Stats.GameW.Virus.RoundsPlayed",
-        "value": 2844
+        "value": 2848
       },
       {
         "name": "Stats.GameW.Virus.HospitalSurvive",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 7121500
+        "value": 7131500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -673,7 +673,7 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 5103748
+        "value": 5104648
       },
       {
         "name": "Stats.EXP.mgolf",
@@ -981,7 +981,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 277204
+        "value": 277477
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3720837
+        "value": 3726075
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
