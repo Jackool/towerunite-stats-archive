@@ -41,7 +41,7 @@
       },
       {
         "name": "Stats.Stores.Electronics.NumVisits",
-        "value": 41
+        "value": 42
       },
       {
         "name": "Stats.Stores.Thrift.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4096846
+        "value": 4096913
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2333132
+        "value": 2333168
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 413279
+        "value": 413293
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 957
+        "value": 958
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
