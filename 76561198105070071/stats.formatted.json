@@ -9,11 +9,11 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1611193434
+        "value": 1611264632
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 4.144869804382324
+        "value": 4.010899066925049
       },
       {
         "name": "Stats.Golf.NumOOB",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 31202
+        "value": 31203
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 50281
+        "value": 50284
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 288975
+        "value": 288991
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -157,7 +157,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
-        "value": 5670
+        "value": 5672
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
@@ -165,19 +165,19 @@
       },
       {
         "name": "Stats.GameW.BallRace.PrismMelons",
-        "value": 8714
+        "value": 8715
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4097287
+        "value": 4098108
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2333410
+        "value": 2334332
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 413344
+        "value": 413411
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2123547
+        "value": 2123723
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -485,7 +485,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 1430392464
+        "value": 1430411521
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
@@ -617,11 +617,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 32876183
+        "value": 32877773
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9337000
+        "value": 9339500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1820485
+        "value": 1820710
       },
       {
         "name": "Stats.EXP.casino",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2056976
+        "value": 2057115
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -973,7 +973,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1570047
+        "value": 1570084
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -997,11 +997,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 324933
+        "value": 325347
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 735241
+        "value": 735250
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 499666
+        "value": 499742
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3740735
+        "value": 3740911
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1941,7 +1941,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
-        "value": 1180
+        "value": 1215
       },
       {
         "name": "Stats.Plaza.Arcade.SuperHoopers.Hoops",
@@ -1981,7 +1981,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 50663
+        "value": 50813
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
