@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 39685
+        "value": 39724
       },
       {
         "name": "stat_lastcommand",
-        "value": 1611356398
+        "value": 1611362554
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 50330
+        "value": 50438
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 289069
+        "value": 289236
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2126785
+        "value": 2129364
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 972
+        "value": 973
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24788
+        "value": 24801
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 32919863
+        "value": 32963108
       },
       {
         "name": "Stats.EXP.plaza",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 7169000
+        "value": 7171500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2058596
+        "value": 2062475
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3752287
+        "value": 3755001
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1853,7 +1853,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsMelons",
-        "value": 17860
+        "value": 18004
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompletedNoDeath",

@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1611337213
+        "value": 1611362554
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 416
+        "value": 430
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 1105
+        "value": 1124
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -285,7 +285,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 157544
+        "value": 157767
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 703
+        "value": 704
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 447042
+        "value": 456807
       },
       {
         "name": "Stats.EXP.plaza",
@@ -609,7 +609,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 2857001
+        "value": 2862001
       },
       {
         "name": "Stats.EXP.cooking",
@@ -857,7 +857,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 21519
+        "value": 22336
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -913,7 +913,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1322698
+        "value": 1329943
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
