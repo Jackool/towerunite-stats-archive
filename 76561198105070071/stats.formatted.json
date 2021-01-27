@@ -9,11 +9,11 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1611709553
+        "value": 1611766276
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 5.04230260848999
+        "value": 6.1249098777771
       },
       {
         "name": "Stats.Golf.NumOOB",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 31210
+        "value": 31211
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -29,7 +29,7 @@
       },
       {
         "name": "Stats.Stores.Food.NumVisits",
-        "value": 18
+        "value": 19
       },
       {
         "name": "Stats.Stores.Toy.NumVisits",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 50764
+        "value": 50843
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 289539
+        "value": 289663
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -125,11 +125,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitCompleted",
-        "value": 288
+        "value": 289
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroCompleted",
-        "value": 253
+        "value": 254
       },
       {
         "name": "Stats.GameW.BallRace.PrismCompleted",
@@ -141,7 +141,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseMelons",
-        "value": 3949
+        "value": 3962
       },
       {
         "name": "Stats.GameW.BallRace.MidoriMelons",
@@ -157,27 +157,27 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
-        "value": 5739
+        "value": 5746
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
-        "value": 2353
+        "value": 2355
       },
       {
         "name": "Stats.GameW.BallRace.PrismMelons",
-        "value": 8768
+        "value": 8843
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4102552
+        "value": 4103207
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2337359
+        "value": 2337864
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 414155
+        "value": 414230
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 959
+        "value": 960
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -205,7 +205,7 @@
       },
       {
         "name": "Stats.Plaza.AnimalsFound",
-        "value": 40
+        "value": 41
       },
       {
         "name": "Stats.Plaza.Rollercoaster.Rides",
@@ -229,7 +229,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 41446
+        "value": 41447
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
@@ -245,7 +245,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 6389560
+        "value": 6389710
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 669084
+        "value": 669088
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 987
+        "value": 988
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -441,15 +441,15 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.ZombieDogsKilled",
-        "value": 1357
+        "value": 1367
       },
       {
         "name": "Stats.GameW.ZombieMassacre.DaysSurvived",
-        "value": 572
+        "value": 578
       },
       {
         "name": "Stats.GameW.ZombieMassacre.WeaponPickups",
-        "value": 5326
+        "value": 5395
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TeamMembersSaved",
@@ -457,23 +457,23 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.InfectedKilled",
-        "value": 61133
+        "value": 62029
       },
       {
         "name": "Stats.GameW.ZombieMassacre.MutantsKilled",
-        "value": 1361
+        "value": 1367
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Combos",
-        "value": 2566
+        "value": 2597
       },
       {
         "name": "Stats.GameW.ZombieMassacre.RetroGuitarKills",
-        "value": 2132
+        "value": 2151
       },
       {
         "name": "Stats.GameW.ZombieMassacre.MeleeWeaponKills",
-        "value": 13615
+        "value": 13799
       },
       {
         "name": "Stats.GameW.ZombieMassacre.CameraFlashKills",
@@ -481,15 +481,15 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 6254
+        "value": 6258
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 1443617548
+        "value": 1444203318
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 25936
+        "value": 25948
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
@@ -497,11 +497,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
-        "value": 1399
+        "value": 1401
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 4317
+        "value": 4319
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 33096323
+        "value": 33147137
       },
       {
         "name": "Stats.EXP.plaza",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 24528314
+        "value": 24541064
       },
       {
         "name": "Stats.EXP.lc",
@@ -685,7 +685,7 @@
       },
       {
         "name": "Stats.EXP.zm",
-        "value": 2242161
+        "value": 2276800
       },
       {
         "name": "Stats.EXP.accel",
@@ -705,11 +705,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.OasisCompleted",
-        "value": 173
+        "value": 174
       },
       {
         "name": "Stats.GameW.BallRace.OasisMelons",
-        "value": 12609
+        "value": 12618
       },
       {
         "name": "Stats.GameW.BallRace.OasisCompletedNoDeath",
@@ -745,7 +745,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TransplantKills",
-        "value": 3397
+        "value": 3451
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TurretKills",
@@ -761,27 +761,27 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Kills",
-        "value": 74139
+        "value": 75187
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.BoltActionRifle.Kills",
-        "value": 1555
+        "value": 1582
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Crossbow.Kills",
-        "value": 971
+        "value": 1032
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.DoubleBarrel.Kills",
-        "value": 1748
+        "value": 1761
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.DualHandgun.Kills",
-        "value": 1085
+        "value": 1094
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.DualUZI.Kills",
-        "value": 4001
+        "value": 4077
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Egon.Kills",
@@ -793,27 +793,27 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Handgun.Kills",
-        "value": 4387
+        "value": 4422
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Kimber.Kills",
-        "value": 2577
+        "value": 2584
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.LaserRifle.Kills",
-        "value": 3653
+        "value": 3676
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.M4A1.Kills",
-        "value": 6160
+        "value": 6232
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Magnum.Kills",
-        "value": 4112
+        "value": 4212
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Minigun.Kills",
-        "value": 1475
+        "value": 1644
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.SawedOff.Kills",
@@ -821,23 +821,23 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Spas12.Kills",
-        "value": 5668
+        "value": 5828
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.TommyGun.Kills",
-        "value": 986
+        "value": 992
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.UZI.Kills",
-        "value": 2928
+        "value": 2964
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Axe.Kills",
-        "value": 839
+        "value": 841
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.BaseballBat.Kills",
-        "value": 2261
+        "value": 2311
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Chainsaw.Kills",
@@ -845,23 +845,23 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Guitar.Kills",
-        "value": 1096
+        "value": 1109
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Katana.Kills",
-        "value": 1419
+        "value": 1432
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.MedievalSword.Kills",
-        "value": 3040
+        "value": 3109
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.SledgeHammer.Kills",
-        "value": 2292
+        "value": 2310
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Monsters.Spider.Kills",
-        "value": 3918
+        "value": 3970
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.General",
@@ -961,11 +961,11 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 68800
+        "value": 68925
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2072446
+        "value": 2075768
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -973,7 +973,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1581298
+        "value": 1582306
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
-        "value": 251129
+        "value": 252142
       },
       {
         "name": "Stats.Plaza.LaserTag.Playtime",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 735250
+        "value": 735281
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 500006
+        "value": 500012
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3839500
+        "value": 3840652
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1141,7 +1141,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 10005520
+        "value": 10005670
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.TripleDiamonds",
@@ -1153,7 +1153,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TotalScore",
-        "value": 4179845
+        "value": 4237295
       },
       {
         "name": "Stats.GameW.ZombieMassacre.BestScore",
@@ -1853,7 +1853,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsMelons",
-        "value": 18063
+        "value": 18081
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompletedNoDeath",
@@ -1861,7 +1861,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.VillagePlays",
-        "value": 29
+        "value": 30
       },
       {
         "name": "Stats.Plaza.Arcade.Dizzy.Jackpots",
@@ -2037,7 +2037,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.MelonBoosts",
-        "value": 1720
+        "value": 1730
       },
       {
         "name": "Stats.GameW.Accelerate.BirbShieldGrabs",
@@ -2073,11 +2073,11 @@
       },
       {
         "name": "Stats.GameW.Accelerate.DriftTime",
-        "value": 300876
+        "value": 300889
       },
       {
         "name": "Stats.GameW.Accelerate.ItemsGiven",
-        "value": 1764
+        "value": 1770
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
