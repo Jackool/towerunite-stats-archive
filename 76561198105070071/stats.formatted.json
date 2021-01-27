@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 40119
+        "value": 40120
       },
       {
         "name": "stat_lastcommand",
-        "value": 1611766276
+        "value": 1611770587
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -381,15 +381,15 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
-        "value": 1916
+        "value": 1953
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.FancyGhost",
-        "value": 116
+        "value": 118
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.AirKills",
-        "value": 1631
+        "value": 1664
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.NearTaunts",
@@ -397,19 +397,19 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.TeamWins",
-        "value": 3449
+        "value": 3506
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
-        "value": 1373
+        "value": 1397
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 3013
+        "value": 3061
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 4402
+        "value": 4467
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.MaxRank",
-        "value": 1127
+        "value": 1137
       },
       {
         "name": "Stats.EXP.br",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 7369000
+        "value": 7376500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -681,7 +681,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 7653105
+        "value": 7772018
       },
       {
         "name": "Stats.EXP.zm",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 344992
+        "value": 349098
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
