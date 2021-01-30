@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 40239
+        "value": 40246
       },
       {
         "name": "stat_lastcommand",
-        "value": 1611969756
+        "value": 1611989743
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -33,7 +33,7 @@
       },
       {
         "name": "Stats.Stores.Toy.NumVisits",
-        "value": 60
+        "value": 61
       },
       {
         "name": "Stats.Stores.Furniture.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4105548
+        "value": 4107190
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2339140
+        "value": 2340048
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 414605
+        "value": 414701
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 960
+        "value": 961
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -381,15 +381,15 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
-        "value": 2014
+        "value": 2037
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.FancyGhost",
-        "value": 124
+        "value": 126
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.AirKills",
-        "value": 1733
+        "value": 1750
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.NearTaunts",
@@ -397,23 +397,23 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.TeamWins",
-        "value": 3616
+        "value": 3674
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
-        "value": 1447
+        "value": 1469
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 3118
+        "value": 3157
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 4589
+        "value": 4652
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
-        "value": 390
+        "value": 396
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.BirbKills",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.MaxRank",
-        "value": 1166
+        "value": 1172
       },
       {
         "name": "Stats.EXP.br",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9344500
+        "value": 9349500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1820745
+        "value": 1822396
       },
       {
         "name": "Stats.EXP.casino",
@@ -681,7 +681,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 7978058
+        "value": 8081453
       },
       {
         "name": "Stats.EXP.zm",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 356875
+        "value": 360758
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -997,11 +997,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 325752
+        "value": 327003
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 735281
+        "value": 735339
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1925,7 +1925,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Avalanche.BestScore",
-        "value": 630
+        "value": 720
       },
       {
         "name": "Stats.Plaza.Arcade.IceCave.BestScore",
@@ -1941,7 +1941,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
-        "value": 1215
+        "value": 1253
       },
       {
         "name": "Stats.Plaza.Arcade.SuperHoopers.Hoops",
@@ -1953,7 +1953,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 4654
+        "value": 4669
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
@@ -1981,7 +1981,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 50901
+        "value": 53096
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -1989,7 +1989,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Avalanche.BlueCatsacks",
-        "value": 64
+        "value": 69
       },
       {
         "name": "Stats.Plaza.Arcade.IceCave.TilesLit",
@@ -2097,7 +2097,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 10465
+        "value": 10605
       }
     ],
     "achievements": [
