@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1612148237
+        "value": 1612154995
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -21,11 +21,11 @@
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 3.876101016998291
+        "value": 3.7789673805236816
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 189
+        "value": 191
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -473,27 +473,27 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 112
+        "value": 117
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 76961202
+        "value": 81794454
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 1059
+        "value": 1102
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
-        "value": 88
+        "value": 91
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
-        "value": 23
+        "value": 25
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 289
+        "value": 305
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -517,11 +517,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.TreasureCoveComplete",
-        "value": 4
+        "value": 5
       },
       {
         "name": "Stats.GameW.Minigolf.SweetToothComplete",
-        "value": 8
+        "value": 9
       },
       {
         "name": "Stats.GameW.Minigolf.ForestComplete",
@@ -549,11 +549,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.TreasureCoveCoursePar",
-        "value": 58
+        "value": 54
       },
       {
         "name": "Stats.GameW.Minigolf.SweetToothCoursePar",
-        "value": 60
+        "value": 57
       },
       {
         "name": "Stats.GameW.Minigolf.ForestCoursePar",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1724000
+        "value": 1736500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 81092
+        "value": 81097
       },
       {
         "name": "Stats.EXP.casino",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 560907
+        "value": 601108
       },
       {
         "name": "Stats.EXP.fishing",
@@ -653,7 +653,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 1001769
+        "value": 1040450
       },
       {
         "name": "Stats.EXP.lc",
@@ -933,7 +933,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 71081
+        "value": 75048
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
