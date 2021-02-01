@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 31223
+        "value": 31224
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2234815
+        "value": 2234821
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3905701
+        "value": 3905707
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
