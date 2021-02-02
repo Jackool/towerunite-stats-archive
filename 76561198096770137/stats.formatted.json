@@ -285,7 +285,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 158099
+        "value": 158126
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 720
+        "value": 722
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -913,7 +913,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1347141
+        "value": 1347507
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
