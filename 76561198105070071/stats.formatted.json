@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1612326963
+        "value": 1612371546
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 31227
+        "value": 31228
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 52204
+        "value": 52223
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 292102
+        "value": 292148
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -117,7 +117,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesCompleted",
-        "value": 145
+        "value": 146
       },
       {
         "name": "Stats.GameW.BallRace.GLXYCompleted",
@@ -133,7 +133,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.PrismCompleted",
-        "value": 205
+        "value": 206
       },
       {
         "name": "Stats.GameW.BallRace.NimbusMelons",
@@ -149,7 +149,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesMelons",
-        "value": 3546
+        "value": 3555
       },
       {
         "name": "Stats.GameW.BallRace.GLXYMelons",
@@ -165,7 +165,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.PrismMelons",
-        "value": 10007
+        "value": 10044
       },
       {
         "name": "Stats.Plaza.Playtime",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 34073026
+        "value": 34106276
       },
       {
         "name": "Stats.EXP.plaza",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2129009
+        "value": 2130265
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
