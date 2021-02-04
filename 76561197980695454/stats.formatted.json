@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1612159314
+        "value": 1612420199
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -21,11 +21,11 @@
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 3.7789673805236816
+        "value": 3.8535654544830322
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 191
+        "value": 195
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 599604
+        "value": 601884
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 354453
+        "value": 356093
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 67912
+        "value": 68424
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -473,19 +473,19 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 117
+        "value": 122
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 81794454
+        "value": 84115640
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 1102
+        "value": 1125
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
-        "value": 91
+        "value": 94
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
@@ -493,11 +493,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 305
+        "value": 316
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
-        "value": 6
+        "value": 7
       },
       {
         "name": "Stats.GameW.Minigolf.WaterholeComplete",
@@ -533,7 +533,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.GardenCoursePar",
-        "value": 55
+        "value": 57
       },
       {
         "name": "Stats.GameW.Minigolf.WaterholeCoursePar",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1749000
+        "value": 1756500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -613,7 +613,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 81132
+        "value": 81435
       },
       {
         "name": "Stats.EXP.casino",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 602496
+        "value": 609734
       },
       {
         "name": "Stats.EXP.fishing",
@@ -653,7 +653,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 1040450
+        "value": 1069830
       },
       {
         "name": "Stats.EXP.lc",
@@ -933,7 +933,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 75048
+        "value": 77100
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
@@ -953,11 +953,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 49378
+        "value": 49793
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 14258
+        "value": 14289
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -969,11 +969,11 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 15176
+        "value": 15184
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 60051
+        "value": 60410
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1545,15 +1545,15 @@
       },
       {
         "name": "Stats.Plaza.Minigames.BoozeBash.TotalScore",
-        "value": 42375
+        "value": 47200
       },
       {
         "name": "Stats.Plaza.Minigames.BoozeBash.BestScore",
-        "value": 4700
+        "value": 4750
       },
       {
         "name": "Stats.Plaza.Minigames.BoozeBashDrinks",
-        "value": 1008
+        "value": 1117
       },
       {
         "name": "Stats.Plaza.Minigames.ChainsawDeathmatchKills",
@@ -1661,7 +1661,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
-        "value": 289
+        "value": 312
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.Basket",
@@ -2971,6 +2971,14 @@
       },
       {
         "name": "ACH_PLZ_HALLOWEEN_STINGYJACK",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_DARKHIO1",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_DARKHIO2",
         "achieved": 1
       }
     ]
