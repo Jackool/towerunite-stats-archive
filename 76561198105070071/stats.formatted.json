@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1612491532
+        "value": 1612501181
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -85,7 +85,7 @@
       },
       {
         "name": "Stats.Stores.Theater.NumVisits",
-        "value": 18
+        "value": 19
       },
       {
         "name": "Stats.Stores.CondoRealtor.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4116215
+        "value": 4125282
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2350845
+        "value": 2356744
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 415657
+        "value": 416843
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 965
+        "value": 966
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -229,7 +229,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 41454
+        "value": 41810
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
@@ -237,15 +237,15 @@
       },
       {
         "name": "Stats.Plaza.Casino.WOMSpins",
-        "value": 915
+        "value": 944
       },
       {
         "name": "Stats.Plaza.Casino.WOMNothings",
-        "value": 170
+        "value": 173
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 6391135
+        "value": 6444535
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2259734
+        "value": 2260115
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9377000
+        "value": 9389500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -653,7 +653,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 1944869
+        "value": 1947853
       },
       {
         "name": "Stats.EXP.fishing",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 24700228
+        "value": 24715408
       },
       {
         "name": "Stats.EXP.lc",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 735591
+        "value": 738043
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1013,15 +1013,15 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 500112
+        "value": 500674
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 52163
+        "value": 52236
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 3956709
+        "value": 3957090
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
-        "value": 1890
+        "value": 1910
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
@@ -1037,7 +1037,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.BalloonsPopped",
-        "value": 3969
+        "value": 3970
       },
       {
         "name": "Stats.Plaza.Minigames.PlanesDowned",
@@ -1089,11 +1089,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Fruit.TotalScore",
-        "value": 121300
+        "value": 122950
       },
       {
         "name": "Stats.Plaza.Minigames.Balloon.TotalScore",
-        "value": 451275
+        "value": 451284
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
@@ -1141,7 +1141,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 10006020
+        "value": 10054170
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.TripleDiamonds",
@@ -2089,15 +2089,15 @@
       },
       {
         "name": "Stats.Plaza.Halloween.CandyCollected",
-        "value": 1228
+        "value": 1253
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3269978
+        "value": 3299978
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 10644
+        "value": 10892
       }
     ],
     "achievements": [
