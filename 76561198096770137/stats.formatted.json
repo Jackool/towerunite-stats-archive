@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1612838982
+        "value": 1612845268
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 1313175
+        "value": 1319211
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 218462
+        "value": 222167
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 47044
+        "value": 47211
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -233,11 +233,11 @@
       },
       {
         "name": "Stats.Plaza.Casino.Poker.TotalUnitsPlayed",
-        "value": 1135765
+        "value": 1295319
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
-        "value": 37
+        "value": 38
       },
       {
         "name": "Stats.Plaza.Casino.Poker.FlushWins",
@@ -569,7 +569,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 3948001
+        "value": 3965501
       },
       {
         "name": "Stats.EXP.ltag",
@@ -585,7 +585,7 @@
       },
       {
         "name": "Stats.EXP.casino",
-        "value": 757858
+        "value": 762858
       },
       {
         "name": "Stats.EXP.tderby",
@@ -889,11 +889,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 776072
+        "value": 778494
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 275698
+        "value": 277609
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -909,7 +909,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 44814
+        "value": 44819
       },
       {
         "name": "Stats.Condo.Playtime",
