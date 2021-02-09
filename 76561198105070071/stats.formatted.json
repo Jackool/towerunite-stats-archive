@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 31231
+        "value": 31232
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4159796
+        "value": 4162382
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2378065
+        "value": 2380815
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 420170
+        "value": 420333
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9457000
+        "value": 9459500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 500920
+        "value": 501248
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -2097,7 +2097,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 11109
+        "value": 11243
       }
     ],
     "achievements": [
