@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1612845268
+        "value": 1612957446
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -17,11 +17,11 @@
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 6.290152549743652
+        "value": 6.634426593780518
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 186
+        "value": 187
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 1319211
+        "value": 1319623
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 222167
+        "value": 222327
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 47211
+        "value": 47212
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 757
+        "value": 758
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -469,23 +469,23 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 37095505
+        "value": 37616850
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 600
+        "value": 602
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
-        "value": 23
+        "value": 24
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
-        "value": 4
+        "value": 5
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 98
+        "value": 100
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 441455
+        "value": 448705
       },
       {
         "name": "Stats.EXP.lc",
@@ -865,7 +865,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 34176
+        "value": 34904
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -913,7 +913,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1450494
+        "value": 1450682
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2099,6 +2099,10 @@
       },
       {
         "name": "ACH_GW_MGOLF_WELCOMETOMASTERS",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_SCREAMINGEAGLES",
         "achieved": 1
       },
       {
