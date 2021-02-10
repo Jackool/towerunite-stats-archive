@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 31232
+        "value": 31233
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4162382
+        "value": 4162995
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2380815
+        "value": 2381154
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 420333
+        "value": 420368
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
