@@ -9,11 +9,11 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1613001255
+        "value": 1613019531
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 4.2256646156311035
+        "value": 5.590244770050049
       },
       {
         "name": "Stats.Golf.NumOOB",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 53045
+        "value": 53123
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 292981
+        "value": 293191
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -125,7 +125,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitCompleted",
-        "value": 305
+        "value": 306
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroCompleted",
@@ -137,11 +137,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.NimbusMelons",
-        "value": 7882
+        "value": 7961
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseMelons",
-        "value": 3987
+        "value": 3988
       },
       {
         "name": "Stats.GameW.BallRace.MidoriMelons",
@@ -149,7 +149,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesMelons",
-        "value": 3772
+        "value": 3786
       },
       {
         "name": "Stats.GameW.BallRace.GLXYMelons",
@@ -157,7 +157,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
-        "value": 5980
+        "value": 6022
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4165647
+        "value": 4166440
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2383372
+        "value": 2383720
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 420599
+        "value": 420669
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2296708
+        "value": 2296761
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -485,11 +485,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 1465639796
+        "value": 1466043521
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 26197
+        "value": 26202
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 34644537
+        "value": 34667082
       },
       {
         "name": "Stats.EXP.plaza",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 24769013
+        "value": 24771639
       },
       {
         "name": "Stats.EXP.lc",
@@ -709,7 +709,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.OasisMelons",
-        "value": 12750
+        "value": 12821
       },
       {
         "name": "Stats.GameW.BallRace.OasisCompletedNoDeath",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2165651
+        "value": 2168053
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -973,7 +973,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1601968
+        "value": 1602229
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 746714
+        "value": 747115
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 501260
+        "value": 501262
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4043507
+        "value": 4043560
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
