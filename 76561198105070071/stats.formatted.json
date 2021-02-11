@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 40779
+        "value": 40787
       },
       {
         "name": "stat_lastcommand",
-        "value": 1613069287
+        "value": 1613071291
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,7 +93,7 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 53461
+        "value": 53463
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
@@ -105,7 +105,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.NimbusCompleted",
-        "value": 142
+        "value": 143
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseCompleted",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4167416
+        "value": 4167836
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2385701
+        "value": 2386382
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 420844
+        "value": 420904
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2298075
+        "value": 2298332
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1080
+        "value": 1081
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24930
+        "value": 24931
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 34762887
+        "value": 34765025
       },
       {
         "name": "Stats.EXP.plaza",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2177576
+        "value": 2177672
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 329102
+        "value": 329133
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1013,15 +1013,15 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 501272
+        "value": 501282
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 52236
+        "value": 52244
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4045951
+        "value": 4046989
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
