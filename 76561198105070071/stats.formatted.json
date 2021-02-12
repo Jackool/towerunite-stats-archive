@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1613163572
+        "value": 1613170763
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 53993
+        "value": 54109
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 294526
+        "value": 294644
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -113,7 +113,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MidoriCompleted",
-        "value": 247
+        "value": 248
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesCompleted",
@@ -145,7 +145,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MidoriMelons",
-        "value": 4085
+        "value": 4203
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesMelons",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 35000581
+        "value": 35097511
       },
       {
         "name": "Stats.EXP.plaza",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2191534
+        "value": 2195863
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
