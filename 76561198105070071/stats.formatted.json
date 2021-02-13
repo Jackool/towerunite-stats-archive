@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1613170763
+        "value": 1613177913
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 54109
+        "value": 54542
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 294644
+        "value": 296099
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -137,7 +137,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.NimbusMelons",
-        "value": 8066
+        "value": 8910
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseMelons",
@@ -309,11 +309,11 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1082
+        "value": 1083
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24933
+        "value": 24934
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 35097511
+        "value": 35171011
       },
       {
         "name": "Stats.EXP.plaza",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2195863
+        "value": 2205955
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4065228
+        "value": 4066045
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1849,11 +1849,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompleted",
-        "value": 265
+        "value": 267
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsMelons",
-        "value": 18702
+        "value": 19313
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompletedNoDeath",
