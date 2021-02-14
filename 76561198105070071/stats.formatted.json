@@ -9,15 +9,15 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1613264078
+        "value": 1613270369
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 4.335193157196045
+        "value": 5.267711162567139
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 6838
+        "value": 6845
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 55321
+        "value": 55500
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 297825
+        "value": 297976
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -161,11 +161,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
-        "value": 2512
+        "value": 2551
       },
       {
         "name": "Stats.GameW.BallRace.PrismMelons",
-        "value": 10138
+        "value": 10250
       },
       {
         "name": "Stats.Plaza.Playtime",
@@ -305,11 +305,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2319200
+        "value": 2319680
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1084
+        "value": 1085
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -481,19 +481,19 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 6320
+        "value": 6328
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 1470023980
+        "value": 1472103531
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 26244
+        "value": 26272
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
-        "value": 4041
+        "value": 4046
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
@@ -501,7 +501,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 4395
+        "value": 4404
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 35399911
+        "value": 35417581
       },
       {
         "name": "Stats.EXP.plaza",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 7839000
+        "value": 7841500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 24834939
+        "value": 24863829
       },
       {
         "name": "Stats.EXP.lc",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2226258
+        "value": 2231060
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -973,7 +973,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1606052
+        "value": 1608555
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4070705
+        "value": 4072307
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
