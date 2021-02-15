@@ -9,14 +9,14 @@ URI encoding = 'ISO-8859-1'
 iconv UTF-8 -> ISO-8859-1
 iconv outlen=294 inlen=147
 converted 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137' (ISO-8859-1) -> 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137' (UTF-8)
---2021-02-14 20:00:01--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137
-Resolving api.steampowered.com (api.steampowered.com)... 104.76.172.254
-Caching api.steampowered.com => 104.76.172.254
-Connecting to api.steampowered.com (api.steampowered.com)|104.76.172.254|:443... connected.
+--2021-02-14 22:00:01--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137
+Resolving api.steampowered.com (api.steampowered.com)... 172.230.182.178
+Caching api.steampowered.com => 172.230.182.178
+Connecting to api.steampowered.com (api.steampowered.com)|172.230.182.178|:443... connected.
 Created socket 4.
-Releasing 0x0000555a14c47760 (new refcount 1).
+Releasing 0x000056022eef9760 (new refcount 1).
 Initiating SSL handshake.
-Handshake successful; connected socket 4 to SSL handle 0x0000555a14c47950
+Handshake successful; connected socket 4 to SSL handle 0x000056022eef9950
 certificate:
   subject: CN=store.steampowered.com,O=Valve Corp,L=Bellevue,ST=Washington,C=US,serialNumber=602 290 773,jurisdictionST=Washington,jurisdictionC=US,businessCategory=Private Organization
   issuer:  CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US
@@ -33,29 +33,27 @@ Connection: Keep-Alive
 ---request end---
 HTTP request sent, awaiting response... 
 ---response begin---
-HTTP/1.1 200 OK
-Content-Type: application/json; charset=UTF-8
-Vary: Accept-Encoding
-Expires: Mon, 15 Feb 2021 01:05:03 GMT
-Date: Mon, 15 Feb 2021 01:00:03 GMT
-Content-Length: 36544
+HTTP/1.1 500 Internal Server Error
+Content-Length: 157
+Content-Type: text/html; charset=UTF-8
+Expires: Mon, 15 Feb 2021 03:00:03 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 15 Feb 2021 03:00:03 GMT
 Connection: keep-alive
 
 ---response end---
 
-  HTTP/1.1 200 OK
-  Content-Type: application/json; charset=UTF-8
-  Vary: Accept-Encoding
-  Expires: Mon, 15 Feb 2021 01:05:03 GMT
-  Date: Mon, 15 Feb 2021 01:00:03 GMT
-  Content-Length: 36544
+  HTTP/1.1 500 Internal Server Error
+  Content-Length: 157
+  Content-Type: text/html; charset=UTF-8
+  Expires: Mon, 15 Feb 2021 03:00:03 GMT
+  Cache-Control: max-age=0, no-cache, no-store
+  Pragma: no-cache
+  Date: Mon, 15 Feb 2021 03:00:03 GMT
   Connection: keep-alive
 Registered socket 4 for persistent reuse.
 URI content encoding = 'UTF-8'
-Length: 36544 (36K) [application/json]
-Saving to: '/dev/stdout'
-
-     0K .......... .......... .......... .....                100% 2.50M=0.01s
-
-2021-02-14 20:00:01 (2.50 MB/s) - '/dev/stdout' saved [36544/36544]
+Skipping 157 bytes of body: [<html><head><title>Internal Server Error</title></head><body><h1>Internal Server Error</h1>Failed to forward request message to internal server</body></html>] done.
+2021-02-14 22:00:01 ERROR 500: Internal Server Error.
 
