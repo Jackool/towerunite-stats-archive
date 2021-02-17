@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 40850
+        "value": 40876
       },
       {
         "name": "stat_lastcommand",
-        "value": 1613590988
+        "value": 1613602673
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,7 +93,7 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 55563
+        "value": 55566
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 726912
+        "value": 727099
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2322389
+        "value": 2327118
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24938
+        "value": 24943
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 35441881
+        "value": 35458369
       },
       {
         "name": "Stats.EXP.plaza",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 7851500
+        "value": 7859000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2232620
+        "value": 2232924
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4077731
+        "value": 4082460
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
