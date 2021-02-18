@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1613674529
+        "value": 1613681686
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 55728
+        "value": 55848
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 298171
+        "value": 298341
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -157,7 +157,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
-        "value": 6600
+        "value": 6632
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 735537
+        "value": 735966
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,11 +305,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2342188
+        "value": 2342247
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1090
+        "value": 1091
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 35482837
+        "value": 35522737
       },
       {
         "name": "Stats.EXP.plaza",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 7909000
+        "value": 7911500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2238726
+        "value": 2242379
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4102547
+        "value": 4104131
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1857,7 +1857,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsMelons",
-        "value": 19403
+        "value": 19514
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompletedNoDeath",
