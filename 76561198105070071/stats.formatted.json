@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 40940
+        "value": 40941
       },
       {
         "name": "stat_lastcommand",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 31286
+        "value": 31288
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4178865
+        "value": 4179281
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2392818
+        "value": 2392953
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 422922
+        "value": 422991
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 738417
+        "value": 738439
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,11 +305,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2349956
+        "value": 2350380
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1097
+        "value": 1100
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -657,7 +657,7 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 1322050
+        "value": 1322550
       },
       {
         "name": "Stats.EXP.nightclub",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 7944000
+        "value": 7949000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -697,7 +697,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 2658
+        "value": 2659
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -1025,11 +1025,11 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4120092
+        "value": 4123536
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
-        "value": 85227
+        "value": 85258
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
@@ -1801,7 +1801,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.ShoppingCart",
-        "value": 38
+        "value": 39
       },
       {
         "name": "Stats.Plaza.Fishing.UsedSprayCan",
