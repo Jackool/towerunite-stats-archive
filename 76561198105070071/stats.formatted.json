@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 40923
+        "value": 40925
       },
       {
         "name": "stat_lastcommand",
-        "value": 1613690667
+        "value": 1613703269
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 735966
+        "value": 735980
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2343839
+        "value": 2345067
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1091
+        "value": 1094
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 24964
+        "value": 24969
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 35547742
+        "value": 35551702
       },
       {
         "name": "Stats.EXP.plaza",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 7916500
+        "value": 7926500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -981,7 +981,7 @@
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
-        "value": 10608
+        "value": 11127
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4105723
+        "value": 4111466
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
