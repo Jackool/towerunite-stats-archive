@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1613716708
+        "value": 1613771485
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4179281
+        "value": 4180637
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2392953
+        "value": 2393600
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 422991
+        "value": 423149
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2350380
+        "value": 2350890
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9489500
+        "value": 9492000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1824220
+        "value": 1824675
       },
       {
         "name": "Stats.EXP.casino",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 329148
+        "value": 330124
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4123536
+        "value": 4124046
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1965,7 +1965,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.Basket",
-        "value": 53035
+        "value": 53037
       },
       {
         "name": "Stats.Plaza.Arcade.Offering.CenterCup",
@@ -1981,11 +1981,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.NewtonsApples.ApplesDropped",
-        "value": 1201
+        "value": 1251
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 57187
+        "value": 57413
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -1997,7 +1997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.IceCave.TilesLit",
-        "value": 268
+        "value": 293
       },
       {
         "name": "Stats.Plaza.Arcade.LonelyGun.TargetsHit",
