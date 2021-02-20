@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1613803713
+        "value": 1613804667
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4182354
+        "value": 4184701
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2394093
+        "value": 2396874
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 423213
+        "value": 423386
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9494500
+        "value": 9499500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1824675
+        "value": 1824918
       },
       {
         "name": "Stats.EXP.casino",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 330172
+        "value": 331536
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 503204
+        "value": 503214
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1977,7 +1977,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PluckAPal.Grabs",
-        "value": 67
+        "value": 68
       },
       {
         "name": "Stats.Plaza.Arcade.NewtonsApples.ApplesDropped",
@@ -1985,7 +1985,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 57413
+        "value": 58014
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
