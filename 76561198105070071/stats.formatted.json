@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 31288
+        "value": 31289
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4180637
+        "value": 4181553
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2393600
+        "value": 2393725
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 423149
+        "value": 423163
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -197,7 +197,7 @@
       },
       {
         "name": "Stats.Plaza.Markers",
-        "value": 161
+        "value": 164
       },
       {
         "name": "Stats.Plaza.PhotoShoots",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 738439
+        "value": 738489
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1100
+        "value": 1102
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 7949000
+        "value": 7951500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1001,11 +1001,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 330124
+        "value": 330129
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 747220
+        "value": 747232
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 503198
+        "value": 503204
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4124046
+        "value": 4125077
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",

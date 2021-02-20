@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1613775603
+        "value": 1613779835
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 603249
+        "value": 608000
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 98888
+        "value": 98923
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 91122
+        "value": 93091
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1680500
+        "value": 1700500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 695677
+        "value": 707203
       },
       {
         "name": "Stats.EXP.casino",
@@ -993,7 +993,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 183887
+        "value": 188624
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1509,7 +1509,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 66187
+        "value": 68607
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
@@ -1775,6 +1775,10 @@
       },
       {
         "name": "ACH_GW_BR_PRISMHIDDEN",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_TOWERADDICTION",
         "achieved": 1
       },
       {
