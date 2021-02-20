@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1613779835
+        "value": 1613852089
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 608000
+        "value": 611632
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 98923
+        "value": 99033
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 93091
+        "value": 93689
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 2669457
+        "value": 2719457
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1700500
+        "value": 1713000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 707203
+        "value": 714711
       },
       {
         "name": "Stats.EXP.casino",
@@ -993,7 +993,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 188624
+        "value": 192239
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1509,7 +1509,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 68607
+        "value": 69992
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
