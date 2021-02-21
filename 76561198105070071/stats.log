@@ -9,14 +9,14 @@ URI encoding = 'ISO-8859-1'
 iconv UTF-8 -> ISO-8859-1
 iconv outlen=294 inlen=147
 converted 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198105070071' (ISO-8859-1) -> 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198105070071' (UTF-8)
---2021-02-21 16:00:02--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198105070071
-Resolving api.steampowered.com (api.steampowered.com)... 104.70.214.197
-Caching api.steampowered.com => 104.70.214.197
-Connecting to api.steampowered.com (api.steampowered.com)|104.70.214.197|:443... connected.
+--2021-02-21 18:00:02--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198105070071
+Resolving api.steampowered.com (api.steampowered.com)... 104.76.172.254
+Caching api.steampowered.com => 104.76.172.254
+Connecting to api.steampowered.com (api.steampowered.com)|104.76.172.254|:443... connected.
 Created socket 4.
-Releasing 0x0000558d8f84e760 (new refcount 1).
+Releasing 0x0000557990b5e760 (new refcount 1).
 Initiating SSL handshake.
-Handshake successful; connected socket 4 to SSL handle 0x0000558d8f84e950
+Handshake successful; connected socket 4 to SSL handle 0x0000557990b5e950
 certificate:
   subject: CN=store.steampowered.com,O=Valve Corp,L=Bellevue,ST=Washington,C=US,serialNumber=602 290 773,jurisdictionST=Washington,jurisdictionC=US,businessCategory=Private Organization
   issuer:  CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US
@@ -36,8 +36,8 @@ HTTP request sent, awaiting response...
 HTTP/1.1 200 OK
 Content-Type: application/json; charset=UTF-8
 Vary: Accept-Encoding
-Expires: Sun, 21 Feb 2021 21:05:08 GMT
-Date: Sun, 21 Feb 2021 21:00:08 GMT
+Expires: Sun, 21 Feb 2021 23:05:07 GMT
+Date: Sun, 21 Feb 2021 23:00:08 GMT
 Transfer-Encoding:  chunked
 Connection: keep-alive
 Connection: Transfer-Encoding
@@ -47,8 +47,8 @@ Connection: Transfer-Encoding
   HTTP/1.1 200 OK
   Content-Type: application/json; charset=UTF-8
   Vary: Accept-Encoding
-  Expires: Sun, 21 Feb 2021 21:05:08 GMT
-  Date: Sun, 21 Feb 2021 21:00:08 GMT
+  Expires: Sun, 21 Feb 2021 23:05:07 GMT
+  Date: Sun, 21 Feb 2021 23:00:08 GMT
   Transfer-Encoding:  chunked
   Connection: keep-alive
   Connection: Transfer-Encoding
@@ -57,8 +57,8 @@ URI content encoding = 'UTF-8'
 Length: unspecified [application/json]
 Saving to: '/dev/stdout'
 
-     0K .......... .......... .......... .......... .......... 2.53M
+     0K .......... .......... .......... .......... .......... 2.92M
     50K ..                                                     3837G=0.02s
 
-2021-02-21 16:00:02 (2.63 MB/s) - '/dev/stdout' saved [53260]
+2021-02-21 18:00:02 (3.04 MB/s) - '/dev/stdout' saved [53260]
 

@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1613934832
+        "value": 1613948373
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 740838
+        "value": 740895
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1109
+        "value": 1110
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 35703097
+        "value": 35717197
       },
       {
         "name": "Stats.EXP.plaza",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 8016500
+        "value": 8019000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4154024
+        "value": 4155628
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
