@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1614106773
+        "value": 1614108510
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4197218
+        "value": 4198405
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2409627
+        "value": 2410605
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 424706
+        "value": 424858
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1119
+        "value": 1120
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -617,11 +617,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 35892517
+        "value": 35896027
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9524500
+        "value": 9527000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 8124000
+        "value": 8136500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 335009
+        "value": 335987
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 503486
+        "value": 503496
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4198941
+        "value": 4199172
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1985,7 +1985,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 62568
+        "value": 63040
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
