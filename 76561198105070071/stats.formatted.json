@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1614033625
+        "value": 1614106773
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4197043
+        "value": 4197218
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2409423
+        "value": 2409627
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 424670
+        "value": 424706
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1827031
+        "value": 1827243
       },
       {
         "name": "Stats.EXP.casino",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 503476
+        "value": 503486
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
