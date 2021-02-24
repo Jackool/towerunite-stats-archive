@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 611632
+        "value": 618146
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 99033
+        "value": 101151
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 93689
+        "value": 126992
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -197,7 +197,7 @@
       },
       {
         "name": "Stats.Plaza.Markers",
-        "value": 66
+        "value": 67
       },
       {
         "name": "Stats.Plaza.PhotoShoots",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1713000
+        "value": 1738000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -1783,6 +1783,10 @@
       },
       {
         "name": "ACH_PLZ_HUMANBLUR",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_LONGWALK",
         "achieved": 1
       },
       {
