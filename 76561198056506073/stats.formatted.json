@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1613852089
+        "value": 1614189242
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -17,11 +17,11 @@
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 4.460583686828613
+        "value": 9.321024894714355
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 409
+        "value": 418
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 1999
+        "value": 2032
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 6711
+        "value": 6808
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -121,11 +121,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.GLXYCompleted",
-        "value": 12
+        "value": 13
       },
       {
         "name": "Stats.GameW.BallRace.SummitCompleted",
-        "value": 17
+        "value": 19
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroCompleted",
@@ -153,11 +153,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.GLXYMelons",
-        "value": 162
+        "value": 173
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
-        "value": 442
+        "value": 528
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
@@ -289,7 +289,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 378818
+        "value": 378823
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -313,15 +313,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 980420
+        "value": 980672
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 733
+        "value": 737
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 3707
+        "value": 3708
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -489,15 +489,15 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 29
+        "value": 33
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 42939031
+        "value": 43554749
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 807
+        "value": 829
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 1798223
+        "value": 1826443
       },
       {
         "name": "Stats.EXP.plaza",
@@ -681,7 +681,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 405745
+        "value": 418685
       },
       {
         "name": "Stats.EXP.lc",
@@ -961,7 +961,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 96590
+        "value": 98098
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 37377
+        "value": 38253
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2253161
+        "value": 2253835
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1739,6 +1739,10 @@
       },
       {
         "name": "ACH_GW_BR_MIDORICOLLECTOR",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_BR_SUMMITCOLLECTOR",
         "achieved": 1
       },
       {
@@ -2566,11 +2570,23 @@
         "achieved": 1
       },
       {
+        "name": "ACH_GW_MGOLF_KINGDOMHIO3",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_KINGDOMHIO6",
+        "achieved": 1
+      },
+      {
         "name": "ACH_GW_MGOLF_KINGDOMHIO7",
         "achieved": 1
       },
       {
         "name": "ACH_GW_MGOLF_KINGDOMHIO8",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_KINGDOMHIO9",
         "achieved": 1
       },
       {

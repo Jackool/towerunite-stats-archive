@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4198728
+        "value": 4199538
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2410934
+        "value": 2411466
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 424916
+        "value": 424980
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 747254
+        "value": 747260
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 503498
+        "value": 503512
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -2101,7 +2101,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 11992
+        "value": 12180
       }
     ],
     "achievements": [
