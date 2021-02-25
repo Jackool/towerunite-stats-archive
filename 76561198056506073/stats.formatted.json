@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 618146
+        "value": 629374
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 101151
+        "value": 101964
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 126992
+        "value": 200021
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -313,11 +313,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 981845
+        "value": 982182
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 750
+        "value": 753
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1763000
+        "value": 1780500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -673,7 +673,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4459500
+        "value": 4462000
       },
       {
         "name": "Stats.EXP.virus",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2258985
+        "value": 2260045
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1795,6 +1795,10 @@
       },
       {
         "name": "ACH_PLZ_SKELETONRP",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_JUMPINGJACKRABBIT",
         "achieved": 1
       },
       {
