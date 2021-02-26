@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1614221313
+        "value": 1614307509
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 629374
+        "value": 631252
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 101964
+        "value": 102073
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 200021
+        "value": 200532
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 2719457
+        "value": 2769457
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -289,7 +289,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 379611
+        "value": 379806
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 770
+        "value": 774
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1780500
+        "value": 1785500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 714711
+        "value": 717697
       },
       {
         "name": "Stats.EXP.casino",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 46600
+        "value": 46900
       },
       {
         "name": "Stats.EXP.nightclub",
@@ -673,7 +673,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 4462000
+        "value": 4469500
       },
       {
         "name": "Stats.EXP.virus",
@@ -993,7 +993,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 192239
+        "value": 194053
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2264949
+        "value": 2269166
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1509,7 +1509,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 69992
+        "value": 70634
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
