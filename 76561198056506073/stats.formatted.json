@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 631252
+        "value": 631621
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 102073
+        "value": 102083
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 200532
+        "value": 200534
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 46900
+        "value": 47200
       },
       {
         "name": "Stats.EXP.nightclub",
@@ -697,11 +697,11 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 100
+        "value": 102
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
-        "value": 1
+        "value": 3
       },
       {
         "name": "Stats.Workshop.WorkshopRates",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
-        "value": 2515
+        "value": 2783
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
@@ -1264,7 +1264,15 @@
         "value": 3
       },
       {
+        "name": "Stats.Plaza.Fishing.Stingray",
+        "value": 1
+      },
+      {
         "name": "Stats.Plaza.Fishing.LargeAtlanticCod",
+        "value": 1
+      },
+      {
+        "name": "Stats.Plaza.Fishing.LargeYellowMandarin",
         "value": 1
       },
       {
