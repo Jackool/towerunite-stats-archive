@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1614393713
+        "value": 1614421815
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 2032
+        "value": 2047
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 6808
+        "value": 6864
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -117,7 +117,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesCompleted",
-        "value": 11
+        "value": 12
       },
       {
         "name": "Stats.GameW.BallRace.GLXYCompleted",
@@ -149,7 +149,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesMelons",
-        "value": 477
+        "value": 533
       },
       {
         "name": "Stats.GameW.BallRace.GLXYMelons",
@@ -289,7 +289,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 380915
+        "value": 380992
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 785
+        "value": 795
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 1826443
+        "value": 1835718
       },
       {
         "name": "Stats.EXP.plaza",
@@ -961,7 +961,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 98098
+        "value": 98730
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 2273510
+        "value": 2274713
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1767,6 +1767,10 @@
       },
       {
         "name": "ACH_GW_BR_MIDORICOLLECTOR",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_BR_MEMORIESCOLLECTOR",
         "achieved": 1
       },
       {
