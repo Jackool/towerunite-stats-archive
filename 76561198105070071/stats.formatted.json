@@ -9,15 +9,15 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1614466771
+        "value": 1614472245
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 5.107527256011963
+        "value": 5.0092644691467285
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 6859
+        "value": 6861
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4209192
+        "value": 4213960
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2417622
+        "value": 2419128
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 425815
+        "value": 426105
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -217,15 +217,15 @@
       },
       {
         "name": "Stats.Plaza.Trivia.QuestionsCorrect",
-        "value": 991
+        "value": 996
       },
       {
         "name": "Stats.Plaza.Trivia.FullGame",
-        "value": 486
+        "value": 487
       },
       {
         "name": "Stats.Plaza.Trivia.ComboFire",
-        "value": 285
+        "value": 287
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
@@ -481,27 +481,27 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 6381
+        "value": 6390
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 1486524937
+        "value": 1489935572
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 26419
+        "value": 26449
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
-        "value": 4078
+        "value": 4082
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
-        "value": 1412
+        "value": 1413
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 4473
+        "value": 4499
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -509,7 +509,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.WaterholeComplete",
-        "value": 48
+        "value": 49
       },
       {
         "name": "Stats.GameW.Minigolf.AltitudeComplete",
@@ -521,11 +521,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.EmissionComplete",
-        "value": 20
+        "value": 21
       },
       {
         "name": "Stats.GameW.Minigolf.TreasureCoveComplete",
-        "value": 123
+        "value": 124
       },
       {
         "name": "Stats.GameW.Minigolf.SweetToothComplete",
@@ -545,7 +545,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.WaterholeCoursePar",
-        "value": 32
+        "value": 47
       },
       {
         "name": "Stats.GameW.Minigolf.AltitudeCoursePar",
@@ -553,11 +553,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.EmissionCoursePar",
-        "value": 46
+        "value": 41
       },
       {
         "name": "Stats.GameW.Minigolf.TreasureCoveCoursePar",
-        "value": 38
+        "value": 50
       },
       {
         "name": "Stats.GameW.Minigolf.SweetToothCoursePar",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9552000
+        "value": 9567000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.trivia",
-        "value": 1587300
+        "value": 1589400
       },
       {
         "name": "Stats.EXP.arcade",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.nightclub",
-        "value": 1303180
+        "value": 1395980
       },
       {
         "name": "Stats.EXP.condo",
@@ -681,7 +681,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 25113547
+        "value": 25139992
       },
       {
         "name": "Stats.EXP.lc",
@@ -869,7 +869,7 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.General",
-        "value": 86
+        "value": 87
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Books",
@@ -877,7 +877,7 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Film",
-        "value": 42
+        "value": 43
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Music",
@@ -917,7 +917,7 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Sports",
-        "value": 28
+        "value": 29
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Geography",
@@ -949,7 +949,7 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Comics",
-        "value": 15
+        "value": 16
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Gadgets",
@@ -957,7 +957,7 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Anime",
-        "value": 51
+        "value": 52
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Cartoon",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1620091
+        "value": 1623999
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -997,11 +997,11 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Playtime",
-        "value": 59758
+        "value": 59916
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 337155
+        "value": 337205
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1073,7 +1073,7 @@
       },
       {
         "name": "Stats.Plaza.Trivia.TotalScore",
-        "value": 934550
+        "value": 938150
       },
       {
         "name": "Stats.Plaza.Bowling.PerfectGames",
@@ -2101,7 +2101,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 12268
+        "value": 15336
       }
     ],
     "achievements": [
