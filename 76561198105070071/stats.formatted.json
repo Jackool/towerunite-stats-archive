@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4214626
+        "value": 4218178
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2419666
+        "value": 2420583
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 426167
+        "value": 426419
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 791400
+        "value": 791409
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1150
+        "value": 1154
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9567000
+        "value": 9577000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -661,11 +661,11 @@
       },
       {
         "name": "Stats.EXP.nightclub",
-        "value": 1395980
+        "value": 1420980
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 8446500
+        "value": 8454000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 751684
+        "value": 751686
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 503578
+        "value": 503618
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4330719
+        "value": 4332526
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2101,7 +2101,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 15342
+        "value": 18504
       }
     ],
     "achievements": [
