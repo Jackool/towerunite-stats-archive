@@ -9,15 +9,15 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1614555193
+        "value": 1614574177
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 5.0092644691467285
+        "value": 4.281129837036133
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 6861
+        "value": 6867
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1154
+        "value": 1155
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -481,27 +481,27 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 6390
+        "value": 6409
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 1489935572
+        "value": 1494442948
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 26449
+        "value": 26523
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
-        "value": 4082
+        "value": 4096
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
-        "value": 1413
+        "value": 1420
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 4499
+        "value": 4510
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -509,7 +509,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.WaterholeComplete",
-        "value": 49
+        "value": 50
       },
       {
         "name": "Stats.GameW.Minigolf.AltitudeComplete",
@@ -517,7 +517,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.AlpineComplete",
-        "value": 34
+        "value": 35
       },
       {
         "name": "Stats.GameW.Minigolf.EmissionComplete",
@@ -533,7 +533,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.ForestComplete",
-        "value": 54
+        "value": 55
       },
       {
         "name": "Stats.GameW.Minigolf.KingdomComplete",
@@ -545,7 +545,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.WaterholeCoursePar",
-        "value": 47
+        "value": 43
       },
       {
         "name": "Stats.GameW.Minigolf.AltitudeCoursePar",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.ForestCoursePar",
-        "value": 210
+        "value": 47
       },
       {
         "name": "Stats.GameW.Minigolf.KingdomCoursePar",
@@ -681,7 +681,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 25139992
+        "value": 25222057
       },
       {
         "name": "Stats.EXP.lc",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1623999
+        "value": 1630068
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4332526
+        "value": 4335000
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2005,11 +2005,11 @@
       },
       {
         "name": "Stats.GameW.Minigolf.IslandComplete",
-        "value": 73
+        "value": 74
       },
       {
         "name": "Stats.GameW.Minigolf.IslandCoursePar",
-        "value": 219
+        "value": 46
       },
       {
         "name": "Stats.GameW.Accelerate.PineValleyComplete",
