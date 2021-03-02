@@ -5,19 +5,19 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 41326
+        "value": 41337
       },
       {
         "name": "stat_lastcommand",
-        "value": 1614653683
+        "value": 1614661145
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 4.281129837036133
+        "value": 1.4336143732070923
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 6867
+        "value": 6873
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 57844
+        "value": 57911
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 300837
+        "value": 300934
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -125,7 +125,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitCompleted",
-        "value": 318
+        "value": 319
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroCompleted",
@@ -153,11 +153,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.GLXYMelons",
-        "value": 221599
+        "value": 221612
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
-        "value": 7329
+        "value": 7385
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
@@ -165,19 +165,19 @@
       },
       {
         "name": "Stats.GameW.BallRace.PrismMelons",
-        "value": 10338
+        "value": 10366
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4218478
+        "value": 4218496
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2420745
+        "value": 2420768
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 426477
+        "value": 426480
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -305,11 +305,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2419614
+        "value": 2420064
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1165
+        "value": 1166
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -481,15 +481,15 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 6409
+        "value": 6410
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 1494442948
+        "value": 1495110907
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 26523
+        "value": 26540
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
@@ -501,7 +501,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 4510
+        "value": 4513
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 36248587
+        "value": 36298087
       },
       {
         "name": "Stats.EXP.plaza",
@@ -681,7 +681,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 25222057
+        "value": 25228996
       },
       {
         "name": "Stats.EXP.lc",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2299096
+        "value": 2301252
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1630068
+        "value": 1630915
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4348447
+        "value": 4349013
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
