@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1614668249
+        "value": 1614668928
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 58095
+        "value": 58162
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 301226
+        "value": 301563
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 794313
+        "value": 794315
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1166
+        "value": 1167
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 36368797
+        "value": 36377707
       },
       {
         "name": "Stats.EXP.plaza",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 8479000
+        "value": 8494000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -713,7 +713,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.OasisMelons",
-        "value": 14743
+        "value": 15080
       },
       {
         "name": "Stats.GameW.BallRace.OasisCompletedNoDeath",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2305750
+        "value": 2307643
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4349013
+        "value": 4354968
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
