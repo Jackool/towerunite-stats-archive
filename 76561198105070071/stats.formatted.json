@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1614760980
+        "value": 1614808168
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 58403
+        "value": 58432
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 302063
+        "value": 302183
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 802949
+        "value": 802955
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1178
+        "value": 1180
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 36451312
+        "value": 36462112
       },
       {
         "name": "Stats.EXP.plaza",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 8589000
+        "value": 8599000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -705,7 +705,7 @@
       },
       {
         "name": "Stats.Workshop.WorkshopRates",
-        "value": 59
+        "value": 60
       },
       {
         "name": "Stats.GameW.BallRace.OasisCompleted",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2314157
+        "value": 2315368
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4396150
+        "value": 4399305
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1857,7 +1857,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsMelons",
-        "value": 20074
+        "value": 20194
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompletedNoDeath",
