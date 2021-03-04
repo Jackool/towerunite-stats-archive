@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 58542
+        "value": 58544
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 302285
+        "value": 302291
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -133,7 +133,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.PrismCompleted",
-        "value": 212
+        "value": 213
       },
       {
         "name": "Stats.GameW.BallRace.NimbusMelons",
@@ -165,7 +165,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.PrismMelons",
-        "value": 10387
+        "value": 10393
       },
       {
         "name": "Stats.Plaza.Playtime",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 807382
+        "value": 807397
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1187
+        "value": 1188
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 8626500
+        "value": 8634000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2319944
+        "value": 2320023
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4412185
+        "value": 4416589
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
