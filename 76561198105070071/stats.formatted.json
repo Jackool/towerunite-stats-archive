@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4223151
+        "value": 4228563
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2424768
+        "value": 2427078
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 427193
+        "value": 427262
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9599500
+        "value": 9604500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -1001,11 +1001,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 337540
+        "value": 337795
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 752118
+        "value": 752136
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1985,7 +1985,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 63331
+        "value": 64500
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
