@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 41447
+        "value": 41500
       },
       {
         "name": "stat_lastcommand",
-        "value": 1614927217
+        "value": 1614977973
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 58623
+        "value": 58637
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 302337
+        "value": 302393
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -281,11 +281,11 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 809893
+        "value": 810727
       },
       {
         "name": "Stats.Condo.PartyTime",
-        "value": 392394
+        "value": 395698
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -305,15 +305,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2442745
+        "value": 2448350
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1194
+        "value": 1195
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 25245
+        "value": 25247
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 36536965
+        "value": 36553540
       },
       {
         "name": "Stats.EXP.plaza",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 8706500
+        "value": 8716500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2322852
+        "value": 2323224
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4445277
+        "value": 4451146
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1857,7 +1857,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsMelons",
-        "value": 20239
+        "value": 20295
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompletedNoDeath",
