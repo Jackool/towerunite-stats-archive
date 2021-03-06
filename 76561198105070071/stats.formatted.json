@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1615006671
+        "value": 1615010400
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 58885
+        "value": 58907
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 302794
+        "value": 302800
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -161,7 +161,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
-        "value": 2696
+        "value": 2702
       },
       {
         "name": "Stats.GameW.BallRace.PrismMelons",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4236798
+        "value": 4237367
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2435302
+        "value": 2436649
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 428338
+        "value": 428361
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 810727
+        "value": 810850
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1197
+        "value": 1199
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -381,7 +381,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
-        "value": 2202
+        "value": 2204
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.FancyGhost",
@@ -389,7 +389,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.AirKills",
-        "value": 1884
+        "value": 1887
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.NearTaunts",
@@ -397,19 +397,19 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.TeamWins",
-        "value": 3905
+        "value": 3908
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
-        "value": 1565
+        "value": 1566
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 3339
+        "value": 3340
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 4905
+        "value": 4909
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 36616780
+        "value": 36620740
       },
       {
         "name": "Stats.EXP.plaza",
@@ -657,7 +657,7 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 1322550
+        "value": 1322950
       },
       {
         "name": "Stats.EXP.nightclub",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 8721500
+        "value": 8726500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -685,7 +685,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 8571796
+        "value": 8576371
       },
       {
         "name": "Stats.EXP.zm",
@@ -697,7 +697,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 2659
+        "value": 2660
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -969,11 +969,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2332620
+        "value": 2336865
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 379941
+        "value": 380335
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -1025,11 +1025,11 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4453888
+        "value": 4456076
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
-        "value": 85258
+        "value": 85325
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
