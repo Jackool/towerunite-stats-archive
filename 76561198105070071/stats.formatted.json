@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1614981990
+        "value": 1614990647
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4232085
+        "value": 4233735
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2431797
+        "value": 2432507
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 427827
+        "value": 427898
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9612000
+        "value": 9617000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1827841
+        "value": 1831440
       },
       {
         "name": "Stats.EXP.casino",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 8716500
+        "value": 8719000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -681,7 +681,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 25228996
+        "value": 25250563
       },
       {
         "name": "Stats.EXP.lc",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 337795
+        "value": 339027
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1913,7 +1913,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.BugBytes.BestScore",
-        "value": 433
+        "value": 615
       },
       {
         "name": "Stats.Plaza.Arcade.NewtonApples.BestScore",
@@ -1973,7 +1973,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.BugBytes.BugsDestroyed",
-        "value": 426
+        "value": 701
       },
       {
         "name": "Stats.Plaza.Arcade.PluckAPal.Grabs",
