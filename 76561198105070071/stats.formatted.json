@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1615236354
+        "value": 1615355892
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 59250
+        "value": 59259
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 303325
+        "value": 303339
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -145,7 +145,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MidoriMelons",
-        "value": 4323
+        "value": 4337
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesMelons",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2450622
+        "value": 2450688
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 36801192
+        "value": 36804702
       },
       {
         "name": "Stats.EXP.plaza",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2350750
+        "value": 2351006
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4470081
+        "value": 4470147
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2077,7 +2077,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.DriftTime",
-        "value": 302623
+        "value": 302630
       },
       {
         "name": "Stats.GameW.Accelerate.ItemsGiven",
