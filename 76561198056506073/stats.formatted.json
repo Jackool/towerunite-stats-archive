@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1614421815
+        "value": 1615556809
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 633955
+        "value": 634372
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 102114
+        "value": 102599
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 200540
+        "value": 200549
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 58750
+        "value": 60050
       },
       {
         "name": "Stats.EXP.nightclub",
@@ -697,7 +697,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 125
+        "value": 128
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
-        "value": 4178
+        "value": 4306
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
@@ -1221,7 +1221,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.MurexShellfish",
-        "value": 2
+        "value": 3
       },
       {
         "name": "Stats.Plaza.Fishing.Mussel",
@@ -1337,7 +1337,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Tire",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenBottle",
@@ -1373,7 +1373,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.TrashCanLid",
-        "value": 3
+        "value": 4
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenPottedPlant",
