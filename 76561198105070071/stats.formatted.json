@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4239891
+        "value": 4243582
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2438977
+        "value": 2439216
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 428819
+        "value": 428853
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -197,7 +197,7 @@
       },
       {
         "name": "Stats.Plaza.Markers",
-        "value": 165
+        "value": 166
       },
       {
         "name": "Stats.Plaza.PhotoShoots",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9639500
+        "value": 9642000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -657,7 +657,7 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 1348350
+        "value": 1349350
       },
       {
         "name": "Stats.EXP.nightclub",
@@ -697,7 +697,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 2662
+        "value": 2685
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 503910
+        "value": 503914
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
-        "value": 85448
+        "value": 88164
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
@@ -1737,7 +1737,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenTelevision",
-        "value": 42
+        "value": 43
       },
       {
         "name": "Stats.Plaza.Fishing.Tire",
@@ -1749,11 +1749,11 @@
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenSodaCan",
-        "value": 41
+        "value": 43
       },
       {
         "name": "Stats.Plaza.Fishing.UsedCoffeeCup",
-        "value": 30
+        "value": 31
       },
       {
         "name": "Stats.Plaza.Fishing.Cigs",
@@ -1773,7 +1773,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.TrashBag",
-        "value": 41
+        "value": 42
       },
       {
         "name": "Stats.Plaza.Fishing.PlasticStraw",
@@ -1793,11 +1793,11 @@
       },
       {
         "name": "Stats.Plaza.Fishing.PlasticToyblock",
-        "value": 45
+        "value": 46
       },
       {
         "name": "Stats.Plaza.Fishing.BrokenPottedPlant",
-        "value": 44
+        "value": 45
       },
       {
         "name": "Stats.Plaza.Fishing.ShoppingCart",
@@ -1821,11 +1821,11 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Broom",
-        "value": 41
+        "value": 42
       },
       {
         "name": "Stats.Plaza.Fishing.SoggyCardboardBox",
-        "value": 38
+        "value": 40
       },
       {
         "name": "Stats.Plaza.Minigames.Chainsaw.BestScore",
