@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4239696
+        "value": 4239891
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2438921
+        "value": 2438977
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 428814
+        "value": 428819
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9629500
+        "value": 9639500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -657,7 +657,7 @@
       },
       {
         "name": "Stats.EXP.fishing",
-        "value": 1322950
+        "value": 1348350
       },
       {
         "name": "Stats.EXP.nightclub",
@@ -697,7 +697,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 2660
+        "value": 2662
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
-        "value": 85325
+        "value": 85448
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
@@ -1785,7 +1785,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.WoodenPalette",
-        "value": 43
+        "value": 44
       },
       {
         "name": "Stats.Plaza.Fishing.TrashCanLid",
