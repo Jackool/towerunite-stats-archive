@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4244208
+        "value": 4246310
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2439786
+        "value": 2441469
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 428893
+        "value": 429144
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1216
+        "value": 1217
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9642000
+        "value": 9647000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -661,11 +661,11 @@
       },
       {
         "name": "Stats.EXP.nightclub",
-        "value": 1420980
+        "value": 1435980
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 8781500
+        "value": 8784000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 753192
+        "value": 753227
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4481658
+        "value": 4483165
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2101,7 +2101,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 18504
+        "value": 20389
       }
     ],
     "achievements": [
