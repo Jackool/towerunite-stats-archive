@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4250791
+        "value": 4250973
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2446070
+        "value": 2446220
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 429483
+        "value": 429490
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -245,7 +245,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 6484035
+        "value": 6484510
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 828770
+        "value": 828786
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -309,7 +309,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1223
+        "value": 1224
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 8884000
+        "value": 8899000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 754360
+        "value": 754490
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4525888
+        "value": 4529747
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1145,7 +1145,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 10077870
+        "value": 10078220
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.TripleDiamonds",
