@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 41760
+        "value": 41781
       },
       {
         "name": "stat_lastcommand",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 844608
+        "value": 844820
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2538650
+        "value": 2542049
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 9054000
+        "value": 9061500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -973,7 +973,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 384540
+        "value": 384544
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4594257
+        "value": 4597656
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
