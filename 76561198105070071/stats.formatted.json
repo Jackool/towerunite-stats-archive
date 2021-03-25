@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 42010
+        "value": 42169
       },
       {
         "name": "stat_lastcommand",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4259273
+        "value": 4259820
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2452264
+        "value": 2452625
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 430511
+        "value": 430603
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -281,11 +281,11 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 855404
+        "value": 859727
       },
       {
         "name": "Stats.Condo.PartyTime",
-        "value": 423324
+        "value": 427957
       },
       {
         "name": "Stats.Condo.DrunkTime",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2571713
+        "value": 2599297
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 25349
+        "value": 25401
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 9221500
+        "value": 9234000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 72343
+        "value": 72391
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
-        "value": 31992
+        "value": 32204
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4651145
+        "value": 4678729
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2041,7 +2041,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.MelonBoosts",
-        "value": 1762
+        "value": 1765
       },
       {
         "name": "Stats.GameW.Accelerate.BirbShieldGrabs",
@@ -2077,11 +2077,11 @@
       },
       {
         "name": "Stats.GameW.Accelerate.DriftTime",
-        "value": 302665
+        "value": 302667
       },
       {
         "name": "Stats.GameW.Accelerate.ItemsGiven",
-        "value": 1851
+        "value": 1854
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
