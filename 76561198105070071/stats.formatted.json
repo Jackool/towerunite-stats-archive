@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1616606074
+        "value": 1616646371
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 59931
+        "value": 59934
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 304265
+        "value": 304271
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4259820
+        "value": 4260681
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2452625
+        "value": 2452891
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 430603
+        "value": 430666
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -617,11 +617,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 37092689
+        "value": 37093679
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9674500
+        "value": 9677000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 9234000
+        "value": 9239000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -709,11 +709,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.OasisCompleted",
-        "value": 186
+        "value": 187
       },
       {
         "name": "Stats.GameW.BallRace.OasisMelons",
-        "value": 15376
+        "value": 15382
       },
       {
         "name": "Stats.GameW.BallRace.OasisCompletedNoDeath",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2373658
+        "value": 2373752
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 505298
+        "value": 505440
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
