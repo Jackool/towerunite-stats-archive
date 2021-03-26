@@ -9,14 +9,14 @@ URI encoding = 'ISO-8859-1'
 iconv UTF-8 -> ISO-8859-1
 iconv outlen=294 inlen=147
 converted 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198105070071' (ISO-8859-1) -> 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198105070071' (UTF-8)
---2021-03-26 00:00:02--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198105070071
+--2021-03-26 02:00:02--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198105070071
 Resolving api.steampowered.com (api.steampowered.com)... 104.64.155.245
 Caching api.steampowered.com => 104.64.155.245
 Connecting to api.steampowered.com (api.steampowered.com)|104.64.155.245|:443... connected.
 Created socket 4.
-Releasing 0x000055ae0e3eb760 (new refcount 1).
+Releasing 0x000055c90ede5760 (new refcount 1).
 Initiating SSL handshake.
-Handshake successful; connected socket 4 to SSL handle 0x000055ae0e3eb950
+Handshake successful; connected socket 4 to SSL handle 0x000055c90ede5950
 certificate:
   subject: CN=store.steampowered.com,O=Valve Corp,L=Bellevue,ST=Washington,C=US,serialNumber=602 290 773,jurisdictionST=Washington,jurisdictionC=US,businessCategory=Private Organization
   issuer:  CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US
@@ -36,8 +36,8 @@ HTTP request sent, awaiting response...
 HTTP/1.1 200 OK
 Content-Type: application/json; charset=UTF-8
 Vary: Accept-Encoding
-Expires: Fri, 26 Mar 2021 04:05:28 GMT
-Date: Fri, 26 Mar 2021 04:00:28 GMT
+Expires: Fri, 26 Mar 2021 06:05:28 GMT
+Date: Fri, 26 Mar 2021 06:00:28 GMT
 Transfer-Encoding:  chunked
 Connection: keep-alive
 Connection: Transfer-Encoding
@@ -47,8 +47,8 @@ Connection: Transfer-Encoding
   HTTP/1.1 200 OK
   Content-Type: application/json; charset=UTF-8
   Vary: Accept-Encoding
-  Expires: Fri, 26 Mar 2021 04:05:28 GMT
-  Date: Fri, 26 Mar 2021 04:00:28 GMT
+  Expires: Fri, 26 Mar 2021 06:05:28 GMT
+  Date: Fri, 26 Mar 2021 06:00:28 GMT
   Transfer-Encoding:  chunked
   Connection: keep-alive
   Connection: Transfer-Encoding
@@ -57,8 +57,8 @@ URI content encoding = 'UTF-8'
 Length: unspecified [application/json]
 Saving to: '/dev/stdout'
 
-     0K .......... .......... .......... .......... .......... 3.09M
-    50K ..                                                     3837G=0.02s
+     0K .......... .......... .......... .......... .......... 3.81M
+    50K ..                                                     3837G=0.01s
 
-2021-03-26 00:00:02 (3.22 MB/s) - '/dev/stdout' saved [53260]
+2021-03-26 02:00:02 (3.97 MB/s) - '/dev/stdout' saved [53260]
 
