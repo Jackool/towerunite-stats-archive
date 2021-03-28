@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 42195
+        "value": 42197
       },
       {
         "name": "stat_lastcommand",
-        "value": 1616896792
+        "value": 1616897554
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 60178
+        "value": 60205
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 304677
+        "value": 304680
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -117,7 +117,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesCompleted",
-        "value": 176
+        "value": 177
       },
       {
         "name": "Stats.GameW.BallRace.GLXYCompleted",
@@ -149,7 +149,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesMelons",
-        "value": 4602
+        "value": 4603
       },
       {
         "name": "Stats.GameW.BallRace.GLXYMelons",
@@ -305,11 +305,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2609516
+        "value": 2609657
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1289
+        "value": 1290
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -617,11 +617,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 37218816
+        "value": 37228476
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9752000
+        "value": 9764500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2382577
+        "value": 2384002
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4735910
+        "value": 4736489
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1709,11 +1709,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompleted",
-        "value": 161
+        "value": 162
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonMelons",
-        "value": 1182
+        "value": 1184
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompletedNoDeath",
