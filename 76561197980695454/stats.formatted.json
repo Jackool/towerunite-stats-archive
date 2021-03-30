@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 16471
+        "value": 16501
       },
       {
         "name": "stat_units",
@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617076799
+        "value": 1617077657
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -97,11 +97,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 1660
+        "value": 1698
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 4353
+        "value": 4501
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -113,7 +113,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseCompleted",
-        "value": 12
+        "value": 13
       },
       {
         "name": "Stats.GameW.BallRace.MidoriCompleted",
@@ -145,7 +145,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseMelons",
-        "value": 716
+        "value": 777
       },
       {
         "name": "Stats.GameW.BallRace.MidoriMelons",
@@ -305,7 +305,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 1025766
+        "value": 1027397
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 2097
+        "value": 2109
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -577,7 +577,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseCompletedNoDeath",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.GameW.BallRace.GLXYCompletedNoDeath",
@@ -597,7 +597,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 2204855
+        "value": 2225765
       },
       {
         "name": "Stats.EXP.plaza",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 3700000
+        "value": 3702500
       },
       {
         "name": "Stats.EXP.virus",
@@ -925,7 +925,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 78938
+        "value": 80577
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1574408
+        "value": 1576039
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1433,11 +1433,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompleted",
-        "value": 18
+        "value": 19
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonMelons",
-        "value": 266
+        "value": 284
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompletedNoDeath",
@@ -1561,11 +1561,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompleted",
-        "value": 17
+        "value": 18
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsMelons",
-        "value": 932
+        "value": 1001
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompletedNoDeath",
