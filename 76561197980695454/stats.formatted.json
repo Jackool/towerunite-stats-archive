@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1616992031
+        "value": 1617076799
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 3.8535654544830322
+        "value": 4.328786849975586
       },
       {
         "name": "Stats.Golf.NumOOB",
@@ -473,19 +473,19 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 122
+        "value": 126
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 84115640
+        "value": 85158756
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 1125
+        "value": 1136
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
-        "value": 94
+        "value": 97
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
@@ -493,7 +493,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 316
+        "value": 323
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -501,7 +501,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.WaterholeComplete",
-        "value": 7
+        "value": 8
       },
       {
         "name": "Stats.GameW.Minigolf.AltitudeComplete",
@@ -537,7 +537,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.WaterholeCoursePar",
-        "value": 50
+        "value": 44
       },
       {
         "name": "Stats.GameW.Minigolf.AltitudeCoursePar",
@@ -597,7 +597,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 2186090
+        "value": 2204855
       },
       {
         "name": "Stats.EXP.plaza",
@@ -653,7 +653,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 1069830
+        "value": 1090468
       },
       {
         "name": "Stats.EXP.lc",
@@ -933,7 +933,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 77100
+        "value": 78464
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
@@ -2567,6 +2567,10 @@
       },
       {
         "name": "ACH_GW_MGOLF_WATERHOLEHIO11",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_MGOLF_WATERHOLEHIO18",
         "achieved": 1
       },
       {
