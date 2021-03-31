@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617162571
+        "value": 1617170408
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4307742
+        "value": 4314310
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2493469
+        "value": 2496356
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 437150
+        "value": 437975
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9807000
+        "value": 9827000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.nightclub",
-        "value": 1445980
+        "value": 1455980
       },
       {
         "name": "Stats.EXP.condo",
@@ -685,7 +685,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 9036572
+        "value": 9056072
       },
       {
         "name": "Stats.EXP.zm",
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 757909
+        "value": 758361
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -2101,7 +2101,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 22335
+        "value": 23696
       }
     ],
     "achievements": [
