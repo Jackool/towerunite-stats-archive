@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617077657
+        "value": 1617248345
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -97,11 +97,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 1698
+        "value": 1724
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 4501
+        "value": 4556
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -133,7 +133,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroCompleted",
-        "value": 11
+        "value": 12
       },
       {
         "name": "Stats.GameW.BallRace.PrismCompleted",
@@ -165,7 +165,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
-        "value": 323
+        "value": 361
       },
       {
         "name": "Stats.GameW.BallRace.PrismMelons",
@@ -597,7 +597,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 2225765
+        "value": 2247941
       },
       {
         "name": "Stats.EXP.plaza",
@@ -925,7 +925,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 80577
+        "value": 81815
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1433,11 +1433,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompleted",
-        "value": 19
+        "value": 20
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonMelons",
-        "value": 284
+        "value": 301
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompletedNoDeath",
