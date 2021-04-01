@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617263054
+        "value": 1617265365
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4317283
+        "value": 4320916
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2499078
+        "value": 2504131
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 438632
+        "value": 438971
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9839500
+        "value": 9844500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -637,7 +637,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1834958
+        "value": 1836068
       },
       {
         "name": "Stats.EXP.casino",
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 342538
+        "value": 344362
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1021,7 +1021,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 507014
+        "value": 507040
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4818883
+        "value": 4818885
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1989,7 +1989,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 66720
+        "value": 70452
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -2001,7 +2001,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.IceCave.TilesLit",
-        "value": 293
+        "value": 517
       },
       {
         "name": "Stats.Plaza.Arcade.LonelyGun.TargetsHit",
@@ -3707,6 +3707,10 @@
       },
       {
         "name": "ACH_PLZ_ARCADE_TORNADOCOWS",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_ICECAVELIGHTEMUP",
         "achieved": 1
       },
       {
