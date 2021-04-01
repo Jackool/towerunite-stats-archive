@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617229614
+        "value": 1617256718
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4315278
+        "value": 4316932
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2498227
+        "value": 2499032
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 438409
+        "value": 438618
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 12589565
+        "value": 12609565
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -230,6 +230,10 @@
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
         "value": 42071
+      },
+      {
+        "name": "Stats.Plaza.Casino.Poker.TotalUnitsPlayed",
+        "value": 5000
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
@@ -281,7 +285,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 882557
+        "value": 882619
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -305,11 +309,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2617007
+        "value": 2617010
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1341
+        "value": 1342
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -621,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9829500
+        "value": 9832000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,11 +637,11 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1833263
+        "value": 1833420
       },
       {
         "name": "Stats.EXP.casino",
-        "value": 1303000
+        "value": 1304000
       },
       {
         "name": "Stats.EXP.tderby",
@@ -693,7 +697,7 @@
       },
       {
         "name": "Stats.EXP.accel",
-        "value": 1727931
+        "value": 1741171
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
@@ -965,7 +969,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 72391
+        "value": 76623
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
@@ -1001,11 +1005,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 341830
+        "value": 342538
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 758361
+        "value": 758419
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1025,7 +1029,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4817154
+        "value": 4817686
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1953,7 +1957,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.SalmonSays.LevelReached",
-        "value": 12
+        "value": 13
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
@@ -2017,11 +2021,11 @@
       },
       {
         "name": "Stats.GameW.Accelerate.BedzoomComplete",
-        "value": 8
+        "value": 16
       },
       {
         "name": "Stats.GameW.Accelerate.SunriseIslesComplete",
-        "value": 7
+        "value": 8
       },
       {
         "name": "Stats.GameW.Accelerate.WishyWashyComplete",
@@ -2041,7 +2045,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.MelonBoosts",
-        "value": 1765
+        "value": 2302
       },
       {
         "name": "Stats.GameW.Accelerate.BirbShieldGrabs",
@@ -2077,11 +2081,11 @@
       },
       {
         "name": "Stats.GameW.Accelerate.DriftTime",
-        "value": 302667
+        "value": 303022
       },
       {
         "name": "Stats.GameW.Accelerate.ItemsGiven",
-        "value": 1854
+        "value": 2198
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
@@ -2359,6 +2363,10 @@
       },
       {
         "name": "ACH_PLZ_CASINO_SOREFINGER",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_CASINO_BIGBUCKS",
         "achieved": 1
       },
       {
@@ -3766,11 +3774,19 @@
         "achieved": 1
       },
       {
+        "name": "ACH_GW_ACCEL_BEDZOOMMASTERED",
+        "achieved": 1
+      },
+      {
         "name": "ACH_GW_ACCEL_SUNRISEISLESCOMPLETE",
         "achieved": 1
       },
       {
         "name": "ACH_GW_ACCEL_SUNRISEISLESTROPHY",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_ACCEL_SUNRISEISLESMASTERED",
         "achieved": 1
       },
       {
