@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617327067
+        "value": 1617333913
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4324780
+        "value": 4327640
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2507706
+        "value": 2511263
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 439600
+        "value": 440452
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -257,7 +257,7 @@
       },
       {
         "name": "Stats.Plaza.Bowling.Strikes",
-        "value": 149
+        "value": 150
       },
       {
         "name": "Stats.Plaza.Bowling.Spares",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1350
+        "value": 1354
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9854500
+        "value": 9864500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -637,7 +637,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1836373
+        "value": 1836698
       },
       {
         "name": "Stats.EXP.casino",
@@ -649,7 +649,7 @@
       },
       {
         "name": "Stats.EXP.bowling",
-        "value": 1305550
+        "value": 1306750
       },
       {
         "name": "Stats.EXP.theater",
@@ -1017,11 +1017,11 @@
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
-        "value": 76048
+        "value": 76266
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 507698
+        "value": 507948
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4832032
+        "value": 4833696
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
