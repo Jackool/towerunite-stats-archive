@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617287979
+        "value": 1617375527
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -89,11 +89,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 488
+        "value": 541
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 1465
+        "value": 1569
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -117,11 +117,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.GLXYCompleted",
-        "value": 4
+        "value": 5
       },
       {
         "name": "Stats.GameW.BallRace.SummitCompleted",
-        "value": 3
+        "value": 4
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroCompleted",
@@ -137,7 +137,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseMelons",
-        "value": 95
+        "value": 111
       },
       {
         "name": "Stats.GameW.BallRace.MidoriMelons",
@@ -149,11 +149,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.GLXYMelons",
-        "value": 119
+        "value": 148
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
-        "value": 108
+        "value": 137
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
@@ -556,8 +556,12 @@
         "value": 1
       },
       {
+        "name": "Stats.GameW.BallRace.SummitCompletedNoDeath",
+        "value": 1
+      },
+      {
         "name": "Stats.EXP.br",
-        "value": 604492
+        "value": 639462
       },
       {
         "name": "Stats.EXP.plaza",
@@ -841,7 +845,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 26516
+        "value": 28388
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1385,11 +1389,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompleted",
-        "value": 7
+        "value": 8
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonMelons",
-        "value": 137
+        "value": 157
       },
       {
         "name": "Stats.Plaza.Fishing.AllKnowingPufferfish",
@@ -1533,7 +1537,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsMelons",
-        "value": 276
+        "value": 286
       },
       {
         "name": "Stats.GameW.ZombieMassacre.VillagePlays",
@@ -2231,6 +2235,10 @@
       },
       {
         "name": "ACH_GW_BR_PARADISECOMPLETEDNODEATH",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_GW_BR_SUMMITCOMPLETEDNODEATH",
         "achieved": 1
       },
       {
