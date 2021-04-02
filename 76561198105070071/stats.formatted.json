@@ -9,11 +9,11 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617393574
+        "value": 1617395761
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 5.569632530212402
+        "value": 3.3838768005371094
       },
       {
         "name": "Stats.Golf.NumOOB",
@@ -485,27 +485,27 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 6469
+        "value": 6474
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 1511076989
+        "value": 1513884852
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 26794
+        "value": 26831
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
-        "value": 4140
+        "value": 4143
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
-        "value": 1430
+        "value": 1432
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 4573
+        "value": 4586
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -685,7 +685,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 25490261
+        "value": 25515506
       },
       {
         "name": "Stats.EXP.lc",
@@ -981,7 +981,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1649995
+        "value": 1652846
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
