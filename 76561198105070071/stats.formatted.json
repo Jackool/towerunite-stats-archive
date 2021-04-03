@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617407720
+        "value": 1617414867
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4336835
+        "value": 4344200
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2519691
+        "value": 2525049
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 441859
+        "value": 442368
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -261,7 +261,7 @@
       },
       {
         "name": "Stats.Plaza.Bowling.Spares",
-        "value": 289
+        "value": 290
       },
       {
         "name": "Stats.Plaza.Bowling.Wins",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1360
+        "value": 1362
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -385,7 +385,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
-        "value": 2413
+        "value": 2414
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.FancyGhost",
@@ -393,7 +393,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.AirKills",
-        "value": 2065
+        "value": 2067
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.NearTaunts",
@@ -401,23 +401,23 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.TeamWins",
-        "value": 4348
+        "value": 4356
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
-        "value": 1731
+        "value": 1733
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 3643
+        "value": 3652
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 5378
+        "value": 5386
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
-        "value": 459
+        "value": 460
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.BirbKills",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9894500
+        "value": 9902000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -689,7 +689,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 9393452
+        "value": 9407642
       },
       {
         "name": "Stats.EXP.zm",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 409622
+        "value": 410302
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 348958
+        "value": 349164
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1017,19 +1017,19 @@
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
-        "value": 76266
+        "value": 78390
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 508130
+        "value": 508138
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 52703
+        "value": 52803
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4839197
+        "value": 4839948
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1085,7 +1085,7 @@
       },
       {
         "name": "Stats.Plaza.Bowling.TotalScore",
-        "value": 15708
+        "value": 15718
       },
       {
         "name": "Stats.Plaza.Bowling.BestScore",
@@ -1989,7 +1989,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 73628
+        "value": 74390
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -2105,7 +2105,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 23696
+        "value": 24635
       }
     ],
     "achievements": [
