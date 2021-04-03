@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617449119
+        "value": 1617457148
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4344459
+        "value": 4352864
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2525586
+        "value": 2528926
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 442459
+        "value": 442946
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9909500
+        "value": 9929500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -657,7 +657,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 1981710
+        "value": 2006378
       },
       {
         "name": "Stats.EXP.fishing",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.nightclub",
-        "value": 1470980
+        "value": 1500980
       },
       {
         "name": "Stats.EXP.condo",
@@ -1017,15 +1017,15 @@
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
-        "value": 78390
+        "value": 78422
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 508142
+        "value": 509094
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 52803
+        "value": 52979
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1045,7 +1045,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.BalloonsPopped",
-        "value": 4063
+        "value": 4205
       },
       {
         "name": "Stats.Plaza.Minigames.PlanesDowned",
@@ -1101,7 +1101,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Balloon.TotalScore",
-        "value": 462695
+        "value": 479140
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
@@ -2105,7 +2105,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 24635
+        "value": 30090
       }
     ],
     "achievements": [
