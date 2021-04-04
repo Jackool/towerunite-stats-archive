@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617375527
+        "value": 1617550213
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -53,7 +53,7 @@
       },
       {
         "name": "Stats.Stores.Seasonal.NumVisits",
-        "value": 11
+        "value": 14
       },
       {
         "name": "Stats.Stores.Bowling.NumVisits",
@@ -89,11 +89,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 541
+        "value": 548
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 1569
+        "value": 1576
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -165,19 +165,19 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 734475
+        "value": 734774
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 235923
+        "value": 236369
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 23685
+        "value": 23713
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 213
+        "value": 216
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -561,7 +561,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 639462
+        "value": 643422
       },
       {
         "name": "Stats.EXP.plaza",
@@ -845,7 +845,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 28388
+        "value": 28614
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1393,7 +1393,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonMelons",
-        "value": 157
+        "value": 164
       },
       {
         "name": "Stats.Plaza.Fishing.AllKnowingPufferfish",
