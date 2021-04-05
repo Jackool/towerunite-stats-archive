@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617602420
+        "value": 1617603877
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 32269
+        "value": 32326
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4356671
+        "value": 4358692
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2534430
+        "value": 2536087
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 443949
+        "value": 444297
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -257,7 +257,7 @@
       },
       {
         "name": "Stats.Plaza.Bowling.Strikes",
-        "value": 150
+        "value": 151
       },
       {
         "name": "Stats.Plaza.Bowling.Spares",
@@ -281,7 +281,7 @@
       },
       {
         "name": "Stats.Plaza.TypingDerby.Words",
-        "value": 27017
+        "value": 27088
       },
       {
         "name": "Stats.Condo.TVTime",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9934500
+        "value": 9937000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -637,7 +637,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1843054
+        "value": 1843661
       },
       {
         "name": "Stats.EXP.casino",
@@ -645,11 +645,11 @@
       },
       {
         "name": "Stats.EXP.tderby",
-        "value": 1219370
+        "value": 1224020
       },
       {
         "name": "Stats.EXP.bowling",
-        "value": 1308550
+        "value": 1309480
       },
       {
         "name": "Stats.EXP.theater",
@@ -689,7 +689,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 9554005
+        "value": 9554605
       },
       {
         "name": "Stats.EXP.zm",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 417414
+        "value": 417441
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -1005,19 +1005,19 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 349269
+        "value": 349886
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 759148
+        "value": 759186
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
-        "value": 32416
+        "value": 32522
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
-        "value": 78422
+        "value": 78782
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
@@ -1085,7 +1085,7 @@
       },
       {
         "name": "Stats.Plaza.Bowling.TotalScore",
-        "value": 15718
+        "value": 15740
       },
       {
         "name": "Stats.Plaza.Bowling.BestScore",
@@ -1897,7 +1897,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Skeeball.BestScore",
-        "value": 44050
+        "value": 60100
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAfish.BestScore",
@@ -1961,7 +1961,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
-        "value": 4727
+        "value": 4735
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
@@ -1989,7 +1989,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 74390
+        "value": 75269
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -2001,7 +2001,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.IceCave.TilesLit",
-        "value": 517
+        "value": 616
       },
       {
         "name": "Stats.Plaza.Arcade.LonelyGun.TargetsHit",
@@ -2105,7 +2105,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 30090
+        "value": 30727
       }
     ],
     "achievements": [
