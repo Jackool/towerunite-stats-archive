@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 42230
+        "value": 42260
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617681630
+        "value": 1617688819
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -385,43 +385,43 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
-        "value": 2514
+        "value": 2547
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.FancyGhost",
-        "value": 173
+        "value": 177
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.AirKills",
-        "value": 2126
+        "value": 2155
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.NearTaunts",
-        "value": 146
+        "value": 154
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.TeamWins",
-        "value": 4569
+        "value": 4655
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
-        "value": 1795
+        "value": 1831
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 3834
+        "value": 3877
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 5619
+        "value": 5710
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
-        "value": 472
+        "value": 490
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.BirbKills",
-        "value": 71
+        "value": 75
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TeslaZapKills",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.MaxRank",
-        "value": 1470
+        "value": 1491
       },
       {
         "name": "Stats.EXP.br",
@@ -689,7 +689,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 9795648
+        "value": 9947043
       },
       {
         "name": "Stats.EXP.zm",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 425441
+        "value": 431710
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
