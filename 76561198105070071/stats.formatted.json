@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617691901
+        "value": 1617735341
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4361116
+        "value": 4364045
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2538066
+        "value": 2540331
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 444769
+        "value": 445272
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -197,7 +197,7 @@
       },
       {
         "name": "Stats.Plaza.Markers",
-        "value": 167
+        "value": 168
       },
       {
         "name": "Stats.Plaza.PhotoShoots",
@@ -249,7 +249,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 6484510
+        "value": 6485285
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9939500
+        "value": 9944500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -649,7 +649,7 @@
       },
       {
         "name": "Stats.EXP.bowling",
-        "value": 1309480
+        "value": 1309780
       },
       {
         "name": "Stats.EXP.theater",
@@ -669,7 +669,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 9561500
+        "value": 9564000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1005,11 +1005,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 350734
+        "value": 350742
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 759186
+        "value": 759525
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1017,11 +1017,11 @@
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
-        "value": 78782
+        "value": 78826
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 509224
+        "value": 509380
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1149,7 +1149,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 10078220
+        "value": 10078470
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned.TripleDiamonds",
@@ -2105,7 +2105,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 30741
+        "value": 31152
       }
     ],
     "achievements": [
