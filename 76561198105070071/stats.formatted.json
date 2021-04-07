@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617767183
+        "value": 1617774290
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 61328
+        "value": 61334
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 305944
+        "value": 305950
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -141,7 +141,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseMelons",
-        "value": 4436
+        "value": 4442
       },
       {
         "name": "Stats.GameW.BallRace.MidoriMelons",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4366429
+        "value": 4369741
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2542742
+        "value": 2546024
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 445533
+        "value": 446263
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -269,19 +269,19 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Eliminations",
-        "value": 129
+        "value": 135
       },
       {
         "name": "Stats.Plaza.LaserTag.Tags",
-        "value": 347
+        "value": 364
       },
       {
         "name": "Stats.Plaza.LaserTag.Wins",
-        "value": 128
+        "value": 130
       },
       {
         "name": "Stats.Plaza.TypingDerby.Words",
-        "value": 27088
+        "value": 27656
       },
       {
         "name": "Stats.Condo.TVTime",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1381
+        "value": 1382
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -625,11 +625,11 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9949500
+        "value": 9957000
       },
       {
         "name": "Stats.EXP.ltag",
-        "value": 797842
+        "value": 811267
       },
       {
         "name": "Stats.EXP.trivia",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.tderby",
-        "value": 1224020
+        "value": 1254350
       },
       {
         "name": "Stats.EXP.bowling",
@@ -669,7 +669,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 9594000
+        "value": 9599000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -685,7 +685,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 25575987
+        "value": 25577487
       },
       {
         "name": "Stats.EXP.lc",
@@ -973,7 +973,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2428563
+        "value": 2428709
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Playtime",
-        "value": 33275
+        "value": 33972
       },
       {
         "name": "Stats.Plaza.Trivia.Playtime",
@@ -1005,7 +1005,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 350742
+        "value": 350769
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
-        "value": 32522
+        "value": 33209
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
@@ -1021,15 +1021,15 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 510008
+        "value": 510164
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 52979
+        "value": 52983
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4862751
+        "value": 4865066
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1069,7 +1069,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.TotalScore",
-        "value": 27405
+        "value": 28830
       },
       {
         "name": "Stats.Plaza.Trivia.BestScore",
@@ -2105,7 +2105,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 31162
+        "value": 31209
       }
     ],
     "achievements": [
