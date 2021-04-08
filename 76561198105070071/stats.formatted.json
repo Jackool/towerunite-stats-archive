@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4373265
+        "value": 4374798
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2549445
+        "value": 2550121
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 447160
+        "value": 447231
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9964500
+        "value": 9967000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -701,7 +701,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 2686
+        "value": 2688
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -1033,7 +1033,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
-        "value": 88311
+        "value": 88507
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
