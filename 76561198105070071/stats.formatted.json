@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617904785
+        "value": 1617911153
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 61483
+        "value": 61489
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 306193
+        "value": 306199
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -109,7 +109,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseCompleted",
-        "value": 174
+        "value": 175
       },
       {
         "name": "Stats.GameW.BallRace.MidoriCompleted",
@@ -141,7 +141,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseMelons",
-        "value": 4453
+        "value": 4459
       },
       {
         "name": "Stats.GameW.BallRace.MidoriMelons",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4382090
+        "value": 4385695
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2558622
+        "value": 2562982
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 448421
+        "value": 449376
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -197,7 +197,7 @@
       },
       {
         "name": "Stats.Plaza.Markers",
-        "value": 168
+        "value": 169
       },
       {
         "name": "Stats.Plaza.PhotoShoots",
@@ -277,7 +277,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Tags",
-        "value": 364
+        "value": 366
       },
       {
         "name": "Stats.Plaza.LaserTag.Wins",
@@ -625,15 +625,15 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 38215584
+        "value": 38223969
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 9984500
+        "value": 9999500
       },
       {
         "name": "Stats.EXP.ltag",
-        "value": 811267
+        "value": 814582
       },
       {
         "name": "Stats.EXP.trivia",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2435941
+        "value": 2436289
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Playtime",
-        "value": 33972
+        "value": 34086
       },
       {
         "name": "Stats.Plaza.Trivia.Playtime",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 511384
+        "value": 511490
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
