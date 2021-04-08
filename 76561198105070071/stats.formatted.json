@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4380936
+        "value": 4382090
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2556613
+        "value": 2558622
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 448041
+        "value": 448421
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 511380
+        "value": 511384
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -2109,7 +2109,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 31296
+        "value": 31406
       }
     ],
     "achievements": [
