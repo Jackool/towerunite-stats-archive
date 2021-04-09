@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 42270
+        "value": 42273
       },
       {
         "name": "stat_lastcommand",
-        "value": 1617917011
+        "value": 1617926407
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4390661
+        "value": 4390946
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2568736
+        "value": 2569101
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 450267
+        "value": 450365
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -289,7 +289,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 887887
+        "value": 888339
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2618233
+        "value": 2619250
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -321,7 +321,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 25433
+        "value": 25434
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -1025,7 +1025,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 511564
+        "value": 511580
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1033,7 +1033,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4870496
+        "value": 4871513
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
