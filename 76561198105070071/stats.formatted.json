@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1618019975
+        "value": 1618020604
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 61838
+        "value": 61846
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 306501
+        "value": 306502
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -161,7 +161,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
-        "value": 3027
+        "value": 3028
       },
       {
         "name": "Stats.GameW.BallRace.PrismMelons",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 38549836
+        "value": 38557742
       },
       {
         "name": "Stats.EXP.plaza",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2451471
+        "value": 2451927
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
