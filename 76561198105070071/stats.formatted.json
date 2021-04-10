@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1618070400
+        "value": 1618075823
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4402277
+        "value": 4404385
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2579723
+        "value": 2580662
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 451256
+        "value": 451343
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -445,7 +445,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.BladeTrapKills",
-        "value": 1239
+        "value": 1267
       },
       {
         "name": "Stats.GameW.ZombieMassacre.ZombieDogsKilled",
@@ -453,11 +453,11 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.DaysSurvived",
-        "value": 622
+        "value": 623
       },
       {
         "name": "Stats.GameW.ZombieMassacre.WeaponPickups",
-        "value": 6649
+        "value": 7488
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TeamMembersSaved",
@@ -465,7 +465,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.InfectedKilled",
-        "value": 64549
+        "value": 64720
       },
       {
         "name": "Stats.GameW.ZombieMassacre.MutantsKilled",
@@ -473,15 +473,15 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Combos",
-        "value": 2718
+        "value": 2730
       },
       {
         "name": "Stats.GameW.ZombieMassacre.RetroGuitarKills",
-        "value": 2211
+        "value": 2220
       },
       {
         "name": "Stats.GameW.ZombieMassacre.MeleeWeaponKills",
-        "value": 14264
+        "value": 14288
       },
       {
         "name": "Stats.GameW.ZombieMassacre.CameraFlashKills",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10032000
+        "value": 10037000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1847543
+        "value": 1849790
       },
       {
         "name": "Stats.EXP.casino",
@@ -697,7 +697,7 @@
       },
       {
         "name": "Stats.EXP.zm",
-        "value": 2700576
+        "value": 2721636
       },
       {
         "name": "Stats.EXP.accel",
@@ -753,7 +753,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.RammingShieldKills",
-        "value": 823
+        "value": 865
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TransplantKills",
@@ -773,7 +773,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Kills",
-        "value": 78071
+        "value": 78242
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.BoltActionRifle.Kills",
@@ -805,7 +805,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Handgun.Kills",
-        "value": 4724
+        "value": 4731
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Kimber.Kills",
@@ -813,11 +813,11 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.LaserRifle.Kills",
-        "value": 3908
+        "value": 3937
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.M4A1.Kills",
-        "value": 6376
+        "value": 6389
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Magnum.Kills",
@@ -833,7 +833,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Spas12.Kills",
-        "value": 6027
+        "value": 6055
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.TommyGun.Kills",
@@ -845,7 +845,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.Axe.Kills",
-        "value": 894
+        "value": 909
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Weapons.BaseballBat.Kills",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
-        "value": 291901
+        "value": 318720
       },
       {
         "name": "Stats.Plaza.LaserTag.Playtime",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 354732
+        "value": 356148
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1165,7 +1165,7 @@
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TotalScore",
-        "value": 4412190
+        "value": 4421240
       },
       {
         "name": "Stats.GameW.ZombieMassacre.BestScore",
@@ -1993,7 +1993,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 85848
+        "value": 91225
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -2105,7 +2105,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3319978
+        "value": 3324978
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
