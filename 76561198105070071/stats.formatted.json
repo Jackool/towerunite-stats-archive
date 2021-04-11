@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1618138435
+        "value": 1618163635
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4417001
+        "value": 4417426
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2584107
+        "value": 2585084
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 451713
+        "value": 451892
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 2006378
+        "value": 2010818
       },
       {
         "name": "Stats.EXP.fishing",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 767441
+        "value": 767453
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 53108
+        "value": 53278
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -2105,7 +2105,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3340157
+        "value": 3345157
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
