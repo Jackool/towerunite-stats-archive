@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1618219219
+        "value": 1618235329
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -165,15 +165,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 748106
+        "value": 748327
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 238835
+        "value": 238966
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 23922
+        "value": 23938
       },
       {
         "name": "Stats.Plaza.Store.Talks",
@@ -577,7 +577,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1534518
+        "value": 1534558
       },
       {
         "name": "Stats.EXP.casino",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.accel",
-        "value": 187203
+        "value": 188193
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
@@ -841,7 +841,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 12705
+        "value": 13186
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
@@ -873,7 +873,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 351555
+        "value": 351674
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1697,7 +1697,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.WishyWashyComplete",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.GameW.Accelerate.DamagedByItems",
@@ -1713,7 +1713,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.MelonBoosts",
-        "value": 470
+        "value": 531
       },
       {
         "name": "Stats.GameW.Accelerate.BirbShieldGrabs",
@@ -1749,11 +1749,11 @@
       },
       {
         "name": "Stats.GameW.Accelerate.DriftTime",
-        "value": 21904
+        "value": 22455
       },
       {
         "name": "Stats.GameW.Accelerate.ItemsGiven",
-        "value": 756
+        "value": 794
       },
       {
         "name": "Stats.Plaza.Halloween.GhoulCoinsCollected",
