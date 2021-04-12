@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 13332
+        "value": 13348
       },
       {
         "name": "stat_lastcommand",
-        "value": 1618214370
+        "value": 1618219219
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -165,15 +165,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 743934
+        "value": 748106
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 238460
+        "value": 238835
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 23872
+        "value": 23922
       },
       {
         "name": "Stats.Plaza.Store.Talks",
@@ -301,7 +301,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 579813
+        "value": 580243
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 2208000
+        "value": 2218000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -577,7 +577,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1533302
+        "value": 1534518
       },
       {
         "name": "Stats.EXP.casino",
@@ -873,7 +873,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 347649
+        "value": 351555
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -897,7 +897,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1519349
+        "value": 1519779
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1657,7 +1657,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 8879
+        "value": 9018
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
