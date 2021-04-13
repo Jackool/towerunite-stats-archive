@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1618285983
+        "value": 1618288305
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4461019
+        "value": 4463953
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2601907
+        "value": 2603817
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 456711
+        "value": 457168
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -233,11 +233,11 @@
       },
       {
         "name": "Stats.Plaza.Casino.Poker.TotalUnitsPlayed",
-        "value": 11692564
+        "value": 12022564
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
-        "value": 98
+        "value": 109
       },
       {
         "name": "Stats.Plaza.Casino.Poker.FlushWins",
@@ -245,7 +245,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Poker.StraightWins",
-        "value": 5
+        "value": 6
       },
       {
         "name": "Stats.Plaza.Casino.WOMSpins",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10199500
+        "value": 10207000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -649,7 +649,7 @@
       },
       {
         "name": "Stats.EXP.casino",
-        "value": 1389500
+        "value": 1397000
       },
       {
         "name": "Stats.EXP.tderby",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 796075
+        "value": 797792
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 514106
+        "value": 514112
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -2109,7 +2109,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3385157
+        "value": 3390157
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
@@ -2375,6 +2375,10 @@
       },
       {
         "name": "ACH_PLZ_CASINO_BIGBUCKS",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_CASINO_COUNTINGCARDS",
         "achieved": 1
       },
       {
