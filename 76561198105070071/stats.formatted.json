@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 42281
+        "value": 42287
       },
       {
         "name": "stat_lastcommand",
-        "value": 1618215237
+        "value": 1618271779
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 37027
+        "value": 37029
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 61881
+        "value": 61944
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 306531
+        "value": 306614
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -125,7 +125,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitCompleted",
-        "value": 337
+        "value": 338
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroCompleted",
@@ -157,7 +157,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
-        "value": 7821
+        "value": 7830
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4457689
+        "value": 4458695
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2600019
+        "value": 2600441
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 456014
+        "value": 456070
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -233,11 +233,11 @@
       },
       {
         "name": "Stats.Plaza.Casino.Poker.TotalUnitsPlayed",
-        "value": 11451064
+        "value": 11681064
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
-        "value": 97
+        "value": 98
       },
       {
         "name": "Stats.Plaza.Casino.Poker.FlushWins",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2620061
+        "value": 2620737
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -325,7 +325,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 25437
+        "value": 25441
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -629,11 +629,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 38581142
+        "value": 38618736
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10192000
+        "value": 10194500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -981,7 +981,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2453518
+        "value": 2456847
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 793066
+        "value": 793922
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1037,7 +1037,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4903538
+        "value": 4904214
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
