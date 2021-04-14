@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1618423120
+        "value": 1618423523
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -165,15 +165,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 752206
+        "value": 756574
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 239123
+        "value": 239736
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 23971
+        "value": 24057
       },
       {
         "name": "Stats.Plaza.Store.Talks",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 2243000
+        "value": 2245500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -577,7 +577,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1537191
+        "value": 1537261
       },
       {
         "name": "Stats.EXP.casino",
@@ -873,7 +873,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 355538
+        "value": 359590
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1545,7 +1545,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Dizzy.Jackpots",
-        "value": 35
+        "value": 36
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRig.BestScore",
@@ -1589,7 +1589,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.BugBytes.BestScore",
-        "value": 563
+        "value": 825
       },
       {
         "name": "Stats.Plaza.Arcade.NewtonApples.BestScore",
@@ -1621,7 +1621,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.WhackAMole.MolesHit",
-        "value": 2785
+        "value": 2793
       },
       {
         "name": "Stats.Plaza.Arcade.SuperHoopers.Hoops",
@@ -1645,7 +1645,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.BugBytes.BugsDestroyed",
-        "value": 5976
+        "value": 6083
       },
       {
         "name": "Stats.Plaza.Arcade.PluckAPal.Grabs",
