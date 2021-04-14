@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1618372834
+        "value": 1618374876
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4471561
+        "value": 4476379
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2605353
+        "value": 2605355
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 457700
+        "value": 457857
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -233,19 +233,19 @@
       },
       {
         "name": "Stats.Plaza.Casino.Poker.TotalUnitsPlayed",
-        "value": 13395564
+        "value": 15110164
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
-        "value": 125
+        "value": 143
       },
       {
         "name": "Stats.Plaza.Casino.Poker.FlushWins",
-        "value": 5
+        "value": 6
       },
       {
         "name": "Stats.Plaza.Casino.Poker.StraightWins",
-        "value": 6
+        "value": 12
       },
       {
         "name": "Stats.Plaza.Casino.WOMSpins",
@@ -289,7 +289,7 @@
       },
       {
         "name": "Stats.Plaza.TypingDerby.Words",
-        "value": 28403
+        "value": 28482
       },
       {
         "name": "Stats.Condo.TVTime",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10232000
+        "value": 10237000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -649,11 +649,11 @@
       },
       {
         "name": "Stats.EXP.casino",
-        "value": 1412000
+        "value": 1417000
       },
       {
         "name": "Stats.EXP.tderby",
-        "value": 1284020
+        "value": 1288160
       },
       {
         "name": "Stats.EXP.bowling",
@@ -1017,11 +1017,11 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 802733
+        "value": 807106
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
-        "value": 34036
+        "value": 34142
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
