@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1618458258
+        "value": 1618464371
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4480187
+        "value": 4487228
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2608544
+        "value": 2613381
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 458615
+        "value": 459438
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -289,7 +289,7 @@
       },
       {
         "name": "Stats.Plaza.TypingDerby.Words",
-        "value": 28482
+        "value": 28573
       },
       {
         "name": "Stats.Condo.TVTime",
@@ -321,7 +321,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1406
+        "value": 1407
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10247000
+        "value": 10264500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1853940
+        "value": 1855895
       },
       {
         "name": "Stats.EXP.casino",
@@ -1013,15 +1013,15 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 365615
+        "value": 366936
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 807920
+        "value": 808267
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
-        "value": 34142
+        "value": 34248
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 514174
+        "value": 514264
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1037,7 +1037,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4930724
+        "value": 4930925
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1997,7 +1997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 94508
+        "value": 99219
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -2109,7 +2109,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3405157
+        "value": 3425157
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
