@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1618473624
+        "value": 1618474635
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4489095
+        "value": 4493849
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2613382
+        "value": 2614043
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 459560
+        "value": 459662
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -233,19 +233,19 @@
       },
       {
         "name": "Stats.Plaza.Casino.Poker.TotalUnitsPlayed",
-        "value": 15110164
+        "value": 16382211
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
-        "value": 143
+        "value": 162
       },
       {
         "name": "Stats.Plaza.Casino.Poker.FlushWins",
-        "value": 6
+        "value": 7
       },
       {
         "name": "Stats.Plaza.Casino.Poker.StraightWins",
-        "value": 12
+        "value": 15
       },
       {
         "name": "Stats.Plaza.Casino.WOMSpins",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10277000
+        "value": 10279500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -649,7 +649,7 @@
       },
       {
         "name": "Stats.EXP.casino",
-        "value": 1424500
+        "value": 1427000
       },
       {
         "name": "Stats.EXP.tderby",
@@ -1013,11 +1013,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 366936
+        "value": 366956
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 808278
+        "value": 812386
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -2109,11 +2109,11 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3430157
+        "value": 3435157
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 31480
+        "value": 31530
       }
     ],
     "achievements": [
