@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1618531215
+        "value": 1618538436
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4500376
+        "value": 4503361
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2615484
+        "value": 2618383
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 460019
+        "value": 460598
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10297000
+        "value": 10309500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -645,11 +645,11 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1856520
+        "value": 1857965
       },
       {
         "name": "Stats.EXP.casino",
-        "value": 1434500
+        "value": 1437000
       },
       {
         "name": "Stats.EXP.tderby",
@@ -1013,11 +1013,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 367458
+        "value": 369143
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 816299
+        "value": 816368
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 514440
+        "value": 514498
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1997,7 +1997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 100264
+        "value": 103132
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -2109,7 +2109,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3435157
+        "value": 3440157
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
