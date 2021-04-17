@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1618646275
+        "value": 1618649327
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -165,15 +165,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 762660
+        "value": 766089
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 241660
+        "value": 241816
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 24345
+        "value": 24376
       },
       {
         "name": "Stats.Plaza.Store.Talks",
@@ -565,7 +565,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 2268000
+        "value": 2275500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -577,7 +577,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1539586
+        "value": 1540421
       },
       {
         "name": "Stats.EXP.casino",
@@ -873,7 +873,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 365137
+        "value": 368516
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -893,7 +893,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 16919
+        "value": 16932
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -921,7 +921,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.PumpkinsSmashed",
-        "value": 808
+        "value": 818
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
-        "value": 28340
+        "value": 28620
       },
       {
         "name": "Stats.Plaza.Minigames.Food.TotalScore",
