@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1618980260
+        "value": 1619149463
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -97,11 +97,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 1724
+        "value": 1754
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 4556
+        "value": 4597
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -125,7 +125,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.GLXYCompleted",
-        "value": 21
+        "value": 22
       },
       {
         "name": "Stats.GameW.BallRace.SummitCompleted",
@@ -157,7 +157,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.GLXYMelons",
-        "value": 379
+        "value": 400
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
@@ -173,7 +173,7 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 604713
+        "value": 604716
       },
       {
         "name": "Stats.Plaza.Steps",
@@ -597,11 +597,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 2247941
+        "value": 2270027
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1764000
+        "value": 1771500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 621575
+        "value": 621725
       },
       {
         "name": "Stats.EXP.fishing",
@@ -925,7 +925,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 81815
+        "value": 83068
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1433,11 +1433,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompleted",
-        "value": 20
+        "value": 21
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonMelons",
-        "value": 301
+        "value": 321
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompletedNoDeath",
@@ -1765,7 +1765,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 13625406
+        "value": 13630406
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
@@ -1875,6 +1875,10 @@
       },
       {
         "name": "ACH_GW_BR_KHROMIDROHIDDEN",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_TOWERADDICTION",
         "achieved": 1
       },
       {
