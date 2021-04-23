@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1619149463
+        "value": 1619152775
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 604716
+        "value": 608337
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 359696
+        "value": 361586
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 68924
+        "value": 69159
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -197,7 +197,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 476720
+        "value": 616720
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -217,19 +217,19 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Wins",
-        "value": 32
+        "value": 33
       },
       {
         "name": "Stats.Plaza.Trivia.QuestionsCorrect",
-        "value": 439
+        "value": 446
       },
       {
         "name": "Stats.Plaza.Trivia.FullGame",
-        "value": 95
+        "value": 96
       },
       {
         "name": "Stats.Plaza.Trivia.ComboFire",
-        "value": 196
+        "value": 200
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
@@ -601,7 +601,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1771500
+        "value": 1781500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -609,11 +609,11 @@
       },
       {
         "name": "Stats.EXP.trivia",
-        "value": 288500
+        "value": 292100
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 81460
+        "value": 83577
       },
       {
         "name": "Stats.EXP.casino",
@@ -833,7 +833,7 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Books",
-        "value": 7
+        "value": 8
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Film",
@@ -841,7 +841,7 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Music",
-        "value": 43
+        "value": 44
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.MusicalsTheater",
@@ -849,11 +849,11 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Television",
-        "value": 18
+        "value": 19
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.VideoGames",
-        "value": 102
+        "value": 103
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.BoardGames",
@@ -881,7 +881,7 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Geography",
-        "value": 17
+        "value": 18
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.History",
@@ -894,6 +894,10 @@
       {
         "name": "Stats.Plaza.Trivia.Correct.Art",
         "value": 5
+      },
+      {
+        "name": "Stats.Plaza.Trivia.Correct.Celebrities",
+        "value": 1
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Animals",
@@ -909,7 +913,7 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Gadgets",
-        "value": 1
+        "value": 2
       },
       {
         "name": "Stats.Plaza.Trivia.Correct.Anime",
@@ -949,11 +953,11 @@
       },
       {
         "name": "Stats.Plaza.Trivia.Playtime",
-        "value": 18949
+        "value": 19137
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 49832
+        "value": 51813
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -969,11 +973,11 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 15184
+        "value": 15194
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 60886
+        "value": 64372
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1025,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Trivia.TotalScore",
-        "value": 257800
+        "value": 261750
       },
       {
         "name": "Stats.Plaza.Bowling.TotalScore",
@@ -1577,7 +1581,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Dizzy.Jackpots",
-        "value": 30
+        "value": 33
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRig.BestScore",
@@ -1597,7 +1601,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Skeeball.BestScore",
-        "value": 43000
+        "value": 43050
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAfish.BestScore",
@@ -1613,7 +1617,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Offering.BestScore",
-        "value": 1150
+        "value": 1600
       },
       {
         "name": "Stats.Plaza.Arcade.BugBytes.BestScore",
@@ -1653,7 +1657,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.SuperHoopers.Hoops",
-        "value": 26
+        "value": 42
       },
       {
         "name": "Stats.Plaza.Arcade.WhirlAFish.Balls",
@@ -1661,15 +1665,15 @@
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
-        "value": 312
+        "value": 372
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.Basket",
-        "value": 70
+        "value": 76
       },
       {
         "name": "Stats.Plaza.Arcade.Offering.CenterCup",
-        "value": 1
+        "value": 3
       },
       {
         "name": "Stats.Plaza.Arcade.BugBytes.BugsDestroyed",
@@ -1681,7 +1685,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.NewtonsApples.ApplesDropped",
-        "value": 779
+        "value": 823
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
@@ -1693,11 +1697,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Avalanche.BlueCatsacks",
-        "value": 210
+        "value": 222
       },
       {
         "name": "Stats.Plaza.Arcade.IceCave.TilesLit",
-        "value": 1260
+        "value": 1340
       },
       {
         "name": "Stats.Plaza.Arcade.LonelyGun.TargetsHit",
@@ -2851,6 +2855,10 @@
       },
       {
         "name": "ACH_PLZ_ARCADE_LBFEEDERSSWEETSNACKS",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_ARCADE_OFFERINGWORTHY",
         "achieved": 1
       },
       {
