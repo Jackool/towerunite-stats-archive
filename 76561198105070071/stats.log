@@ -9,14 +9,14 @@ URI encoding = 'ISO-8859-1'
 iconv UTF-8 -> ISO-8859-1
 iconv outlen=294 inlen=147
 converted 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198105070071' (ISO-8859-1) -> 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198105070071' (UTF-8)
---2021-04-25 16:00:03--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198105070071
+--2021-04-25 18:00:02--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198105070071
 Resolving api.steampowered.com (api.steampowered.com)... 104.86.15.75
 Caching api.steampowered.com => 104.86.15.75
 Connecting to api.steampowered.com (api.steampowered.com)|104.86.15.75|:443... connected.
 Created socket 4.
-Releasing 0x000055c708da1760 (new refcount 1).
+Releasing 0x000055cd7209f760 (new refcount 1).
 Initiating SSL handshake.
-Handshake successful; connected socket 4 to SSL handle 0x000055c708da1950
+Handshake successful; connected socket 4 to SSL handle 0x000055cd7209f950
 certificate:
   subject: CN=store.steampowered.com,O=Valve Corp,L=Bellevue,ST=Washington,C=US,serialNumber=602 290 773,jurisdictionST=Washington,jurisdictionC=US,businessCategory=Private Organization
   issuer:  CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US
@@ -33,32 +33,30 @@ Connection: Keep-Alive
 ---request end---
 HTTP request sent, awaiting response... 
 ---response begin---
-HTTP/1.1 200 OK
-Content-Type: application/json; charset=UTF-8
-Vary: Accept-Encoding
-Expires: Sun, 25 Apr 2021 20:05:50 GMT
-Date: Sun, 25 Apr 2021 20:00:50 GMT
-Transfer-Encoding:  chunked
+HTTP/1.1 503 Service Unavailable
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 176
+Expires: Sun, 25 Apr 2021 22:00:48 GMT
+Date: Sun, 25 Apr 2021 22:00:48 GMT
 Connection: keep-alive
-Connection: Transfer-Encoding
 
 ---response end---
 
-  HTTP/1.1 200 OK
-  Content-Type: application/json; charset=UTF-8
-  Vary: Accept-Encoding
-  Expires: Sun, 25 Apr 2021 20:05:50 GMT
-  Date: Sun, 25 Apr 2021 20:00:50 GMT
-  Transfer-Encoding:  chunked
+  HTTP/1.1 503 Service Unavailable
+  Server: AkamaiGHost
+  Mime-Version: 1.0
+  Content-Type: text/html
+  Content-Length: 176
+  Expires: Sun, 25 Apr 2021 22:00:48 GMT
+  Date: Sun, 25 Apr 2021 22:00:48 GMT
   Connection: keep-alive
-  Connection: Transfer-Encoding
 Registered socket 4 for persistent reuse.
-URI content encoding = 'UTF-8'
-Length: unspecified [application/json]
-Saving to: '/dev/stdout'
-
-     0K .......... .......... .......... .......... .......... 1.84M
-    50K ..                                                     5208G=0.03s
-
-2021-04-25 16:00:04 (1.94 MB/s) - '/dev/stdout' saved [53996]
+Skipping 176 bytes of body: [<HTML><HEAD><TITLE>Error</TITLE></HEAD><BODY>
+An error occurred while processing your request.<p>
+Reference&#32;&#35;102&#46;bd724217&#46;1619388048&#46;31b07a8
+</BODY></HTML>
+] done.
+2021-04-25 18:00:02 ERROR 503: Service Unavailable.
 
