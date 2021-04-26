@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1619408924
+        "value": 1619411824
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -37,7 +37,7 @@
       },
       {
         "name": "Stats.Stores.Toy.NumVisits",
-        "value": 35
+        "value": 37
       },
       {
         "name": "Stats.Stores.Furniture.NumVisits",
@@ -53,7 +53,7 @@
       },
       {
         "name": "Stats.Stores.Music.NumVisits",
-        "value": 13
+        "value": 14
       },
       {
         "name": "Stats.Stores.Fishing.NumVisits",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 614149
+        "value": 619197
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 364828
+        "value": 370485
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 69803
+        "value": 70861
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -189,7 +189,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 425
+        "value": 428
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -197,7 +197,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 616720
+        "value": 620720
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -233,7 +233,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 72
+        "value": 96
       },
       {
         "name": "Stats.Plaza.Casino.Poker.TotalUnitsPlayed",
@@ -244,8 +244,12 @@
         "value": 25
       },
       {
+        "name": "Stats.Plaza.Casino.WOMSpins",
+        "value": 2
+      },
+      {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 11630
+        "value": 15230
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -601,7 +605,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1806500
+        "value": 1819000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -613,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 86216
+        "value": 86218
       },
       {
         "name": "Stats.EXP.casino",
@@ -633,7 +637,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 631925
+        "value": 639140
       },
       {
         "name": "Stats.EXP.fishing",
@@ -957,11 +961,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 55925
+        "value": 56223
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 14320
+        "value": 14531
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -973,11 +977,11 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 15194
+        "value": 15208
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 64654
+        "value": 68548
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1009,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.SnowballKills",
-        "value": 143
+        "value": 158
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
@@ -1061,7 +1065,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Snowball.TotalScore",
-        "value": 31670
+        "value": 33660
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
@@ -1097,7 +1101,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 12850
+        "value": 16150
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TotalScore",
@@ -1581,7 +1585,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Dizzy.Jackpots",
-        "value": 39
+        "value": 41
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRig.BestScore",
@@ -1665,7 +1669,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
-        "value": 451
+        "value": 465
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.Basket",
@@ -1769,7 +1773,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 13672354
+        "value": 13682354
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
