@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1619452345
+        "value": 1619487040
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 37029
+        "value": 37030
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 62422
+        "value": 62557
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 307206
+        "value": 307391
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -117,7 +117,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesCompleted",
-        "value": 197
+        "value": 198
       },
       {
         "name": "Stats.GameW.BallRace.GLXYCompleted",
@@ -125,7 +125,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitCompleted",
-        "value": 340
+        "value": 341
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroCompleted",
@@ -141,7 +141,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseMelons",
-        "value": 4541
+        "value": 4572
       },
       {
         "name": "Stats.GameW.BallRace.MidoriMelons",
@@ -149,7 +149,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesMelons",
-        "value": 5139
+        "value": 5207
       },
       {
         "name": "Stats.GameW.BallRace.GLXYMelons",
@@ -157,27 +157,27 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
-        "value": 7993
+        "value": 8032
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
-        "value": 3058
+        "value": 3063
       },
       {
         "name": "Stats.GameW.BallRace.PrismMelons",
-        "value": 10750
+        "value": 10790
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4519036
+        "value": 4519677
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2618723
+        "value": 2618725
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 462094
+        "value": 462149
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2645351
+        "value": 2646131
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -325,7 +325,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 25550
+        "value": 25568
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 38822232
+        "value": 38861982
       },
       {
         "name": "Stats.EXP.plaza",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1859377
+        "value": 1859696
       },
       {
         "name": "Stats.EXP.casino",
@@ -977,11 +977,11 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 77400
+        "value": 77405
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2478636
+        "value": 2483069
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1013,11 +1013,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 370712
+        "value": 370970
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 823051
+        "value": 823066
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1037,7 +1037,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4937421
+        "value": 4938201
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1721,11 +1721,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompleted",
-        "value": 170
+        "value": 171
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonMelons",
-        "value": 1217
+        "value": 1219
       },
       {
         "name": "Stats.GameW.BallRace.EventHorizonCompletedNoDeath",
@@ -1997,7 +1997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 107497
+        "value": 108078
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -2089,7 +2089,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.DriftTime",
-        "value": 303076
+        "value": 303742
       },
       {
         "name": "Stats.GameW.Accelerate.ItemsGiven",
