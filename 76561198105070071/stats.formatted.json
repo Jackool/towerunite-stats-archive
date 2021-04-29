@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2647675
+        "value": 2648762
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -325,7 +325,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 25568
+        "value": 25569
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 9729000
+        "value": 9731500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -993,7 +993,7 @@
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
-        "value": 11127
+        "value": 11185
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
@@ -1037,7 +1037,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4939745
+        "value": 4940832
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
