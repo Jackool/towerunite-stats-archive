@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1619671483
+        "value": 1619755917
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 632115
+        "value": 632730
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 380014
+        "value": 380194
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 72854
+        "value": 72886
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -233,7 +233,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 96
+        "value": 136
       },
       {
         "name": "Stats.Plaza.Casino.Poker.TotalUnitsPlayed",
@@ -249,7 +249,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 15230
+        "value": 21230
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 244
+        "value": 245
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -649,7 +649,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 3715000
+        "value": 3720000
       },
       {
         "name": "Stats.EXP.virus",
@@ -965,7 +965,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 14666
+        "value": 15117
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 1580564
+        "value": 1582590
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1101,7 +1101,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 16150
+        "value": 19900
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TotalScore",
