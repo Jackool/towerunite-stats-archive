@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1619817774
+        "value": 1619855268
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 37033
+        "value": 37034
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 62694
+        "value": 62701
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 307911
+        "value": 307937
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -137,7 +137,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.NimbusMelons",
-        "value": 10284
+        "value": 10304
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseMelons",
@@ -169,7 +169,7 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4530050
+        "value": 4530738
       },
       {
         "name": "Stats.Plaza.Steps",
@@ -177,7 +177,7 @@
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 462884
+        "value": 462931
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -229,7 +229,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 42085
+        "value": 42086
       },
       {
         "name": "Stats.Plaza.Casino.Poker.TotalUnitsPlayed",
@@ -257,7 +257,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 6488160
+        "value": 6488310
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -317,11 +317,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2650789
+        "value": 2650796
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1410
+        "value": 1411
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -409,19 +409,19 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.TeamWins",
-        "value": 4822
+        "value": 4824
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
-        "value": 1904
+        "value": 1905
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 3977
+        "value": 3980
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 5911
+        "value": 5913
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
@@ -629,11 +629,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 38942159
+        "value": 38944349
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10364500
+        "value": 10367000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1863941
+        "value": 1864494
       },
       {
         "name": "Stats.EXP.casino",
@@ -697,7 +697,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 10263155
+        "value": 10266680
       },
       {
         "name": "Stats.EXP.zm",
@@ -981,11 +981,11 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2487850
+        "value": 2488081
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 451071
+        "value": 451412
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -1013,11 +1013,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 374281
+        "value": 374790
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 823210
+        "value": 823241
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1037,7 +1037,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4943192
+        "value": 4943469
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1869,7 +1869,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsMelons",
-        "value": 21779
+        "value": 21785
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompletedNoDeath",
@@ -1997,7 +1997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 116342
+        "value": 117673
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
