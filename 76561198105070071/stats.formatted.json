@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 42508
+        "value": 42509
       },
       {
         "name": "stat_lastcommand",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 37032
+        "value": 37033
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2650199
+        "value": 2650789
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Stats.GameW.Accelerate.Playtime",
-        "value": 77457
+        "value": 77462
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
@@ -1037,7 +1037,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4942602
+        "value": 4943192
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
