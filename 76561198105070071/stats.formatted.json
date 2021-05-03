@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2654549
+        "value": 2654888
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 9739000
+        "value": 9741500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -989,7 +989,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1678043
+        "value": 1678054
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -1037,7 +1037,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4948019
+        "value": 4948358
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
