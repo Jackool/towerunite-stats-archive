@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1619992785
+        "value": 1619997195
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 62833
+        "value": 62908
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 308073
+        "value": 308236
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -157,7 +157,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.SummitMelons",
-        "value": 8034
+        "value": 8197
       },
       {
         "name": "Stats.GameW.BallRace.KhromidroMelons",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4535904
+        "value": 4537786
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2620630
+        "value": 2620662
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 463241
+        "value": 463562
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -629,11 +629,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 38979839
+        "value": 39022739
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10372000
+        "value": 10377000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -981,7 +981,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2492039
+        "value": 2494535
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 516970
+        "value": 517076
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -2109,7 +2109,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3480157
+        "value": 3485157
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
