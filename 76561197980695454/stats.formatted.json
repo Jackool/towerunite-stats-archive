@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1619930983
+        "value": 1620013484
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -605,7 +605,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1879000
+        "value": 1884000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -617,7 +617,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 94670
+        "value": 95122
       },
       {
         "name": "Stats.EXP.casino",
@@ -637,7 +637,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 720251
+        "value": 740195
       },
       {
         "name": "Stats.EXP.fishing",
@@ -1773,7 +1773,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 13832819
+        "value": 13861061
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
