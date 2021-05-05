@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1620016483
+        "value": 1620184483
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 642216
+        "value": 646147
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 387283
+        "value": 389816
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 74411
+        "value": 75187
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -233,7 +233,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.TotalBetsPlayed",
-        "value": 136
+        "value": 157
       },
       {
         "name": "Stats.Plaza.Casino.Poker.TotalUnitsPlayed",
@@ -245,11 +245,15 @@
       },
       {
         "name": "Stats.Plaza.Casino.WOMSpins",
-        "value": 2
+        "value": 5
+      },
+      {
+        "name": "Stats.Plaza.Casino.WOMNothings",
+        "value": 1
       },
       {
         "name": "Stats.Plaza.Casino.UnitsSpent",
-        "value": 21230
+        "value": 24380
       },
       {
         "name": "Stats.Plaza.Casino.VideoBlackjacks",
@@ -605,7 +609,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1891500
+        "value": 1904000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -617,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 95122
+        "value": 95603
       },
       {
         "name": "Stats.EXP.casino",
@@ -637,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 754235
+        "value": 760850
       },
       {
         "name": "Stats.EXP.fishing",
@@ -649,7 +653,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 3742500
+        "value": 3747500
       },
       {
         "name": "Stats.EXP.virus",
@@ -961,11 +965,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 64396
+        "value": 64910
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 15224
+        "value": 15593
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -977,11 +981,11 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 15276
+        "value": 15360
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 71562
+        "value": 72130
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1009,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.PumpkinsSmashed",
-        "value": 8716
+        "value": 9186
       },
       {
         "name": "Stats.Plaza.Minigames.SnowballKills",
@@ -1057,7 +1061,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
-        "value": 303420
+        "value": 318810
       },
       {
         "name": "Stats.Plaza.Minigames.Food.TotalScore",
@@ -1101,7 +1105,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.UnitsEarned",
-        "value": 19900
+        "value": 26650
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TotalScore",
@@ -1549,7 +1553,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Chainsaw.TotalScore",
-        "value": 263370
+        "value": 267780
       },
       {
         "name": "Stats.Plaza.Minigames.BoozeBash.TotalScore",
@@ -1565,7 +1569,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.ChainsawDeathmatchKills",
-        "value": 9187
+        "value": 9202
       },
       {
         "name": "Stats.GameW.BallRace.WoodlandsCompleted",
@@ -1701,7 +1705,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Avalanche.BlueCatsacks",
-        "value": 453
+        "value": 462
       },
       {
         "name": "Stats.Plaza.Arcade.IceCave.TilesLit",
@@ -1773,7 +1777,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 13908093
+        "value": 13941178
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
