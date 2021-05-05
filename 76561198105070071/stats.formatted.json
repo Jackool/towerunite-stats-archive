@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 42636
+        "value": 42646
       },
       {
         "name": "stat_lastcommand",
-        "value": 1620185137
+        "value": 1620188842
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4545613
+        "value": 4549572
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2623944
+        "value": 2624539
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 464248
+        "value": 464314
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -233,15 +233,15 @@
       },
       {
         "name": "Stats.Plaza.Casino.Poker.TotalUnitsPlayed",
-        "value": 20116743
+        "value": 20218743
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
-        "value": 187
+        "value": 191
       },
       {
         "name": "Stats.Plaza.Casino.Poker.FlushWins",
-        "value": 10
+        "value": 11
       },
       {
         "name": "Stats.Plaza.Casino.Poker.StraightWins",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2675652
+        "value": 2676913
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -329,7 +329,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
-        "value": 961
+        "value": 962
       },
       {
         "name": "Stats.GameW.Virus.Survivor.AdrenalineUsed",
@@ -345,11 +345,11 @@
       },
       {
         "name": "Stats.GameW.Virus.Survivor.LastSurvivorTimes",
-        "value": 275
+        "value": 276
       },
       {
         "name": "Stats.GameW.Virus.FirstPlaceCount",
-        "value": 1023
+        "value": 1024
       },
       {
         "name": "Stats.GameW.Virus.FirstInfectedCount",
@@ -357,7 +357,7 @@
       },
       {
         "name": "Stats.GameW.Virus.RoundsPlayed",
-        "value": 2891
+        "value": 2892
       },
       {
         "name": "Stats.GameW.Virus.HospitalSurvive",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10399500
+        "value": 10404500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 2010818
+        "value": 2041757
       },
       {
         "name": "Stats.EXP.fishing",
@@ -685,7 +685,7 @@
       },
       {
         "name": "Stats.EXP.virus",
-        "value": 5152723
+        "value": 5153023
       },
       {
         "name": "Stats.EXP.ppanic",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 282911
+        "value": 283073
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 823457
+        "value": 824340
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1033,11 +1033,11 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 53278
+        "value": 53443
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4972524
+        "value": 4973785
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1053,7 +1053,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.BalloonsPopped",
-        "value": 4205
+        "value": 4375
       },
       {
         "name": "Stats.Plaza.Minigames.PlanesDowned",
@@ -1109,7 +1109,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Balloon.TotalScore",
-        "value": 479140
+        "value": 499766
       },
       {
         "name": "Stats.Plaza.Minigames.Pumpkin.TotalScore",
