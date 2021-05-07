@@ -5,7 +5,7 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 42646
+        "value": 42651
       },
       {
         "name": "stat_lastcommand",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4559535
+        "value": 4559690
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2635651
+        "value": 2635980
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 465089
+        "value": 465112
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -317,15 +317,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2677052
+        "value": 2678119
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1425
+        "value": 1426
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 25596
+        "value": 25598
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 376753
+        "value": 376770
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1037,7 +1037,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4982736
+        "value": 4984278
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2113,7 +2113,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 31586
+        "value": 31602
       }
     ],
     "achievements": [
