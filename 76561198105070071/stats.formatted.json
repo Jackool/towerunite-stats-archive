@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 42651
+        "value": 42655
       },
       {
         "name": "stat_lastcommand",
-        "value": 1620278566
+        "value": 1620377780
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -93,11 +93,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 62994
+        "value": 62997
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 308325
+        "value": 308327
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -149,7 +149,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.MemoriesMelons",
-        "value": 5235
+        "value": 5237
       },
       {
         "name": "Stats.GameW.BallRace.GLXYMelons",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4559690
+        "value": 4561380
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2635980
+        "value": 2638597
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 465112
+        "value": 465455
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -293,7 +293,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 909311
+        "value": 910460
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -317,15 +317,15 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2678119
+        "value": 2680412
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1426
+        "value": 1428
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 25598
+        "value": 25602
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -629,7 +629,7 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 39051959
+        "value": 39052709
       },
       {
         "name": "Stats.EXP.plaza",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1867649
+        "value": 1867718
       },
       {
         "name": "Stats.EXP.casino",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 9804000
+        "value": 9809000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -981,7 +981,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 2496654
+        "value": 2496774
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -997,11 +997,11 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 283126
+        "value": 283193
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
-        "value": 319836
+        "value": 319849
       },
       {
         "name": "Stats.Plaza.LaserTag.Playtime",
@@ -1013,11 +1013,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 376770
+        "value": 376991
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 824669
+        "value": 824754
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1025,19 +1025,19 @@
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
-        "value": 79019
+        "value": 79034
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 517170
+        "value": 517226
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 53979
+        "value": 53987
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4984278
+        "value": 4991945
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1997,7 +1997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 125199
+        "value": 125423
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
