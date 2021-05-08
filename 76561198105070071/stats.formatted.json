@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1620459287
+        "value": 1620466332
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4564614
+        "value": 4574959
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2639687
+        "value": 2643237
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 465717
+        "value": 466139
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Stats.Plaza.UnitsSpent",
-        "value": 12800065
+        "value": 12825065
       },
       {
         "name": "Stats.Plaza.Markers",
@@ -233,7 +233,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Poker.TotalUnitsPlayed",
-        "value": 20358743
+        "value": 20373743
       },
       {
         "name": "Stats.Plaza.Casino.Poker.Wins",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10452000
+        "value": 10474500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -661,11 +661,11 @@
       },
       {
         "name": "Stats.EXP.theater",
-        "value": 1805500
+        "value": 1906500
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 2086708
+        "value": 2092318
       },
       {
         "name": "Stats.EXP.fishing",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 824767
+        "value": 824906
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1029,11 +1029,11 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 517242
+        "value": 530282
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 53987
+        "value": 54219
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -3451,6 +3451,14 @@
       },
       {
         "name": "ACH_GW_ZM_SENTRYSGOINGUP",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_THEATER_GETTOGETHER",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_THEATER_MOVIENIGHT",
         "achieved": 1
       },
       {
