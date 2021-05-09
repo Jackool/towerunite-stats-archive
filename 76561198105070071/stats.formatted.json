@@ -9,15 +9,15 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1620510464
+        "value": 1620517030
       },
       {
         "name": "Stats.Golf.PuttTime",
-        "value": 6.465739727020264
+        "value": 6.4841718673706055
       },
       {
         "name": "Stats.Golf.NumOOB",
-        "value": 6992
+        "value": 6996
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4579539
+        "value": 4583673
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2644642
+        "value": 2649163
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 466601
+        "value": 467006
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -317,11 +317,11 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2680412
+        "value": 2680689
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1430
+        "value": 1431
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -493,27 +493,27 @@
       },
       {
         "name": "Stats.GameW.Minigolf.HoleInOne",
-        "value": 6560
+        "value": 6561
       },
       {
         "name": "Stats.GameW.Minigolf.Distance",
-        "value": 1539569122
+        "value": 1540842279
       },
       {
         "name": "Stats.GameW.Minigolf.Airtime",
-        "value": 27232
+        "value": 27260
       },
       {
         "name": "Stats.GameW.Minigolf.Eagles",
-        "value": 4201
+        "value": 4203
       },
       {
         "name": "Stats.GameW.Minigolf.Albatross",
-        "value": 1451
+        "value": 1454
       },
       {
         "name": "Stats.GameW.Minigolf.Birdie",
-        "value": 4679
+        "value": 4685
       },
       {
         "name": "Stats.GameW.Minigolf.GardenComplete",
@@ -545,7 +545,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.ForestComplete",
-        "value": 57
+        "value": 58
       },
       {
         "name": "Stats.GameW.Minigolf.KingdomComplete",
@@ -577,7 +577,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.ForestCoursePar",
-        "value": 146
+        "value": 56
       },
       {
         "name": "Stats.GameW.Minigolf.KingdomCoursePar",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10492000
+        "value": 10499500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1867837
+        "value": 1867975
       },
       {
         "name": "Stats.EXP.casino",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 2092318
+        "value": 2094808
       },
       {
         "name": "Stats.EXP.fishing",
@@ -693,7 +693,7 @@
       },
       {
         "name": "Stats.EXP.mgolf",
-        "value": 25896249
+        "value": 25914399
       },
       {
         "name": "Stats.EXP.lc",
@@ -989,7 +989,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1679941
+        "value": 1681765
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 377060
+        "value": 377512
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1029,15 +1029,15 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 530562
+        "value": 530704
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 54219
+        "value": 54315
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 4994571
+        "value": 4995123
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1065,7 +1065,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.SnowballKills",
-        "value": 177
+        "value": 187
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
@@ -1121,7 +1121,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Snowball.TotalScore",
-        "value": 42990
+        "value": 44650
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
@@ -1997,7 +1997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 125515
+        "value": 126031
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
