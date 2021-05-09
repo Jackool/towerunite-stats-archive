@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1620526351
+        "value": 1620546157
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10499500
+        "value": 10514500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1867975
+        "value": 1870210
       },
       {
         "name": "Stats.EXP.casino",
@@ -2109,7 +2109,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3550892
+        "value": 3555892
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
