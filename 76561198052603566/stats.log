@@ -9,14 +9,14 @@ URI encoding = 'ISO-8859-1'
 iconv UTF-8 -> ISO-8859-1
 iconv outlen=294 inlen=147
 converted 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198052603566' (ISO-8859-1) -> 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198052603566' (UTF-8)
---2021-05-10 12:00:02--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198052603566
+--2021-05-10 14:05:42--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198052603566
 Resolving api.steampowered.com (api.steampowered.com)... 104.105.98.88
 Caching api.steampowered.com => 104.105.98.88
 Connecting to api.steampowered.com (api.steampowered.com)|104.105.98.88|:443... connected.
 Created socket 4.
-Releasing 0x000055c752a70760 (new refcount 1).
+Releasing 0x000055fa6731a760 (new refcount 1).
 Initiating SSL handshake.
-Handshake successful; connected socket 4 to SSL handle 0x000055c752a70950
+Handshake successful; connected socket 4 to SSL handle 0x000055fa6731a950
 certificate:
   subject: CN=store.steampowered.com,O=Valve Corp,L=Bellevue,ST=Washington,C=US,serialNumber=602 290 773,jurisdictionST=Washington,jurisdictionC=US,businessCategory=Private Organization
   issuer:  CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US
@@ -36,26 +36,261 @@ HTTP request sent, awaiting response...
 HTTP/1.1 200 OK
 Content-Type: application/json; charset=UTF-8
 Vary: Accept-Encoding
-Expires: Mon, 10 May 2021 16:05:58 GMT
-Date: Mon, 10 May 2021 16:00:58 GMT
-Content-Length: 36920
-Connection: keep-alive
+Expires: Mon, 10 May 2021 18:12:02 GMT
+Date: Mon, 10 May 2021 18:07:24 GMT
+Content-Length: 1
+Connection: close
 
 ---response end---
 
   HTTP/1.1 200 OK
   Content-Type: application/json; charset=UTF-8
   Vary: Accept-Encoding
-  Expires: Mon, 10 May 2021 16:05:58 GMT
-  Date: Mon, 10 May 2021 16:00:58 GMT
-  Content-Length: 36920
-  Connection: keep-alive
-Registered socket 4 for persistent reuse.
+  Expires: Mon, 10 May 2021 18:12:02 GMT
+  Date: Mon, 10 May 2021 18:07:24 GMT
+  Content-Length: 1
+  Connection: close
 URI content encoding = 'UTF-8'
-Length: 36920 (36K) [application/json]
+Length: 1 [application/json]
 Saving to: '/dev/stdout'
 
-     0K .......... .......... .......... ......               100% 2.80M=0.01s
+     0K                                                         0% 0.00 =0s
 
-2021-05-10 12:00:03 (2.80 MB/s) - '/dev/stdout' saved [36920/36920]
+Closed 4/SSL 0x000055fa6731a950
+2021-05-10 14:06:28 (0.00 B/s) - Connection closed at byte 0. Retrying.
 
+--2021-05-10 14:06:29--  (try: 2)  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198052603566
+Found api.steampowered.com in host_name_addresses_map (0x55fa6731a760)
+Connecting to api.steampowered.com (api.steampowered.com)|104.105.98.88|:443... connected.
+Created socket 4.
+Releasing 0x000055fa6731a760 (new refcount 1).
+Initiating SSL handshake.
+Handshake successful; connected socket 4 to SSL handle 0x000055fa6731a8b0
+certificate:
+  subject: CN=store.steampowered.com,O=Valve Corp,L=Bellevue,ST=Washington,C=US,serialNumber=602 290 773,jurisdictionST=Washington,jurisdictionC=US,businessCategory=Private Organization
+  issuer:  CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US
+X509 certificate successfully verified and matches host api.steampowered.com
+
+---request begin---
+GET /ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198052603566 HTTP/1.1
+User-Agent: Wget/1.20.3 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: api.steampowered.com
+Connection: Keep-Alive
+
+---request end---
+HTTP request sent, awaiting response... 
+---response begin---
+HTTP/1.1 504 Gateway Time-out
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 250
+Expires: Mon, 10 May 2021 18:09:25 GMT
+Date: Mon, 10 May 2021 18:09:25 GMT
+Connection: keep-alive
+
+---response end---
+
+  HTTP/1.1 504 Gateway Time-out
+  Server: AkamaiGHost
+  Mime-Version: 1.0
+  Content-Type: text/html
+  Content-Length: 250
+  Expires: Mon, 10 May 2021 18:09:25 GMT
+  Date: Mon, 10 May 2021 18:09:25 GMT
+  Connection: keep-alive
+Registered socket 4 for persistent reuse.
+Skipping 250 bytes of body: [<HTML><HEAD>
+<TITLE>Gateway Timeout - In read </TITLE>
+</HEAD><BODY>
+<H1>Gateway Timeout</H1>
+The proxy server did not receive a timely response from the upstream server.<P>
+Reference&#32;&#35;1&#46;cefb3f17&#46;1620670165&#46;63117e8
+</BODY></HTML>
+] done.
+Retrying.
+
+--2021-05-10 14:08:31--  (try: 3)  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198052603566
+Reusing existing connection to api.steampowered.com:443.
+Reusing fd 4.
+
+---request begin---
+GET /ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198052603566 HTTP/1.1
+User-Agent: Wget/1.20.3 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: api.steampowered.com
+Connection: Keep-Alive
+
+---request end---
+HTTP request sent, awaiting response... 
+---response begin---
+HTTP/1.1 504 Gateway Time-out
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 250
+Expires: Mon, 10 May 2021 18:11:27 GMT
+Date: Mon, 10 May 2021 18:11:27 GMT
+Connection: keep-alive
+
+---response end---
+
+  HTTP/1.1 504 Gateway Time-out
+  Server: AkamaiGHost
+  Mime-Version: 1.0
+  Content-Type: text/html
+  Content-Length: 250
+  Expires: Mon, 10 May 2021 18:11:27 GMT
+  Date: Mon, 10 May 2021 18:11:27 GMT
+  Connection: keep-alive
+Skipping 250 bytes of body: [<HTML><HEAD>
+<TITLE>Gateway Timeout - In read </TITLE>
+</HEAD><BODY>
+<H1>Gateway Timeout</H1>
+The proxy server did not receive a timely response from the upstream server.<P>
+Reference&#32;&#35;1&#46;cefb3f17&#46;1620670287&#46;631c4d2
+</BODY></HTML>
+] done.
+Retrying.
+
+--2021-05-10 14:10:34--  (try: 4)  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198052603566
+Reusing existing connection to api.steampowered.com:443.
+Reusing fd 4.
+
+---request begin---
+GET /ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198052603566 HTTP/1.1
+User-Agent: Wget/1.20.3 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: api.steampowered.com
+Connection: Keep-Alive
+
+---request end---
+HTTP request sent, awaiting response... 
+---response begin---
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=UTF-8
+Vary: Accept-Encoding
+Expires: Mon, 10 May 2021 18:14:56 GMT
+Date: Mon, 10 May 2021 18:14:17 GMT
+Content-Length: 16385
+Connection: close
+
+---response end---
+
+  HTTP/1.1 200 OK
+  Content-Type: application/json; charset=UTF-8
+  Vary: Accept-Encoding
+  Expires: Mon, 10 May 2021 18:14:56 GMT
+  Date: Mon, 10 May 2021 18:14:17 GMT
+  Content-Length: 16385
+  Connection: close
+URI content encoding = 'UTF-8'
+Length: 16385 (16K) [application/json]
+Saving to: '/dev/stdout'
+
+     0K .......... ......                                      99%  201M=0s
+
+Disabling further reuse of socket 4.
+Closed 4/SSL 0x000055fa6731a8b0
+2021-05-10 14:13:21 (201 MB/s) - Connection closed at byte 16384. Retrying.
+
+--2021-05-10 14:13:25--  (try: 5)  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198052603566
+Found api.steampowered.com in host_name_addresses_map (0x55fa6731a760)
+Connecting to api.steampowered.com (api.steampowered.com)|104.105.98.88|:443... connected.
+Created socket 4.
+Releasing 0x000055fa6731a760 (new refcount 1).
+Initiating SSL handshake.
+Handshake successful; connected socket 4 to SSL handle 0x000055fa6731a8b0
+certificate:
+  subject: CN=store.steampowered.com,O=Valve Corp,L=Bellevue,ST=Washington,C=US,serialNumber=602 290 773,jurisdictionST=Washington,jurisdictionC=US,businessCategory=Private Organization
+  issuer:  CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US
+X509 certificate successfully verified and matches host api.steampowered.com
+
+---request begin---
+GET /ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198052603566 HTTP/1.1
+Range: bytes=16384-
+User-Agent: Wget/1.20.3 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: api.steampowered.com
+Connection: Keep-Alive
+
+---request end---
+HTTP request sent, awaiting response... 
+---response begin---
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=UTF-8
+Vary: Accept-Encoding
+Expires: Mon, 10 May 2021 18:19:28 GMT
+Date: Mon, 10 May 2021 18:19:28 GMT
+Content-Length: 16385
+Connection: close
+
+---response end---
+
+  HTTP/1.1 200 OK
+  Content-Type: application/json; charset=UTF-8
+  Vary: Accept-Encoding
+  Expires: Mon, 10 May 2021 18:19:28 GMT
+  Date: Mon, 10 May 2021 18:19:28 GMT
+  Content-Length: 16385
+  Connection: close
+URI content encoding = 'UTF-8'
+Length: 16385 (16K) [application/json]
+Saving to: '/dev/stdout'
+
+     0K .......... ......                                      99%  333M=0s
+
+Closed 4/SSL 0x000055fa6731a8b0
+2021-05-10 14:18:32 (333 MB/s) - Connection closed at byte 16384. Retrying.
+
+--2021-05-10 14:18:37--  (try: 6)  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198052603566
+Found api.steampowered.com in host_name_addresses_map (0x55fa6731a760)
+Connecting to api.steampowered.com (api.steampowered.com)|104.105.98.88|:443... connected.
+Created socket 4.
+Releasing 0x000055fa6731a760 (new refcount 1).
+Initiating SSL handshake.
+Handshake successful; connected socket 4 to SSL handle 0x000055fa6731a8b0
+certificate:
+  subject: CN=store.steampowered.com,O=Valve Corp,L=Bellevue,ST=Washington,C=US,serialNumber=602 290 773,jurisdictionST=Washington,jurisdictionC=US,businessCategory=Private Organization
+  issuer:  CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US
+X509 certificate successfully verified and matches host api.steampowered.com
+
+---request begin---
+GET /ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198052603566 HTTP/1.1
+Range: bytes=16384-
+User-Agent: Wget/1.20.3 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: api.steampowered.com
+Connection: Keep-Alive
+
+---request end---
+HTTP request sent, awaiting response... 
+---response begin---
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=UTF-8
+Vary: Accept-Encoding
+Expires: Mon, 10 May 2021 18:24:46 GMT
+Date: Mon, 10 May 2021 18:22:19 GMT
+Content-Length: 1
+Connection: close
+
+---response end---
+
+  HTTP/1.1 200 OK
+  Content-Type: application/json; charset=UTF-8
+  Vary: Accept-Encoding
+  Expires: Mon, 10 May 2021 18:24:46 GMT
+  Date: Mon, 10 May 2021 18:22:19 GMT
+  Content-Length: 1
+  Connection: close
+URI content encoding = 'UTF-8'
+
+    The file is already fully retrieved; nothing to do.
+
+Closed 4/SSL 0x000055fa6731a8b0
