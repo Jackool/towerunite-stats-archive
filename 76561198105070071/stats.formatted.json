@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1620683753
+        "value": 1620725310
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4597189
+        "value": 4599908
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2663684
+        "value": 2667808
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 469917
+        "value": 470533
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -197,7 +197,7 @@
       },
       {
         "name": "Stats.Plaza.Markers",
-        "value": 171
+        "value": 172
       },
       {
         "name": "Stats.Plaza.PhotoShoots",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10542000
+        "value": 10549500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1871632
+        "value": 1871878
       },
       {
         "name": "Stats.EXP.casino",
@@ -1013,11 +1013,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 381550
+        "value": 381664
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 824922
+        "value": 824939
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 531422
+        "value": 531466
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1997,7 +1997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 134879
+        "value": 135459
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -2109,7 +2109,7 @@
       },
       {
         "name": "Stats.EXP.halloween",
-        "value": 3570892
+        "value": 3585892
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
