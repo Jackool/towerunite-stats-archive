@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1620883516
+        "value": 1620968457
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -97,11 +97,11 @@
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
-        "value": 1754
+        "value": 1767
       },
       {
         "name": "Stats.GameW.BallRace.Melons",
-        "value": 4597
+        "value": 4672
       },
       {
         "name": "Stats.GameW.BallRace.Speed",
@@ -113,7 +113,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseCompleted",
-        "value": 13
+        "value": 14
       },
       {
         "name": "Stats.GameW.BallRace.MidoriCompleted",
@@ -145,7 +145,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.ParadiseMelons",
-        "value": 777
+        "value": 852
       },
       {
         "name": "Stats.GameW.BallRace.MidoriMelons",
@@ -173,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 650379
+        "value": 652733
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 391485
+        "value": 393346
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 75662
+        "value": 76087
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -605,11 +605,11 @@
       },
       {
         "name": "Stats.EXP.br",
-        "value": 2270027
+        "value": 2284052
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1916500
+        "value": 1924000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -621,7 +621,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 97273
+        "value": 98015
       },
       {
         "name": "Stats.EXP.casino",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 760850
+        "value": 770975
       },
       {
         "name": "Stats.EXP.fishing",
@@ -937,7 +937,7 @@
       },
       {
         "name": "Stats.GameW.BallRace.Playtime",
-        "value": 83068
+        "value": 83753
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
@@ -965,11 +965,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 66940
+        "value": 68359
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 15622
+        "value": 15653
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 72629
+        "value": 72806
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
-        "value": 5550
+        "value": 5679
       },
       {
         "name": "Stats.Plaza.Minigames.TargetsShot",
@@ -1053,7 +1053,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Fruit.TotalScore",
-        "value": 29050
+        "value": 35800
       },
       {
         "name": "Stats.Plaza.Minigames.Balloon.TotalScore",
@@ -1081,7 +1081,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Fruit.BestScore",
-        "value": 5525
+        "value": 6750
       },
       {
         "name": "Stats.Plaza.Minigames.Balloon.BestScore",
@@ -1589,7 +1589,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Dizzy.Jackpots",
-        "value": 47
+        "value": 48
       },
       {
         "name": "Stats.Plaza.Arcade.WheelyRig.BestScore",
@@ -1673,7 +1673,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.RingGod.Rings",
-        "value": 599
+        "value": 648
       },
       {
         "name": "Stats.Plaza.Arcade.LBFeeders.Basket",
@@ -1681,7 +1681,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Offering.CenterCup",
-        "value": 10
+        "value": 11
       },
       {
         "name": "Stats.Plaza.Arcade.BugBytes.BugsDestroyed",
@@ -1701,11 +1701,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
-        "value": 93
+        "value": 96
       },
       {
         "name": "Stats.Plaza.Arcade.Avalanche.BlueCatsacks",
-        "value": 473
+        "value": 482
       },
       {
         "name": "Stats.Plaza.Arcade.IceCave.TilesLit",
@@ -1713,7 +1713,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.LonelyGun.TargetsHit",
-        "value": 57
+        "value": 59
       },
       {
         "name": "Stats.GameW.Minigolf.IslandComplete",
