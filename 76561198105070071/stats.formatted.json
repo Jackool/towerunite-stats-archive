@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1621029634
+        "value": 1621030619
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4614665
+        "value": 4617118
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2676058
+        "value": 2678868
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 473648
+        "value": 474071
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10589500
+        "value": 10597000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1875686
+        "value": 1875873
       },
       {
         "name": "Stats.EXP.casino",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 2094808
+        "value": 2094898
       },
       {
         "name": "Stats.EXP.fishing",
@@ -1013,11 +1013,11 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 385070
+        "value": 385370
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 825451
+        "value": 825470
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
@@ -1029,11 +1029,11 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 532210
+        "value": 532222
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
-        "value": 54315
+        "value": 54493
       },
       {
         "name": "Stats.Condo.Playtime",
@@ -1065,7 +1065,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.SnowballKills",
-        "value": 187
+        "value": 190
       },
       {
         "name": "Stats.Plaza.Minigames.GhostsShot",
@@ -1121,7 +1121,7 @@
       },
       {
         "name": "Stats.Plaza.Minigames.Snowball.TotalScore",
-        "value": 44650
+        "value": 44710
       },
       {
         "name": "Stats.Plaza.Minigames.Ghost.TotalScore",
@@ -1997,7 +1997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 144471
+        "value": 145056
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
