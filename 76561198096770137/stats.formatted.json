@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1612957446
+        "value": 1621457260
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -22,6 +22,10 @@
       {
         "name": "Stats.Golf.NumOOB",
         "value": 187
+      },
+      {
+        "name": "Stats.Misc.NumMenuCatPresses",
+        "value": 1
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -169,15 +173,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 1320627
+        "value": 1322380
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 222609
+        "value": 222949
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 47213
+        "value": 47230
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -273,11 +277,11 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Tags",
-        "value": 109
+        "value": 110
       },
       {
         "name": "Stats.Plaza.LaserTag.Wins",
-        "value": 154
+        "value": 156
       },
       {
         "name": "Stats.Plaza.TypingDerby.Words",
@@ -569,11 +573,11 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 3965501
+        "value": 3968001
       },
       {
         "name": "Stats.EXP.ltag",
-        "value": 973901
+        "value": 982031
       },
       {
         "name": "Stats.EXP.trivia",
@@ -581,7 +585,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1534147
+        "value": 1534219
       },
       {
         "name": "Stats.EXP.casino",
@@ -881,7 +885,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.Playtime",
-        "value": 4990
+        "value": 5208
       },
       {
         "name": "Stats.Plaza.Trivia.Playtime",
@@ -889,7 +893,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 778494
+        "value": 778915
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -953,7 +957,7 @@
       },
       {
         "name": "Stats.Plaza.LaserTag.TotalScore",
-        "value": 9525
+        "value": 9585
       },
       {
         "name": "Stats.Plaza.Trivia.BestScore",
@@ -1597,7 +1601,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
-        "value": 85
+        "value": 86
       },
       {
         "name": "Stats.Plaza.Arcade.Avalanche.BlueCatsacks",
