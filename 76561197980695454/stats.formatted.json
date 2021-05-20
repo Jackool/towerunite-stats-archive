@@ -13,7 +13,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1621404423
+        "value": 1621489148
       },
       {
         "name": "Stats.Lobby.NumSteps",
@@ -609,7 +609,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 1969000
+        "value": 1984000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -621,11 +621,11 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 99503
+        "value": 99747
       },
       {
         "name": "Stats.EXP.casino",
-        "value": 18000
+        "value": 18500
       },
       {
         "name": "Stats.EXP.tderby",
@@ -641,7 +641,7 @@
       },
       {
         "name": "Stats.EXP.minigames",
-        "value": 900010
+        "value": 921520
       },
       {
         "name": "Stats.EXP.fishing",
@@ -1987,6 +1987,10 @@
       },
       {
         "name": "ACH_PLZ_CASINO_DOUBLEORNOTHING5X",
+        "achieved": 1
+      },
+      {
+        "name": "ACH_PLZ_CASINO_VIDEOBLACKJACKPRO",
         "achieved": 1
       },
       {
