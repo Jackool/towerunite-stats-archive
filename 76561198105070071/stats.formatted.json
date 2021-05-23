@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1621724806
+        "value": 1621774739
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4618628
+        "value": 4623685
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2680397
+        "value": 2684444
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 474395
+        "value": 475344
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -293,7 +293,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 919637
+        "value": 919844
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -321,7 +321,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1443
+        "value": 1444
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10602000
+        "value": 10609500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -673,11 +673,11 @@
       },
       {
         "name": "Stats.EXP.nightclub",
-        "value": 1510980
+        "value": 1530180
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 9896500
+        "value": 9901500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 532242
+        "value": 532246
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1037,7 +1037,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 5033986
+        "value": 5036061
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -2113,7 +2113,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 31602
+        "value": 35307
       }
     ],
     "achievements": [
