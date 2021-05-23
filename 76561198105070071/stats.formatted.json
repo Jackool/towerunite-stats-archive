@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1621800050
+        "value": 1621801118
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4624600
+        "value": 4626176
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2684650
+        "value": 2684908
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 475348
+        "value": 475400
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -293,7 +293,7 @@
       },
       {
         "name": "Stats.Condo.TVTime",
-        "value": 919844
+        "value": 920102
       },
       {
         "name": "Stats.Condo.PartyTime",
@@ -321,7 +321,7 @@
       },
       {
         "name": "Stats.Condo.VisitedCondo",
-        "value": 1444
+        "value": 1446
       },
       {
         "name": "Stats.Condo.PlacedItems",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10612000
+        "value": 10617000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1878099
+        "value": 1879225
       },
       {
         "name": "Stats.EXP.casino",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 9901500
+        "value": 9911500
       },
       {
         "name": "Stats.EXP.cooking",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 386389
+        "value": 387956
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1037,7 +1037,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 5036061
+        "value": 5040668
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1997,7 +1997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 148768
+        "value": 153036
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
