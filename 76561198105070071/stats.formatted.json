@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1621858710
+        "value": 1621878954
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4628959
+        "value": 4630832
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2687555
+        "value": 2689104
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 475783
+        "value": 475897
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2701427
+        "value": 2702023
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10624500
+        "value": 10629500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1880825
+        "value": 1882728
       },
       {
         "name": "Stats.EXP.casino",
@@ -989,7 +989,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1682615
+        "value": 1682641
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 388732
+        "value": 390388
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1037,7 +1037,7 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 5046621
+        "value": 5047217
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
@@ -1989,7 +1989,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PluckAPal.Grabs",
-        "value": 70
+        "value": 71
       },
       {
         "name": "Stats.Plaza.Arcade.NewtonsApples.ApplesDropped",
@@ -1997,7 +1997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 156883
+        "value": 161181
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
