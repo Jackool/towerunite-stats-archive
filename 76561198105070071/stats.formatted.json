@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 42874
+        "value": 42875
       },
       {
         "name": "stat_lastcommand",
-        "value": 1621856502
+        "value": 1621858710
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Stats.Misc.NumMenuCatPresses",
-        "value": 37043
+        "value": 37044
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
@@ -89,7 +89,7 @@
       },
       {
         "name": "Stats.Stores.CondoRealtor.NumVisits",
-        "value": 22
+        "value": 23
       },
       {
         "name": "Stats.GameW.Ballrace.PlayedLevels",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4626176
+        "value": 4628959
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2684908
+        "value": 2687555
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 475400
+        "value": 475783
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 996
+        "value": 997
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -289,7 +289,7 @@
       },
       {
         "name": "Stats.Plaza.TypingDerby.Words",
-        "value": 28573
+        "value": 28654
       },
       {
         "name": "Stats.Condo.TVTime",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Stats.Condo.CondoTime",
-        "value": 2697207
+        "value": 2701427
       },
       {
         "name": "Stats.Condo.VisitedCondo",
@@ -325,7 +325,7 @@
       },
       {
         "name": "Stats.Condo.PlacedItems",
-        "value": 25611
+        "value": 25612
       },
       {
         "name": "Stats.GameW.Virus.Survivor.RoundsSurvived",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10622000
+        "value": 10624500
       },
       {
         "name": "Stats.EXP.ltag",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1879710
+        "value": 1880825
       },
       {
         "name": "Stats.EXP.casino",
@@ -677,7 +677,7 @@
       },
       {
         "name": "Stats.EXP.condo",
-        "value": 9914000
+        "value": 9919000
       },
       {
         "name": "Stats.EXP.cooking",
@@ -709,7 +709,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.FishCaught",
-        "value": 2688
+        "value": 2691
       },
       {
         "name": "Stats.Plaza.Fishing.RareFishCaught",
@@ -989,7 +989,7 @@
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
-        "value": 1682512
+        "value": 1682615
       },
       {
         "name": "Stats.GameW.PlanetPanic.Playtime",
@@ -1013,15 +1013,15 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 387956
+        "value": 388732
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
-        "value": 825537
+        "value": 825566
       },
       {
         "name": "Stats.Plaza.TypingDerby.Playtime",
-        "value": 34248
+        "value": 34321
       },
       {
         "name": "Stats.Plaza.Bowling.Playtime",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 532246
+        "value": 532254
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1037,11 +1037,11 @@
       },
       {
         "name": "Stats.Condo.Playtime",
-        "value": 5042401
+        "value": 5046621
       },
       {
         "name": "Stats.Plaza.Fishing.Playtime",
-        "value": 88507
+        "value": 88761
       },
       {
         "name": "Stats.Plaza.Minigames.FruitEaten",
@@ -1793,7 +1793,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.BarrelofTrash",
-        "value": 35
+        "value": 36
       },
       {
         "name": "Stats.Plaza.Fishing.WoodenPalette",
@@ -1801,7 +1801,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.TrashCanLid",
-        "value": 47
+        "value": 48
       },
       {
         "name": "Stats.Plaza.Fishing.PlasticToyblock",
@@ -1837,7 +1837,7 @@
       },
       {
         "name": "Stats.Plaza.Fishing.SoggyCardboardBox",
-        "value": 40
+        "value": 41
       },
       {
         "name": "Stats.Plaza.Minigames.Chainsaw.BestScore",
@@ -1997,7 +1997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 153036
+        "value": 156883
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
