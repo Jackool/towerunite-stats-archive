@@ -9,14 +9,14 @@ URI encoding = 'ISO-8859-1'
 iconv UTF-8 -> ISO-8859-1
 iconv outlen=294 inlen=147
 converted 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137' (ISO-8859-1) -> 'https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137' (UTF-8)
---2021-05-27 16:00:01--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137
+--2021-05-27 18:00:01--  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137
 Resolving api.steampowered.com (api.steampowered.com)... 23.65.46.136
 Caching api.steampowered.com => 23.65.46.136
 Connecting to api.steampowered.com (api.steampowered.com)|23.65.46.136|:443... connected.
 Created socket 4.
-Releasing 0x000055717c218760 (new refcount 1).
+Releasing 0x000056001c722760 (new refcount 1).
 Initiating SSL handshake.
-Handshake successful; connected socket 4 to SSL handle 0x000055717c218950
+Handshake successful; connected socket 4 to SSL handle 0x000056001c722950
 certificate:
   subject: CN=store.steampowered.com,O=Valve Corp,L=Bellevue,ST=Washington,C=US,serialNumber=602 290 773,jurisdictionST=Washington,jurisdictionC=US,businessCategory=Private Organization
   issuer:  CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US
@@ -36,76 +36,26 @@ HTTP request sent, awaiting response...
 HTTP/1.1 200 OK
 Content-Type: application/json; charset=UTF-8
 Vary: Accept-Encoding
-Expires: Thu, 27 May 2021 20:08:15 GMT
-Date: Thu, 27 May 2021 20:03:35 GMT
-Content-Length: 1
-Connection: close
+Expires: Thu, 27 May 2021 22:06:08 GMT
+Date: Thu, 27 May 2021 22:01:08 GMT
+Content-Length: 36594
+Connection: keep-alive
 
 ---response end---
 
   HTTP/1.1 200 OK
   Content-Type: application/json; charset=UTF-8
   Vary: Accept-Encoding
-  Expires: Thu, 27 May 2021 20:08:15 GMT
-  Date: Thu, 27 May 2021 20:03:35 GMT
-  Content-Length: 1
-  Connection: close
-URI content encoding = 'UTF-8'
-Length: 1 [application/json]
-Saving to: '/dev/stdout'
-
-     0K                                                         0% 0.00 =0s
-
-Closed 4/SSL 0x000055717c218950
-2021-05-27 16:02:28 (0.00 B/s) - Connection closed at byte 0. Retrying.
-
---2021-05-27 16:02:29--  (try: 2)  https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137
-Found api.steampowered.com in host_name_addresses_map (0x55717c218760)
-Connecting to api.steampowered.com (api.steampowered.com)|23.65.46.136|:443... connected.
-Created socket 4.
-Releasing 0x000055717c218760 (new refcount 1).
-Initiating SSL handshake.
-Handshake successful; connected socket 4 to SSL handle 0x000055717c2188b0
-certificate:
-  subject: CN=store.steampowered.com,O=Valve Corp,L=Bellevue,ST=Washington,C=US,serialNumber=602 290 773,jurisdictionST=Washington,jurisdictionC=US,businessCategory=Private Organization
-  issuer:  CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US
-X509 certificate successfully verified and matches host api.steampowered.com
-
----request begin---
-GET /ISteamUserStats/GetUserStatsForGame/v0002/?appid=394690&key=SNIPPED&steamid=76561198096770137 HTTP/1.1
-User-Agent: Wget/1.20.3 (linux-gnu)
-Accept: */*
-Accept-Encoding: identity
-Host: api.steampowered.com
-Connection: Keep-Alive
-
----request end---
-HTTP request sent, awaiting response... 
----response begin---
-HTTP/1.1 503 Service Unavailable
-Server: AkamaiGHost
-Mime-Version: 1.0
-Content-Type: text/html
-Content-Length: 177
-Expires: Thu, 27 May 2021 20:03:40 GMT
-Date: Thu, 27 May 2021 20:03:40 GMT
-Connection: keep-alive
-
----response end---
-
-  HTTP/1.1 503 Service Unavailable
-  Server: AkamaiGHost
-  Mime-Version: 1.0
-  Content-Type: text/html
-  Content-Length: 177
-  Expires: Thu, 27 May 2021 20:03:40 GMT
-  Date: Thu, 27 May 2021 20:03:40 GMT
+  Expires: Thu, 27 May 2021 22:06:08 GMT
+  Date: Thu, 27 May 2021 22:01:08 GMT
+  Content-Length: 36594
   Connection: keep-alive
 Registered socket 4 for persistent reuse.
-Skipping 177 bytes of body: [<HTML><HEAD><TITLE>Error</TITLE></HEAD><BODY>
-An error occurred while processing your request.<p>
-Reference&#32;&#35;102&#46;250ad817&#46;1622145820&#46;b8b7627e
-</BODY></HTML>
-] done.
-2021-05-27 16:02:33 ERROR 503: Service Unavailable.
+URI content encoding = 'UTF-8'
+Length: 36594 (36K) [application/json]
+Saving to: '/dev/stdout'
+
+     0K .......... .......... .......... .....                100% 1.84M=0.02s
+
+2021-05-27 18:00:02 (1.84 MB/s) - '/dev/stdout' saved [36594/36594]
 
