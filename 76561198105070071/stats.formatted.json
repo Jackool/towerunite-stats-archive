@@ -9,7 +9,7 @@
       },
       {
         "name": "stat_lastcommand",
-        "value": 1622158953
+        "value": 1622163258
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4644018
+        "value": 4648556
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2697588
+        "value": 2700083
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 477286
+        "value": 477792
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -633,7 +633,7 @@
       },
       {
         "name": "Stats.EXP.plaza",
-        "value": 10664500
+        "value": 10677000
       },
       {
         "name": "Stats.EXP.ltag",
@@ -645,7 +645,7 @@
       },
       {
         "name": "Stats.EXP.arcade",
-        "value": 1895802
+        "value": 1897487
       },
       {
         "name": "Stats.EXP.casino",
@@ -661,7 +661,7 @@
       },
       {
         "name": "Stats.EXP.theater",
-        "value": 1906500
+        "value": 1926500
       },
       {
         "name": "Stats.EXP.minigames",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.Playtime",
-        "value": 398642
+        "value": 400231
       },
       {
         "name": "Stats.Plaza.Casino.Playtime",
@@ -1029,7 +1029,7 @@
       },
       {
         "name": "Stats.Plaza.Theater.Playtime",
-        "value": 532318
+        "value": 535242
       },
       {
         "name": "Stats.Plaza.Minigames.Playtime",
@@ -1997,7 +1997,7 @@
       },
       {
         "name": "Stats.Plaza.Arcade.PlanetaryPiano.NotesPlayed",
-        "value": 190418
+        "value": 194385
       },
       {
         "name": "Stats.Plaza.Arcade.MetMania.Wheels",
@@ -2113,7 +2113,7 @@
       },
       {
         "name": "Stats.Plaza.Nightclub.Playtime",
-        "value": 35307
+        "value": 35378
       }
     ],
     "achievements": [
