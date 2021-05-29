@@ -5,11 +5,11 @@
     "stats": [
       {
         "name": "Stats.Lobby.NumUses",
-        "value": 43023
+        "value": 43030
       },
       {
         "name": "stat_lastcommand",
-        "value": 1622253665
+        "value": 1622254111
       },
       {
         "name": "Stats.Golf.PuttTime",
@@ -25,7 +25,7 @@
       },
       {
         "name": "Stats.Stores.Cat.NumVisits",
-        "value": 260
+        "value": 261
       },
       {
         "name": "Stats.Stores.Food.NumVisits",
@@ -69,7 +69,7 @@
       },
       {
         "name": "Stats.Stores.Vending.NumVisits",
-        "value": 174
+        "value": 175
       },
       {
         "name": "Stats.Stores.Bar.NumVisits",
@@ -169,15 +169,15 @@
       },
       {
         "name": "Stats.Plaza.Playtime",
-        "value": 4651484
+        "value": 4652513
       },
       {
         "name": "Stats.Plaza.Steps",
-        "value": 2703170
+        "value": 2704840
       },
       {
         "name": "Stats.Plaza.Jumps",
-        "value": 478335
+        "value": 478509
       },
       {
         "name": "Stats.Plaza.Store.DrunkTalks",
@@ -185,7 +185,7 @@
       },
       {
         "name": "Stats.Plaza.Store.Talks",
-        "value": 997
+        "value": 999
       },
       {
         "name": "Stats.Plaza.UnitsOnBeer",
@@ -393,15 +393,15 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.ButtonKills",
-        "value": 2645
+        "value": 2649
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.FancyGhost",
-        "value": 186
+        "value": 187
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.AirKills",
-        "value": 2225
+        "value": 2226
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.NearTaunts",
@@ -409,19 +409,19 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.TeamWins",
-        "value": 4837
+        "value": 4848
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Deaths",
-        "value": 1917
+        "value": 1918
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Kills",
-        "value": 3997
+        "value": 4011
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.Wins",
-        "value": 5927
+        "value": 5938
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Dragon.Pancakes",
@@ -429,7 +429,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.BirbKills",
-        "value": 77
+        "value": 80
       },
       {
         "name": "Stats.GameW.ZombieMassacre.TeslaZapKills",
@@ -625,7 +625,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Knight.MaxRank",
-        "value": 1527
+        "value": 1533
       },
       {
         "name": "Stats.EXP.br",
@@ -697,7 +697,7 @@
       },
       {
         "name": "Stats.EXP.lc",
-        "value": 10306220
+        "value": 10320935
       },
       {
         "name": "Stats.EXP.zm",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Stats.GameW.LittleCrusaders.Playtime",
-        "value": 453462
+        "value": 454095
       },
       {
         "name": "Stats.GameW.Minigolf.Playtime",
@@ -997,7 +997,7 @@
       },
       {
         "name": "Stats.GameW.Virus.Playtime",
-        "value": 283193
+        "value": 283239
       },
       {
         "name": "Stats.GameW.ZombieMassacre.Playtime",
